@@ -1,0 +1,551 @@
+STOCK INTRINSIC STRENGTH CLASSIFICATION REPORT
+===========================================
+
+DATA SUMMARY
+-----------
+Total companies analyzed: 2002
+Companies classified as intrinsically strong: 485 (24.2%)
+
+MODEL PERFORMANCE
+----------------
+Accuracy: 0.9052
+ROC AUC: 0.9710
+PR AUC: 0.9261
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.93      0.94      0.94       304
+           1       0.81      0.79      0.80        97
+
+    accuracy                           0.91       401
+   macro avg       0.87      0.87      0.87       401
+weighted avg       0.90      0.91      0.90       401
+
+FEATURE IMPORTANCE
+----------------
+1. earnings_growth: 0.2166
+2. improving_margin: 0.1500
+3. profit_margin: 0.1458
+4. yearly_momentum_score: 0.0964
+5. operating_margin: 0.0708
+6. avg_basic_earnings_per_share: 0.0460
+7. return_on_equity: 0.0413
+8. price_to_book: 0.0324
+9. avg_diluted_earnings_per_share: 0.0288
+10. trend_strength: 0.0278
+11. price_volatility: 0.0271
+12. log_revenue: 0.0246
+13. log_profit: 0.0216
+14. high_low_ratio: 0.0197
+15. avg_vwap_distance: 0.0182
+16. stability_score: 0.0182
+17. market_cap_numeric: 0.0147
+18. working_capital_to_assets: 0.0000
+19. positive_profit: 0.0000
+20. positive_operating_cash_flow: 0.0000
+
+TOP INTRINSICALLY STRONG STOCKS
+----------------------------
+Top 50 stocks by predicted strength probability:
+
+1. RAMCOIND - Ramco Industries Limited
+   Strength Probability: 1.0000
+   Market Cap: Small
+   Industry: Other Construction Materials
+   Sector: Construction Materials
+   Sharpe Ratio: 0.3831
+   Return on Equity: 5.7248
+   Profit Margin: 0.1171
+   Year Change %: 7.54%
+
+2. KCP - KCP Limited
+   Strength Probability: 0.9999
+   Market Cap: Small
+   Industry: Cement & Cement Products
+   Sector: Construction Materials
+   Sharpe Ratio: 0.5389
+   Return on Equity: 4.7100
+   Profit Margin: 0.0962
+   Year Change %: 15.53%
+
+3. MARICO - Marico Limited
+   Strength Probability: 0.9999
+   Market Cap: Large
+   Industry: Edible Oil
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: 1.3820
+   Return on Equity: 3.3928
+   Profit Margin: 0.1621
+   Year Change %: 39.41%
+
+4. VEDL - Vedanta Limited
+   Strength Probability: 0.9999
+   Market Cap: Large
+   Industry: Diversified Metals
+   Sector: Metals & Mining
+   Sharpe Ratio: 0.2550
+   Return on Equity: 12.7054
+   Profit Margin: 0.1569
+   Year Change %: 2.59%
+
+5. ISEC - ICICI Securities Limited
+   Strength Probability: 0.9999
+   Market Cap: Large
+   Industry: Stockbroking & Allied
+   Sector: Financial Services
+   Sharpe Ratio: 1.1223
+   Return on Equity: 3.2081
+   Profit Margin: 0.3163
+   Year Change %: 24.38%
+
+6. BLS - BLS International Services Limited
+   Strength Probability: 0.9999
+   Market Cap: Mid
+   Industry: Tour Travel Related Services
+   Sector: Consumer Services
+   Sharpe Ratio: 0.4106
+   Return on Equity: 3.1932
+   Profit Margin: 0.2629
+   Year Change %: 8.56%
+
+7. KPRMILL - K.P.R. Mill Limited
+   Strength Probability: 0.9999
+   Market Cap: Large
+   Industry: Other Textile Products
+   Sector: Textiles
+   Sharpe Ratio: 0.6238
+   Return on Equity: 5.9544
+   Profit Margin: 0.1322
+   Year Change %: 17.59%
+
+8. KNRCON - KNR Constructions Limited
+   Strength Probability: 0.9998
+   Market Cap: Mid
+   Industry: Civil Construction
+   Sector: Construction
+   Sharpe Ratio: -0.0380
+   Return on Equity: 5.8923
+   Profit Margin: 0.2632
+   Year Change %: -11.00%
+
+9. SARLAPOLY - Sarla Performance Fibers Limited
+   Strength Probability: 0.9998
+   Market Cap: Small
+   Industry: Other Textile Products
+   Sector: Textiles
+   Sharpe Ratio: 1.3577
+   Return on Equity: 1.9697
+   Profit Margin: 0.1522
+   Year Change %: 46.37%
+
+10. INTLCONV - International Conveyors Limited
+   Strength Probability: 0.9998
+   Market Cap: Small
+   Industry: Industrial Products
+   Sector: Capital Goods
+   Sharpe Ratio: -0.2235
+   Return on Equity: 4.1367
+   Profit Margin: 0.8090
+   Year Change %: -17.15%
+
+11. ATLASCYCLE - Atlas Cycles (Haryana) Limited
+   Strength Probability: 0.9998
+   Market Cap: Micro
+   Industry: Cycles
+   Sector: Consumer Durables
+   Sharpe Ratio: 40.9563
+   Return on Equity: 0.8742
+   Profit Margin: 1.0291
+   Year Change %: 47.04%
+
+12. BLISSGVS - Bliss GVS Pharma Limited
+   Strength Probability: 0.9998
+   Market Cap: Small
+   Industry: Pharmaceuticals
+   Sector: Healthcare
+   Sharpe Ratio: 0.4094
+   Return on Equity: 2.3337
+   Profit Margin: 0.1203
+   Year Change %: 7.91%
+
+13. MANAPPURAM - Manappuram Finance Limited
+   Strength Probability: 0.9998
+   Market Cap: Mid
+   Industry: Non Banking Financial Company (NBFC)
+   Sector: Financial Services
+   Sharpe Ratio: 0.6386
+   Return on Equity: 2.5422
+   Profit Margin: 0.1895
+   Year Change %: 19.45%
+
+14. ASTERDM - Aster DM Healthcare Limited
+   Strength Probability: 0.9998
+   Market Cap: Large
+   Industry: Hospital
+   Sector: Healthcare
+   Sharpe Ratio: 0.0898
+   Return on Equity: 3.5410
+   Profit Margin: 1.9976
+   Year Change %: -4.29%
+
+15. NAVNETEDUL - Navneet Education Limited
+   Strength Probability: 0.9998
+   Market Cap: Small
+   Industry: Printing & Publication
+   Sector: Media Entertainment & Publication
+   Sharpe Ratio: 0.1150
+   Return on Equity: 5.6585
+   Profit Margin: 0.5597
+   Year Change %: -1.42%
+
+16. INDOBORAX - Indo Borax & Chemicals Limited
+   Strength Probability: 0.9998
+   Market Cap: Small
+   Industry: Commodity Chemicals
+   Sector: Chemicals
+   Sharpe Ratio: 0.2161
+   Return on Equity: 3.3514
+   Profit Margin: 0.2578
+   Year Change %: -0.90%
+
+17. BAJAJFINSV - Bajaj Finserv Limited
+   Strength Probability: 0.9998
+   Market Cap: Large
+   Industry: Holding Company
+   Sector: Financial Services
+   Sharpe Ratio: 0.7707
+   Return on Equity: 26.7480
+   Profit Margin: 0.1317
+   Year Change %: 17.47%
+
+18. AEGISLOG - Aegis Logistics Limited
+   Strength Probability: 0.9998
+   Market Cap: Large
+   Industry: Trading - Gas
+   Sector: Oil Gas & Consumable Fuels
+   Sharpe Ratio: 1.0333
+   Return on Equity: 4.5294
+   Profit Margin: 0.1138
+   Year Change %: 55.04%
+
+19. KANSAINER - Kansai Nerolac Paints Limited
+   Strength Probability: 0.9998
+   Market Cap: Large
+   Industry: Paints
+   Sector: Consumer Durables
+   Sharpe Ratio: -0.2285
+   Return on Equity: 4.1518
+   Profit Margin: 0.1676
+   Year Change %: -8.63%
+
+20. USHAMART - Usha Martin Limited
+   Strength Probability: 0.9998
+   Market Cap: Mid
+   Industry: Iron & Steel Products
+   Sector: Capital Goods
+   Sharpe Ratio: -0.0114
+   Return on Equity: 3.3334
+   Profit Margin: 0.1185
+   Year Change %: -8.95%
+
+21. CHOLAFIN - Cholamandalam Investment and Finance Company Limited
+   Strength Probability: 0.9998
+   Market Cap: Large
+   Industry: Non Banking Financial Company (NBFC)
+   Sector: Financial Services
+   Sharpe Ratio: 0.8677
+   Return on Equity: 5.9527
+   Profit Margin: 0.1597
+   Year Change %: 27.03%
+
+22. DRCSYSTEMS - DRC Systems India Limited
+   Strength Probability: 0.9997
+   Market Cap: Micro
+   Industry: Computers - Software & Consulting
+   Sector: Information Technology
+   Sharpe Ratio: 0.9033
+   Return on Equity: 0.2682
+   Profit Margin: 0.2202
+   Year Change %: 32.25%
+
+23. GRANULES - Granules India Limited
+   Strength Probability: 0.9997
+   Market Cap: Mid
+   Industry: Pharmaceuticals
+   Sector: Healthcare
+   Sharpe Ratio: 0.4505
+   Return on Equity: 4.8057
+   Profit Margin: 0.1064
+   Year Change %: 10.22%
+
+24. ITC - ITC Limited
+   Strength Probability: 0.9997
+   Market Cap: Large
+   Industry: Diversified FMCG
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: 0.0493
+   Return on Equity: 4.0648
+   Profit Margin: 0.2433
+   Year Change %: -1.02%
+
+25. AJAXENGG - Ajax Engineering Limited
+   Strength Probability: 0.9997
+   Market Cap: Mid
+   Industry: Construction Vehicles
+   Sector: Capital Goods
+   Sharpe Ratio: 1.0445
+   Return on Equity: 5.9545
+   Profit Margin: 0.1243
+   Year Change %: 4.58%
+
+26. PFC - Power Finance Corporation Limited
+   Strength Probability: 0.9997
+   Market Cap: Large
+   Industry: Financial Institution
+   Sector: Financial Services
+   Sharpe Ratio: 0.2966
+   Return on Equity: 1.8881
+   Profit Margin: 0.2901
+   Year Change %: 2.13%
+
+27. SUNPHARMA - Sun Pharmaceutical Industries Limited
+   Strength Probability: 0.9997
+   Market Cap: Large
+   Industry: Pharmaceuticals
+   Sector: Healthcare
+   Sharpe Ratio: 0.5568
+   Return on Equity: 12.2408
+   Profit Margin: 0.2224
+   Year Change %: 9.58%
+
+28. GODREJIND - Godrej Industries Limited
+   Strength Probability: 0.9997
+   Market Cap: Large
+   Industry: Diversified
+   Sector: Diversified
+   Sharpe Ratio: 0.9180
+   Return on Equity: 14.2742
+   Profit Margin: 0.1039
+   Year Change %: 35.43%
+
+29. ASAHIINDIA - Asahi India Glass Limited
+   Strength Probability: 0.9997
+   Market Cap: Mid
+   Industry: Auto Components & Equipments
+   Sector: Automobile and Auto Components
+   Sharpe Ratio: 0.5151
+   Return on Equity: 3.7813
+   Profit Margin: 0.0808
+   Year Change %: 12.92%
+
+30. HINDUNILVR - Hindustan Unilever Limited
+   Strength Probability: 0.9997
+   Market Cap: Large
+   Industry: Diversified FMCG
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: 0.4740
+   Return on Equity: 11.6255
+   Profit Margin: 0.1727
+   Year Change %: 7.84%
+
+31. EMAMILTD - Emami Limited
+   Strength Probability: 0.9997
+   Market Cap: Large
+   Industry: Personal Care
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: 0.9336
+   Return on Equity: 4.8950
+   Profit Margin: 0.2396
+   Year Change %: 34.49%
+
+32. BIRLAMONEY - Aditya Birla Money Limited
+   Strength Probability: 0.9997
+   Market Cap: Small
+   Industry: Stockbroking & Allied
+   Sector: Financial Services
+   Sharpe Ratio: 2.6559
+   Return on Equity: 3.8262
+   Profit Margin: 0.1847
+   Year Change %: 109.38%
+
+33. LUMAXTECH - Lumax Auto Technologies Limited
+   Strength Probability: 0.9997
+   Market Cap: Small
+   Industry: Auto Components & Equipments
+   Sector: Automobile and Auto Components
+   Sharpe Ratio: 0.5268
+   Return on Equity: 3.6555
+   Profit Margin: 0.0597
+   Year Change %: 13.81%
+
+34. TAJGVK - Taj GVK Hotels & Resorts Limited
+   Strength Probability: 0.9997
+   Market Cap: Small
+   Industry: Hotels & Resorts
+   Sector: Consumer Services
+   Sharpe Ratio: 0.5790
+   Return on Equity: 2.1901
+   Profit Margin: 0.2536
+   Year Change %: 18.29%
+
+35. SUNDARMHLD - Sundaram Finance Holdings Limited
+   Strength Probability: 0.9996
+   Market Cap: Mid
+   Industry: Investment Company
+   Sector: Financial Services
+   Sharpe Ratio: 0.7589
+   Return on Equity: 0.9154
+   Profit Margin: 2.8978
+   Year Change %: 28.96%
+
+36. INDHOTEL - The Indian Hotels Company Limited
+   Strength Probability: 0.9996
+   Market Cap: Large
+   Industry: Hotels & Resorts
+   Sector: Consumer Services
+   Sharpe Ratio: 0.9904
+   Return on Equity: 3.4552
+   Profit Margin: 0.2497
+   Year Change %: 31.97%
+
+37. FDC - FDC Limited
+   Strength Probability: 0.9996
+   Market Cap: Mid
+   Industry: Pharmaceuticals
+   Sector: Healthcare
+   Sharpe Ratio: -0.0425
+   Return on Equity: 4.6704
+   Profit Margin: 0.1411
+   Year Change %: -6.37%
+
+38. LUPIN - Lupin Limited
+   Strength Probability: 0.9996
+   Market Cap: Large
+   Industry: Pharmaceuticals
+   Sector: Healthcare
+   Sharpe Ratio: 0.8414
+   Return on Equity: 9.2223
+   Profit Margin: 0.1481
+   Year Change %: 22.38%
+
+39. GODREJCP - Godrej Consumer Products Limited
+   Strength Probability: 0.9996
+   Market Cap: Large
+   Industry: Personal Care
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: 0.2796
+   Return on Equity: 4.6936
+   Profit Margin: 0.1338
+   Year Change %: 3.92%
+
+40. HOMEFIRST - Home First Finance Company India Limited
+   Strength Probability: 0.9996
+   Market Cap: Mid
+   Industry: Housing Finance Company
+   Sector: Financial Services
+   Sharpe Ratio: 0.6064
+   Return on Equity: 5.1796
+   Profit Margin: 0.2487
+   Year Change %: 18.05%
+
+41. MANKIND - Mankind Pharma Limited
+   Strength Probability: 0.9995
+   Market Cap: Large
+   Industry: Pharmaceuticals
+   Sector: Healthcare
+   Sharpe Ratio: 0.2755
+   Return on Equity: 13.0703
+   Profit Margin: 0.1724
+   Year Change %: 3.67%
+
+42. PRICOLLTD - Pricol Limited
+   Strength Probability: 0.9995
+   Market Cap: Mid
+   Industry: Auto Components & Equipments
+   Sector: Automobile and Auto Components
+   Sharpe Ratio: 0.4161
+   Return on Equity: 3.6123
+   Profit Margin: 0.0687
+   Year Change %: 8.63%
+
+43. PANAMAPET - Panama Petrochem Limited
+   Strength Probability: 0.9995
+   Market Cap: Small
+   Industry: Lubricants
+   Sector: Oil Gas & Consumable Fuels
+   Sharpe Ratio: 0.4887
+   Return on Equity: 3.9328
+   Profit Margin: 0.0681
+   Year Change %: 12.05%
+
+44. IIFLCAPS - IIFL Capital Services Limited
+   Strength Probability: 0.9995
+   Market Cap: Mid
+   Industry: Stockbroking & Allied
+   Sector: Financial Services
+   Sharpe Ratio: 1.0034
+   Return on Equity: 3.1549
+   Profit Margin: 0.3131
+   Year Change %: 54.08%
+
+45. 360ONE - 360 ONE WAM LIMITED
+   Strength Probability: 0.9995
+   Market Cap: Large
+   Industry: Stockbroking & Allied
+   Sector: Financial Services
+   Sharpe Ratio: 0.5964
+   Return on Equity: 6.8617
+   Profit Margin: 0.3098
+   Year Change %: 17.61%
+
+46. TCI - Transport Corporation of India Limited
+   Strength Probability: 0.9995
+   Market Cap: Mid
+   Industry: Logistics Solution Provider
+   Sector: Services
+   Sharpe Ratio: 0.9020
+   Return on Equity: 6.5152
+   Profit Margin: 0.0909
+   Year Change %: 29.25%
+
+47. ALIVUS - Alivus Life Sciences Limited
+   Strength Probability: 0.9995
+   Market Cap: Mid
+   Industry: Pharmaceuticals
+   Sector: Healthcare
+   Sharpe Ratio: 0.6715
+   Return on Equity: 4.6758
+   Profit Margin: 0.1979
+   Year Change %: 22.02%
+
+48. TIMETECHNO - Time Technoplast Limited
+   Strength Probability: 0.9995
+   Market Cap: Mid
+   Industry: Plastic Products - Industrial
+   Sector: Capital Goods
+   Sharpe Ratio: 0.8067
+   Return on Equity: 4.1520
+   Profit Margin: 0.0709
+   Year Change %: 32.45%
+
+49. VIJAYA - Vijaya Diagnostic Centre Limited
+   Strength Probability: 0.9994
+   Market Cap: Mid
+   Industry: Healthcare Service Provider
+   Sector: Healthcare
+   Sharpe Ratio: 0.9653
+   Return on Equity: 3.4810
+   Profit Margin: 0.2163
+   Year Change %: 43.77%
+
+50. RAYMOND - Raymond Limited
+   Strength Probability: 0.9994
+   Market Cap: Mid
+   Industry: Residential Commercial Projects
+   Sector: Realty
+   Sharpe Ratio: -0.0653
+   Return on Equity: 66.9246
+   Profit Margin: 3.7746
+   Year Change %: -20.61%
+

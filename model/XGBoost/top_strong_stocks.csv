@@ -1,0 +1,51 @@
+symbol,company_name,company_industry,sector,strength_probability,market_cap_category,intrinsic_label,sharpe_ratio,return_on_equity,profit_margin,year_change_percent
+RAMCOIND,Ramco Industries Limited,Other Construction Materials,Construction Materials,0.99997103,Small,,0.3831,5.724763406940063,0.11707970097015347,7.54
+KCP,KCP Limited,Cement & Cement Products,Construction Materials,0.9998975,Small,,0.5389,4.71002689006102,0.09617196866788902,15.53
+MARICO,Marico Limited,Edible Oil,Fast Moving Consumer Goods,0.999892,Large,IN-M,1.382,3.3927648578811374,0.16207875570917174,39.41
+VEDL,Vedanta Limited,Diversified Metals,Metals & Mining,0.9998896,Large,IN-L,0.255,12.705372616984404,0.15687323461439698,2.59
+ISEC,ICICI Securities Limited,Stockbroking & Allied,Financial Services,0.99987924,Large,,1.1223,3.2080797697368424,0.31630082034171786,24.38
+BLS,BLS International Services Limited,Tour Travel Related Services,Consumer Services,0.9998702,Mid,IN-S,0.4106,3.1931635016511186,0.2628578820231133,8.56
+KPRMILL,K.P.R. Mill Limited,Other Textile Products,Textiles,0.9998652,Large,IN-M,0.6238,5.954359274429491,0.13218731732663622,17.59
+KNRCON,KNR Constructions Limited,Civil Construction,Construction,0.9998466,Mid,,-0.038,5.892327887116942,0.2631786062962505,-11.0
+SARLAPOLY,Sarla Performance Fibers Limited,Other Textile Products,Textiles,0.9998323,Small,,1.3577,1.969739692446606,0.15220993088725293,46.37
+INTLCONV,International Conveyors Limited,Industrial Products,Capital Goods,0.99982566,Small,,-0.2235,4.136698212407991,0.8090488431876605,-17.15
+ATLASCYCLE,Atlas Cycles (Haryana) Limited,Cycles,Consumer Durables,0.99981743,Micro,,40.9563,0.8742273747655217,1.0291413263828555,47.04
+BLISSGVS,Bliss GVS Pharma Limited,Pharmaceuticals,Healthcare,0.99980646,Small,,0.4094,2.3336821045489278,0.12031688605166505,7.91
+MANAPPURAM,Manappuram Finance Limited,Non Banking Financial Company (NBFC),Financial Services,0.9998041,Mid,IN-S,0.6386,2.542225372634729,0.18949939236671692,19.45
+ASTERDM,Aster DM Healthcare Limited,Hospital,Healthcare,0.99979824,Large,IN-S,0.0898,3.541019378603459,1.9976320980589979,-4.29
+NAVNETEDUL,Navneet Education Limited,Printing & Publication,Media Entertainment & Publication,0.9997898,Small,,0.115,5.658506580915346,0.5596819352124328,-1.42
+INDOBORAX,Indo Borax & Chemicals Limited,Commodity Chemicals,Chemicals,0.9997831,Small,,0.2161,3.3514386620961885,0.25781636428288907,-0.9
+BAJAJFINSV,Bajaj Finserv Limited,Holding Company,Financial Services,0.99977833,Large,IN-L,0.7707,26.74798888401345,0.13166630805011195,17.47
+AEGISLOG,Aegis Logistics Limited,Trading - Gas,Oil Gas & Consumable Fuels,0.9997638,Large,IN-S,1.0333,4.529439696106363,0.1138430472080467,55.04
+KANSAINER,Kansai Nerolac Paints Limited,Paints,Consumer Durables,0.99975866,Large,,-0.2285,4.15182253010061,0.1676400857763156,-8.63
+USHAMART,Usha Martin Limited,Iron & Steel Products,Capital Goods,0.9997538,Mid,,-0.0114,3.3334424798079025,0.11846412834357352,-8.95
+CHOLAFIN,Cholamandalam Investment and Finance Company Limited,Non Banking Financial Company (NBFC),Financial Services,0.9997514,Large,IN-L,0.8677,5.952745292368682,0.15973906952029238,27.03
+DRCSYSTEMS,DRC Systems India Limited,Computers - Software & Consulting,Information Technology,0.9997453,Micro,,0.9033,0.2682393179589066,0.22015356671070013,32.25
+GRANULES,Granules India Limited,Pharmaceuticals,Healthcare,0.9997335,Mid,,0.4505,4.8057010849387405,0.10641472343620734,10.22
+ITC,ITC Limited,Diversified FMCG,Fast Moving Consumer Goods,0.9997216,Large,IN-L,0.0493,4.0647930887372015,0.24328514581134017,-1.02
+AJAXENGG,Ajax Engineering Limited,Construction Vehicles,Capital Goods,0.9997197,Mid,,1.0445,5.9545494274975965,0.12427715085246033,4.58
+PFC,Power Finance Corporation Limited,Financial Institution,Financial Services,0.9997154,Large,IN-L,0.2966,1.8880579602521217,0.29011893307047415,2.13
+SUNPHARMA,Sun Pharmaceutical Industries Limited,Pharmaceuticals,Healthcare,0.9997149,Large,IN-L,0.5568,12.240820239236443,0.22238538501145902,9.58
+GODREJIND,Godrej Industries Limited,Diversified,Diversified,0.9997111,Large,IN-M,0.918,14.274175987330496,0.10391620525561839,35.43
+ASAHIINDIA,Asahi India Glass Limited,Auto Components & Equipments,Automobile and Auto Components,0.9997029,Mid,,0.5151,3.781297134238311,0.0807610758381557,12.92
+HINDUNILVR,Hindustan Unilever Limited,Diversified FMCG,Fast Moving Consumer Goods,0.99968886,Large,IN-L,0.474,11.625531914893617,0.17272554846051716,7.84
+EMAMILTD,Emami Limited,Personal Care,Fast Moving Consumer Goods,0.9996755,Large,IN-M,0.9336,4.894998090874379,0.23959929727507198,34.49
+BIRLAMONEY,Aditya Birla Money Limited,Stockbroking & Allied,Financial Services,0.99967456,Small,,2.6559,3.826234169188388,0.1846837612678021,109.38
+LUMAXTECH,Lumax Auto Technologies Limited,Auto Components & Equipments,Automobile and Auto Components,0.9996666,Small,,0.5268,3.655489124454389,0.05970535176813861,13.81
+TAJGVK,Taj GVK Hotels & Resorts Limited,Hotels & Resorts,Consumer Services,0.9996586,Small,,0.579,2.1900584795321634,0.25357010956543147,18.29
+SUNDARMHLD,Sundaram Finance Holdings Limited,Investment Company,Financial Services,0.9996493,Mid,,0.7589,0.9153741028594138,2.8978325319751423,28.96
+INDHOTEL,The Indian Hotels Company Limited,Hotels & Resorts,Consumer Services,0.99964595,Large,IN-L,0.9904,3.455177743431221,0.24967509391816428,31.97
+FDC,FDC Limited,Pharmaceuticals,Healthcare,0.99961275,Mid,IN-Mi,-0.0425,4.670409270519829,0.14114120189866414,-6.37
+LUPIN,Lupin Limited,Pharmaceuticals,Healthcare,0.9996,Large,IN-M,0.8414,9.22234808345818,0.14810833078552205,22.38
+GODREJCP,Godrej Consumer Products Limited,Personal Care,Fast Moving Consumer Goods,0.99957246,Large,IN-L,0.2796,4.693551015087822,0.13377898152947054,3.92
+HOMEFIRST,Home First Finance Company India Limited,Housing Finance Company,Financial Services,0.9995623,Mid,,0.6064,5.179563788467284,0.24870481187717547,18.05
+MANKIND,Mankind Pharma Limited,Pharmaceuticals,Healthcare,0.9995413,Large,IN-M,0.2755,13.070275168891085,0.17244370337600395,3.67
+PRICOLLTD,Pricol Limited,Auto Components & Equipments,Automobile and Auto Components,0.99951994,Mid,IN-Mi,0.4161,3.61231583812626,0.06870105643079262,8.63
+PANAMAPET,Panama Petrochem Limited,Lubricants,Oil Gas & Consumable Fuels,0.99950993,Small,,0.4887,3.9327823691460058,0.06805678708656313,12.05
+IIFLCAPS,IIFL Capital Services Limited,Stockbroking & Allied,Financial Services,0.9995059,Mid,IN-Mi,1.0034,3.154853389059767,0.3131099958369952,54.08
+360ONE,360 ONE WAM LIMITED,Stockbroking & Allied,Financial Services,0.99948573,Large,IN-M,0.5964,6.861725961107625,0.3097579624018479,17.61
+TCI,Transport Corporation of India Limited,Logistics Solution Provider,Services,0.9994838,Mid,,0.902,6.515151515151516,0.0908542106851796,29.25
+ALIVUS,Alivus Life Sciences Limited,Pharmaceuticals,Healthcare,0.9994759,Mid,,0.6715,4.67584809162382,0.19786524103816236,22.02
+TIMETECHNO,Time Technoplast Limited,Plastic Products - Industrial,Capital Goods,0.99947315,Mid,IN-Mi,0.8067,4.1520493609519615,0.07086460179875687,32.45
+VIJAYA,Vijaya Diagnostic Centre Limited,Healthcare Service Provider,Healthcare,0.99943274,Mid,,0.9653,3.4810166055975675,0.21630598982197746,43.77
+RAYMOND,Raymond Limited,Residential Commercial Projects,Realty,0.999418,Mid,,-0.0653,66.92464312546956,3.7745803865401637,-20.61

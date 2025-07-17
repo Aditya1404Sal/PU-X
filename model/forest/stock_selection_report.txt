@@ -1,0 +1,1045 @@
+NSE STOCK SELECTION REPORT
+=======================
+
+MODEL PERFORMANCE
+-----------------
+              precision    recall  f1-score   support
+
+           0       0.81      0.54      0.65        24
+           1       0.40      0.64      0.49        22
+           2       0.58      0.32      0.41        22
+           3       0.78      0.86      0.82        49
+
+    accuracy                           0.65       117
+   macro avg       0.64      0.59      0.59       117
+weighted avg       0.68      0.65      0.64       117
+
+
+TOP FEATURES BY IMPORTANCE
+-------------------------
+avg_comprehensive_income: 0.1513
+avg_profit_loss_for_period: 0.1468
+avg_revenue_from_operations: 0.0951
+financial_health: 0.0776
+stability_score: 0.0686
+price_stability: 0.0428
+return_on_equity: 0.0380
+profit_margin: 0.0374
+volatility: 0.0372
+avg_finance_costs: 0.0368
+
+
+SELECTED COMPANIES BY CATEGORY
+----------------------------
+
+NIN-L - TOP 50 COMPANIES:
+1. BLUECOAST - Blue Coast Hotels Limited
+   Combined Score: 0.3750
+   Classification Probability: 0.1500
+   Financial Score: 3520.1703
+   Financial Health: 10554.6927
+2. TVSHLTD - TVS Holdings Limited
+   Combined Score: 0.3447
+   Classification Probability: 0.4700
+   Financial Score: 37.7532
+   Financial Health: 5581500000.6449
+3. CHOLAHLDNG - Cholamandalam Financial Holdings Limited
+   Combined Score: 0.3439
+   Classification Probability: 0.5200
+   Financial Score: 58.9676
+   Financial Health: 4035326668.5308
+4. EIDPARRY - EID Parry India Limited
+   Combined Score: 0.2772
+   Classification Probability: 0.3400
+   Financial Score: 23.2378
+   Financial Health: 5510553334.9242
+5. CHENNPETRO - Chennai Petroleum Corporation Limited
+   Combined Score: 0.2667
+   Classification Probability: 0.1200
+   Financial Score: -3.0959
+   Financial Health: 11215364443.8688
+6. ISEC - ICICI Securities Limited
+   Combined Score: 0.2120
+   Classification Probability: 0.3800
+   Financial Score: 4.1008
+   Financial Health: 822218336.0049
+7. PSB - Punjab & Sind Bank
+   Combined Score: 0.2119
+   Classification Probability: 0.4100
+   Financial Score: -1.3762
+   Financial Health: -1.4298
+8. DHANBANK - Dhanlaxmi Bank Limited
+   Combined Score: 0.1769
+   Classification Probability: 0.3400
+   Financial Score: -0.9203
+   Financial Health: -1.1985
+9. IOB - Indian Overseas Bank
+   Combined Score: 0.1769
+   Classification Probability: 0.3400
+   Financial Score: -1.1256
+   Financial Health: -1.2800
+10. SURYODAY - Suryoday Small Finance Bank Limited
+   Combined Score: 0.1769
+   Classification Probability: 0.3400
+   Financial Score: -1.4218
+   Financial Health: -1.5511
+11. RAYMOND - Raymond Limited
+   Combined Score: 0.1719
+   Classification Probability: 0.3000
+   Financial Score: 66.5312
+   Financial Health: 524424445.5185
+12. JINDALSAW - Jindal Saw Limited
+   Combined Score: 0.1693
+   Classification Probability: 0.2300
+   Financial Score: 4.9694
+   Financial Health: 2630383332.5678
+13. UCOBANK - UCO Bank
+   Combined Score: 0.1669
+   Classification Probability: 0.3200
+   Financial Score: -1.2445
+   Financial Health: -1.3956
+14. CENTRALBK - Central Bank of India
+   Combined Score: 0.1619
+   Classification Probability: 0.3100
+   Financial Score: -1.1159
+   Financial Health: -1.2601
+15. NDLVENTURE - NDL Ventures Limited
+   Combined Score: 0.1569
+   Classification Probability: 0.3000
+   Financial Score: -0.8786
+   Financial Health: -0.6444
+16. FINOPB - Fino Payments Bank Limited
+   Combined Score: 0.1519
+   Classification Probability: 0.2900
+   Financial Score: -0.9797
+   Financial Health: -0.4649
+17. RBLBANK - RBL Bank Limited
+   Combined Score: 0.1519
+   Classification Probability: 0.2900
+   Financial Score: -1.0971
+   Financial Health: -1.1153
+18. UTKARSHBNK - Utkarsh Small Finance Bank Limited
+   Combined Score: 0.1518
+   Classification Probability: 0.2900
+   Financial Score: -2.2135
+   Financial Health: -2.9404
+19. AIIL - Authum Investment & Infrastructure Limited
+   Combined Score: 0.1402
+   Classification Probability: 0.2400
+   Financial Score: 47.3014
+   Financial Health: 521087001.4828
+20. SABTNL - Sri Adhikari Brothers Television Network Limited
+   Combined Score: 0.1219
+   Classification Probability: 0.2300
+   Financial Score: -1.5102
+   Financial Health: 1573288.7409
+21. CAPITALSFB - Capital Small Finance Bank Limited
+   Combined Score: 0.1169
+   Classification Probability: 0.2200
+   Financial Score: -1.1409
+   Financial Health: -1.5992
+22. SAMMAANCAP - Sammaan Capital Limited
+   Combined Score: 0.1128
+   Classification Probability: 0.1600
+   Financial Score: -6.6070
+   Financial Health: 1476817776.5083
+23. NAGAFERT - Nagarjuna Fertilizers and Chemicals Limited
+   Combined Score: 0.1125
+   Classification Probability: 0.2000
+   Financial Score: 15.5822
+   Financial Health: 234406266.4708
+24. ESAFSFB - ESAF Small Finance Bank Limited
+   Combined Score: 0.1068
+   Classification Probability: 0.2000
+   Financial Score: -2.5444
+   Financial Health: -3.9916
+25. KANSAINER - Kansai Nerolac Paints Limited
+   Combined Score: 0.1002
+   Classification Probability: 0.1500
+   Financial Score: 3.8594
+   Financial Health: 1001053332.8831
+26. LINC - Linc Limited
+   Combined Score: 0.0991
+   Classification Probability: 0.1800
+   Financial Score: -2.9834
+   Financial Health: 129850698.4965
+27. PNCINFRA - PNC Infratech Limited
+   Combined Score: 0.0973
+   Classification Probability: 0.1400
+   Financial Score: 3.2197
+   Financial Health: 1125461310.2794
+28. KIRLOSIND - Kirloskar Industries Limited
+   Combined Score: 0.0910
+   Classification Probability: 0.1300
+   Financial Score: -3.0363
+   Financial Health: 1080053332.8001
+29. REMSONSIND - Remsons Industries Limited
+   Combined Score: 0.0883
+   Classification Probability: 0.1600
+   Financial Score: -3.9570
+   Financial Health: 90133031.9655
+30. BALAXI - BALAXI PHARMACEUTICALS LIMITED
+   Combined Score: 0.0881
+   Classification Probability: 0.1600
+   Financial Score: -2.3589
+   Financial Health: 72098365.7428
+31. GLFL - Gujarat Lease Financing Limited
+   Combined Score: 0.0870
+   Classification Probability: 0.1600
+   Financial Score: 0.0002
+   Financial Health: 0.0001
+32. SBGLP - Suratwwala Business Group Limited
+   Combined Score: 0.0869
+   Classification Probability: 0.1600
+   Financial Score: -1.9908
+   Financial Health: 3972298.6789
+33. NETWORK18 - Network18 Media & Investments Limited
+   Combined Score: 0.0868
+   Classification Probability: 0.1100
+   Financial Score: -2.8427
+   Financial Health: 1405911108.9747
+34. KICL - Kalyani Investment Company Limited
+   Combined Score: 0.0868
+   Classification Probability: 0.1600
+   Financial Score: -6.1209
+   Financial Health: 18928000.8768
+35. VTL - Vardhman Textiles Limited
+   Combined Score: 0.0861
+   Classification Probability: 0.1000
+   Financial Score: 3.6570
+   Financial Health: 1616957778.0427
+36. KAUSHALYA - Kaushalya Infrastructure Development Corporation Limited
+   Combined Score: 0.0859
+   Classification Probability: 0.1500
+   Financial Score: 47.4359
+   Financial Health: 64415.1337
+37. RUSHIL - Rushil Decor Limited
+   Combined Score: 0.0858
+   Classification Probability: 0.1500
+   Financial Score: -2.1295
+   Financial Health: 222403665.4583
+38. GAYAHWS - Gayatri Highways Limited
+   Combined Score: 0.0828
+   Classification Probability: 0.1600
+   Financial Score: -51.4143
+   Financial Health: 3006781.0182
+39. GVKPIL - GVK Power & Infrastructure Limited
+   Combined Score: 0.0816
+   Classification Probability: 0.1400
+   Financial Score: 0.7848
+   Financial Health: 252686663.9581
+40. CINEVISTA - Cinevista Limited
+   Combined Score: 0.0800
+   Classification Probability: 0.1600
+   Financial Score: -84.0943
+   Financial Health: 46041.1632
+41. CANFINHOME - Can Fin Homes Limited
+   Combined Score: 0.0790
+   Classification Probability: 0.1200
+   Financial Score: 6.6716
+   Financial Health: 639928110.3142
+42. BHAGCHEM - Bhagiradha Chemicals & Industries Limited
+   Combined Score: 0.0786
+   Classification Probability: 0.1400
+   Financial Score: -3.1901
+   Financial Health: 105950633.0296
+43. PREMEXPLN - Premier Explosives Limited
+   Combined Score: 0.0776
+   Classification Probability: 0.1400
+   Financial Score: -9.5174
+   Financial Health: 76304132.6282
+44. SUMMITSEC - Summit Securities Limited
+   Combined Score: 0.0775
+   Classification Probability: 0.1400
+   Financial Score: -2.2041
+   Financial Health: 39692534.5413
+45. TMB - Tamilnad Mercantile Bank Limited
+   Combined Score: 0.0769
+   Classification Probability: 0.1400
+   Financial Score: -0.9165
+   Financial Health: -1.7867
+46. NSIL - Nalwa Sons Investments Limited
+   Combined Score: 0.0769
+   Classification Probability: 0.1400
+   Financial Score: -9.3267
+   Financial Health: 37646735.0107
+47. RVTH - Revathi Equipment India Limited
+   Combined Score: 0.0766
+   Classification Probability: 0.1400
+   Financial Score: -13.4535
+   Financial Health: 38010493.2140
+48. ATLASCYCLE - Atlas Cycles (Haryana) Limited
+   Combined Score: 0.0757
+   Classification Probability: 0.1300
+   Financial Score: 42.7196
+   Financial Health: 5524923.1774
+49. JSWHL - JSW Holdings Limited
+   Combined Score: 0.0742
+   Classification Probability: 0.1400
+   Financial Score: -43.9015
+   Financial Health: 48583869.6911
+50. JPPOWER - Jaiprakash Power Ventures Limited
+   Combined Score: 0.0733
+   Classification Probability: 0.1000
+   Financial Score: -0.3859
+   Financial Health: 915839999.3255
+
+
+NIN-M - TOP 50 COMPANIES:
+1. FLEXITUFF - Flexituff Ventures International Limited
+   Combined Score: 0.4377
+   Classification Probability: 0.2700
+   Financial Score: 12749.8556
+   Financial Health: 152030563.3552
+2. BBTC - Bombay Burmah Trading Corporation Limited
+   Combined Score: 0.4254
+   Classification Probability: 0.8100
+   Financial Score: 11.4418
+   Financial Health: 1071844711.7491
+3. GPIL - Godawari Power And Ispat limited
+   Combined Score: 0.4076
+   Classification Probability: 0.7900
+   Financial Score: -1.3623
+   Financial Health: 651274999.2056
+4. JINDALSAW - Jindal Saw Limited
+   Combined Score: 0.4031
+   Classification Probability: 0.7100
+   Financial Score: 4.9694
+   Financial Health: 2630383332.5678
+5. JUBLPHARMA - Jubilant Pharmova Limited
+   Combined Score: 0.3874
+   Classification Probability: 0.7300
+   Financial Score: 13.7624
+   Financial Health: 1179044445.7126
+6. PGHH - Procter & Gamble Hygiene and Health Care Limited
+   Combined Score: 0.3810
+   Classification Probability: 0.7400
+   Financial Score: -5.3553
+   Financial Health: 564159998.6989
+7. DEEPAKFERT - Deepak Fertilizers and Petrochemicals Corporation Limited
+   Combined Score: 0.3762
+   Classification Probability: 0.6900
+   Financial Score: 1.1221
+   Financial Health: 1690460001.9311
+8. JBCHEPHARM - JB Chemicals & Pharmaceuticals Limited
+   Combined Score: 0.3749
+   Classification Probability: 0.7300
+   Financial Score: 9.6942
+   Financial Health: 486069999.4685
+9. ESAFSFB - ESAF Small Finance Bank Limited
+   Combined Score: 0.3460
+   Classification Probability: 0.6900
+   Financial Score: -2.5444
+   Financial Health: -3.9916
+10. CHENNPETRO - Chennai Petroleum Corporation Limited
+   Combined Score: 0.3410
+   Classification Probability: 0.2800
+   Financial Score: -3.0959
+   Financial Health: 11215364443.8688
+11. EIDPARRY - EID Parry India Limited
+   Combined Score: 0.3298
+   Classification Probability: 0.4600
+   Financial Score: 23.2378
+   Financial Health: 5510553334.9242
+12. TVSHLTD - TVS Holdings Limited
+   Combined Score: 0.3264
+   Classification Probability: 0.4500
+   Financial Score: 37.7532
+   Financial Health: 5581500000.6449
+13. SUNDRMFAST - Sundram Fasteners Limited
+   Combined Score: 0.3243
+   Classification Probability: 0.6200
+   Financial Score: 4.2508
+   Financial Health: 737471664.9998
+14. BASF - BASF India Limited
+   Combined Score: 0.3064
+   Classification Probability: 0.5400
+   Financial Score: -8.5480
+   Financial Health: 1995548334.0826
+15. KANSAINER - Kansai Nerolac Paints Limited
+   Combined Score: 0.3040
+   Classification Probability: 0.5700
+   Financial Score: 3.8594
+   Financial Health: 1001053332.8831
+16. TANLA - Tanla Platforms Limited
+   Combined Score: 0.2881
+   Classification Probability: 0.5500
+   Financial Score: 6.5864
+   Financial Health: 667412598.0783
+17. AIIL - Authum Investment & Infrastructure Limited
+   Combined Score: 0.2864
+   Classification Probability: 0.5500
+   Financial Score: 47.3014
+   Financial Health: 521087001.4828
+18. TMB - Tamilnad Mercantile Bank Limited
+   Combined Score: 0.2860
+   Classification Probability: 0.5700
+   Financial Score: -0.9165
+   Financial Health: -1.7867
+19. UTKARSHBNK - Utkarsh Small Finance Bank Limited
+   Combined Score: 0.2810
+   Classification Probability: 0.5600
+   Financial Score: -2.2135
+   Financial Health: -2.9404
+20. CHOLAHLDNG - Cholamandalam Financial Holdings Limited
+   Combined Score: 0.2794
+   Classification Probability: 0.4100
+   Financial Score: 58.9676
+   Financial Health: 4035326668.5308
+21. NAVA - NAVA LIMITED
+   Combined Score: 0.2766
+   Classification Probability: 0.5400
+   Financial Score: 5.5775
+   Financial Health: 305490817.2461
+22. EMCURE - Emcure Pharmaceuticals Limited
+   Combined Score: 0.2682
+   Classification Probability: 0.5000
+   Financial Score: -1.9498
+   Financial Health: 963291998.2764
+23. JPPOWER - Jaiprakash Power Ventures Limited
+   Combined Score: 0.2624
+   Classification Probability: 0.4900
+   Financial Score: -0.3859
+   Financial Health: 915839999.3255
+24. ABSLAMC - Aditya Birla Sun Life AMC Limited
+   Combined Score: 0.2610
+   Classification Probability: 0.5100
+   Financial Score: 2.0012
+   Financial Health: 276153334.6479
+25. CEATLTD - CEAT Limited
+   Combined Score: 0.2599
+   Classification Probability: 0.4400
+   Financial Score: 1.1346
+   Financial Health: 2177166667.3906
+26. CANFINHOME - Can Fin Homes Limited
+   Combined Score: 0.2576
+   Classification Probability: 0.4900
+   Financial Score: 6.6716
+   Financial Health: 639928110.3142
+27. UTIAMC - UTI Asset Management Company Limited
+   Combined Score: 0.2569
+   Classification Probability: 0.5000
+   Financial Score: 1.3102
+   Financial Health: 330044445.3741
+28. FINPIPE - Finolex Industries Limited
+   Combined Score: 0.2528
+   Classification Probability: 0.4800
+   Financial Score: 0.6825
+   Financial Health: 660035554.5939
+29. CENTRALBK - Central Bank of India
+   Combined Score: 0.2510
+   Classification Probability: 0.5000
+   Financial Score: -1.1159
+   Financial Health: -1.2601
+30. UCOBANK - UCO Bank
+   Combined Score: 0.2410
+   Classification Probability: 0.4800
+   Financial Score: -1.2445
+   Financial Health: -1.3956
+31. CAPLIPOINT - Caplin Point Laboratories Limited
+   Combined Score: 0.2369
+   Classification Probability: 0.4600
+   Financial Score: 6.3933
+   Financial Health: 318893334.6090
+32. IOB - Indian Overseas Bank
+   Combined Score: 0.2360
+   Classification Probability: 0.4700
+   Financial Score: -1.1256
+   Financial Health: -1.2800
+33. NAVNETEDUL - Navneet Education Limited
+   Combined Score: 0.2342
+   Classification Probability: 0.4500
+   Financial Score: 6.2462
+   Financial Health: 450646133.6991
+34. RAYMOND - Raymond Limited
+   Combined Score: 0.2319
+   Classification Probability: 0.4400
+   Financial Score: 66.5312
+   Financial Health: 524424445.5185
+35. KNRCON - KNR Constructions Limited
+   Combined Score: 0.2261
+   Classification Probability: 0.4200
+   Financial Score: 5.6387
+   Financial Health: 839545866.7077
+36. BLUECOAST - Blue Coast Hotels Limited
+   Combined Score: 0.2236
+   Classification Probability: 0.2800
+   Financial Score: 3520.1703
+   Financial Health: 10554.6927
+37. SCI - Shipping Corporation Of India Limited
+   Combined Score: 0.2230
+   Classification Probability: 0.4100
+   Financial Score: 0.1133
+   Financial Health: 951206666.6114
+38. APLLTD - Alembic Pharmaceuticals Limited
+   Combined Score: 0.2202
+   Classification Probability: 0.4000
+   Financial Score: 2.6929
+   Financial Health: 1070283777.6022
+39. VTL - Vardhman Textiles Limited
+   Combined Score: 0.2199
+   Classification Probability: 0.3800
+   Financial Score: 3.6570
+   Financial Health: 1616957778.0427
+40. DCMSHRIRAM - DCM Shriram Limited
+   Combined Score: 0.2197
+   Classification Probability: 0.3600
+   Financial Score: 4.2927
+   Financial Health: 2160444445.0152
+41. MAITHANALL - Maithan Alloys Limited
+   Combined Score: 0.2193
+   Classification Probability: 0.4200
+   Financial Score: 6.5914
+   Financial Health: 456793332.4231
+42. JSWHL - JSW Holdings Limited
+   Combined Score: 0.2159
+   Classification Probability: 0.4300
+   Financial Score: -43.9015
+   Financial Health: 48583869.6911
+43. RATNAMANI - Ratnamani Metals & Tubes Limited
+   Combined Score: 0.2114
+   Classification Probability: 0.4000
+   Financial Score: 4.0118
+   Financial Health: 578554733.0814
+44. MAHSEAMLES - Maharashtra Seamless Limited
+   Combined Score: 0.2113
+   Classification Probability: 0.3900
+   Financial Score: 1.5322
+   Financial Health: 855755554.7507
+45. QUESS - Quess Corp Limited
+   Combined Score: 0.2101
+   Classification Probability: 0.3000
+   Financial Score: 0.3730
+   Financial Health: 3312018444.8181
+46. SARDAEN - Sarda Energy & Minerals Limited
+   Combined Score: 0.2097
+   Classification Probability: 0.3900
+   Financial Score: 6.5808
+   Financial Health: 756446668.7258
+47. PSB - Punjab & Sind Bank
+   Combined Score: 0.2060
+   Classification Probability: 0.4100
+   Financial Score: -1.3762
+   Financial Health: -1.4298
+48. PFIZER - Pfizer Limited
+   Combined Score: 0.2060
+   Classification Probability: 0.4000
+   Financial Score: -2.8248
+   Financial Health: 281573333.6136
+49. ZFCVINDIA - ZF Commercial Vehicle Control Systems India Limited
+   Combined Score: 0.2042
+   Classification Probability: 0.3900
+   Financial Score: -8.8572
+   Financial Health: 469847583.2983
+50. GMDCLTD - Gujarat Mineral Development Corporation Limited
+   Combined Score: 0.1992
+   Classification Probability: 0.3800
+   Financial Score: 1.5582
+   Financial Health: 458791110.4863
+
+
+NIN-S - TOP 50 COMPANIES:
+1. JINDALPHOT - Jindal Photo Limited
+   Combined Score: 0.4450
+   Classification Probability: 0.2900
+   Financial Score: 108.3940
+   Financial Health: 640031.2960
+2. CHENNPETRO - Chennai Petroleum Corporation Limited
+   Combined Score: 0.3518
+   Classification Probability: 0.2800
+   Financial Score: -3.0959
+   Financial Health: 11215364443.8688
+3. LTFOODS - LT Foods Limited
+   Combined Score: 0.3487
+   Classification Probability: 0.5800
+   Financial Score: 5.1437
+   Financial Health: 1434023357.3237
+4. GOKULAGRO - Gokul Agro Resources Limited
+   Combined Score: 0.3268
+   Classification Probability: 0.4300
+   Financial Score: 3.1818
+   Financial Health: 4696997068.3206
+5. GODREJAGRO - Godrej Agrovet Limited
+   Combined Score: 0.3162
+   Classification Probability: 0.5300
+   Financial Score: 1.0376
+   Financial Health: 1610917779.9314
+6. SUVENPHAR - Suven Pharmaceuticals Limited
+   Combined Score: 0.3121
+   Classification Probability: 0.5800
+   Financial Score: -0.0346
+   Financial Health: 132593502.3947
+7. JKTYRE - JK Tyre & Industries Limited
+   Combined Score: 0.2962
+   Classification Probability: 0.4700
+   Financial Score: 0.9363
+   Financial Health: 2183864443.1008
+8. CUB - City Union Bank Limited
+   Combined Score: 0.2906
+   Classification Probability: 0.5400
+   Financial Score: 0.2907
+   Financial Health: 0.7400
+9. CGCL - Capri Global Capital Limited
+   Combined Score: 0.2849
+   Classification Probability: 0.5100
+   Financial Score: 0.3877
+   Financial Health: 508899110.5599
+10. POLYMED - Poly Medicure Limited
+   Combined Score: 0.2762
+   Classification Probability: 0.5100
+   Financial Score: -0.8679
+   Financial Health: 204833901.1170
+11. JMFINANCIL - JM Financial Limited
+   Combined Score: 0.2718
+   Classification Probability: 0.4600
+   Financial Score: 3.3422
+   Financial Health: 749711111.8386
+12. GRANULES - Granules India Limited
+   Combined Score: 0.2697
+   Classification Probability: 0.4500
+   Financial Score: 4.5900
+   Financial Health: 729817556.1852
+13. UFLEX - UFLEX Limited
+   Combined Score: 0.2662
+   Classification Probability: 0.4000
+   Financial Score: 0.5785
+   Financial Health: 2516776667.3438
+14. GPPL - Gujarat Pipavav Port Limited
+   Combined Score: 0.2661
+   Classification Probability: 0.4900
+   Financial Score: -0.6454
+   Financial Health: 163534221.0293
+15. QUESS - Quess Corp Limited
+   Combined Score: 0.2648
+   Classification Probability: 0.3700
+   Financial Score: 0.3730
+   Financial Health: 3312018444.8181
+16. PNCINFRA - PNC Infratech Limited
+   Combined Score: 0.2582
+   Classification Probability: 0.4200
+   Financial Score: 3.2197
+   Financial Health: 1125461310.2794
+17. BGRENERGY - BGR Energy Systems Limited
+   Combined Score: 0.2580
+   Classification Probability: 0.4600
+   Financial Score: 1.6808
+   Financial Health: 214940005.2052
+18. SARDAEN - Sarda Energy & Minerals Limited
+   Combined Score: 0.2553
+   Classification Probability: 0.4100
+   Financial Score: 6.5808
+   Financial Health: 756446668.7258
+19. DCMSHRIRAM - DCM Shriram Limited
+   Combined Score: 0.2544
+   Classification Probability: 0.3700
+   Financial Score: 4.2927
+   Financial Health: 2160444445.0152
+20. SUMICHEM - Sumitomo Chemical India Limited
+   Combined Score: 0.2450
+   Classification Probability: 0.4300
+   Financial Score: 1.0833
+   Financial Health: 411517168.4045
+21. MTNL - Mahanagar Telephone Nigam Limited
+   Combined Score: 0.2436
+   Classification Probability: 0.4700
+   Financial Score: -5.5509
+   Financial Health: 176048999.1076
+22. TECHNOE - Techno Electric & Engineering Company Limited
+   Combined Score: 0.2416
+   Classification Probability: 0.4200
+   Financial Score: 2.3299
+   Financial Health: 322859622.9770
+23. HATSUN - Hatsun Agro Product Limited
+   Combined Score: 0.2405
+   Classification Probability: 0.3900
+   Financial Score: 2.5054
+   Financial Health: 1076151666.7644
+24. GALLANTT - Gallantt Ispat Limited
+   Combined Score: 0.2380
+   Classification Probability: 0.4000
+   Financial Score: 2.1066
+   Financial Health: 715685202.7197
+25. RPSGVENT - RPSG VENTURES LIMITED
+   Combined Score: 0.2377
+   Classification Probability: 0.3500
+   Financial Score: 0.3478
+   Financial Health: 2355696667.2894
+26. JUSTDIAL - Just Dial Limited
+   Combined Score: 0.2353
+   Classification Probability: 0.4200
+   Financial Score: 0.8002
+   Financial Health: 189495555.8338
+27. GRAPHITE - Graphite India Limited
+   Combined Score: 0.2336
+   Classification Probability: 0.4000
+   Financial Score: 2.4153
+   Financial Health: 420888888.0331
+28. RTNINDIA - RattanIndia Enterprises Limited
+   Combined Score: 0.2332
+   Classification Probability: 0.3800
+   Financial Score: -0.4640
+   Financial Health: 1381365554.5105
+29. ENGINERSIN - Engineers India Limited
+   Combined Score: 0.2326
+   Classification Probability: 0.4100
+   Financial Score: -0.1837
+   Financial Health: 461635133.0286
+30. RAYMONDLSL - Raymond Lifestyle Limited
+   Combined Score: 0.2324
+   Classification Probability: 0.4000
+   Financial Score: -3.1098
+   Financial Health: 1154156663.8149
+31. GNFC - Gujarat Narmada Valley Fertilizers and Chemicals Limited
+   Combined Score: 0.2314
+   Classification Probability: 0.3800
+   Financial Score: -0.5897
+   Financial Health: 1297111109.6417
+32. ELECTHERM - Electrotherm (India) Limited
+   Combined Score: 0.2312
+   Classification Probability: 0.3300
+   Financial Score: 11.1512
+   Financial Health: 984763335.3391
+33. APLLTD - Alembic Pharmaceuticals Limited
+   Combined Score: 0.2309
+   Classification Probability: 0.3700
+   Financial Score: 2.6929
+   Financial Health: 1070283777.6022
+34. TNTELE - Tamilnadu Telecommunication Limited
+   Combined Score: 0.2290
+   Classification Probability: 0.4200
+   Financial Score: -0.3155
+   Financial Health: -0.2724
+35. MBLINFRA - MBL Infrastructure Limited
+   Combined Score: 0.2279
+   Classification Probability: 0.4000
+   Financial Score: 2.9018
+   Financial Health: 32383334.1100
+36. ELECON - Elecon Engineering Company Limited
+   Combined Score: 0.2271
+   Classification Probability: 0.4000
+   Financial Score: 0.6341
+   Financial Health: 317642221.6058
+37. AAVAS - Aavas Financiers Limited
+   Combined Score: 0.2268
+   Classification Probability: 0.3900
+   Financial Score: 2.0192
+   Financial Health: 381842713.0571
+38. INDIACEM - The India Cements Limited
+   Combined Score: 0.2265
+   Classification Probability: 0.3900
+   Financial Score: -0.0593
+   Financial Health: 666526667.4704
+39. GRAVITA - Gravita India Limited
+   Combined Score: 0.2255
+   Classification Probability: 0.3800
+   Financial Score: 1.7448
+   Financial Health: 629266667.8374
+40. DHUNINV - Dhunseri Investments Limited
+   Combined Score: 0.2248
+   Classification Probability: 0.3500
+   Financial Score: 10.5042
+   Financial Health: 159060167.4109
+41. WHIRLPOOL - Whirlpool of India Limited
+   Combined Score: 0.2222
+   Classification Probability: 0.3900
+   Financial Score: -3.9430
+   Financial Health: 985783332.6884
+42. ZEEL - Zee Entertainment Enterprises Limited
+   Combined Score: 0.2220
+   Classification Probability: 0.3500
+   Financial Score: 1.1456
+   Financial Health: 1357784443.8870
+43. ASHAPURMIN - Ashapura Minechem Limited
+   Combined Score: 0.2170
+   Classification Probability: 0.3500
+   Financial Score: 3.5712
+   Financial Health: 727896867.1117
+44. ASAHIINDIA - Asahi India Glass Limited
+   Combined Score: 0.2133
+   Classification Probability: 0.3400
+   Financial Score: 3.8348
+   Financial Health: 758808889.7043
+45. USHAMART - Usha Martin Limited
+   Combined Score: 0.2131
+   Classification Probability: 0.3500
+   Financial Score: 3.1137
+   Financial Health: 572906666.6882
+46. ESSARSHPNG - Essar Shipping Limited
+   Combined Score: 0.2114
+   Classification Probability: 0.3500
+   Financial Score: 6.0624
+   Financial Health: 51140001.9984
+47. KNRCON - KNR Constructions Limited
+   Combined Score: 0.2094
+   Classification Probability: 0.3200
+   Financial Score: 5.6387
+   Financial Health: 839545866.7077
+48. CONCORDBIO - Concord Biotech Limited
+   Combined Score: 0.2069
+   Classification Probability: 0.3400
+   Financial Score: 5.4396
+   Financial Health: 171156244.9491
+49. SBFC - SBFC Finance Limited
+   Combined Score: 0.2050
+   Classification Probability: 0.3600
+   Financial Score: 0.5744
+   Financial Health: 210107556.1008
+50. MAITHANALL - Maithan Alloys Limited
+   Combined Score: 0.2050
+   Classification Probability: 0.3200
+   Financial Score: 6.5914
+   Financial Health: 456793332.4231
+
+
+NIN-Micro - TOP 50 COMPANIES:
+1. TTKPRESTIG - TTK Prestige Limited
+   Combined Score: 0.8939
+   Classification Probability: 0.9900
+   Financial Score: 2.5102
+   Financial Health: 458937777.5777
+2. JAYSREETEA - Jayshree Tea & Industries Limited
+   Combined Score: 0.8778
+   Classification Probability: 0.9900
+   Financial Score: 2.1984
+   Financial Health: 465893333.4305
+3. VISHNU - Vishnu Chemicals Limited
+   Combined Score: 0.8723
+   Classification Probability: 0.9800
+   Financial Score: 2.6895
+   Financial Health: 351309834.4344
+4. NITINSPIN - Nitin Spinners Limited
+   Combined Score: 0.8673
+   Classification Probability: 0.9700
+   Financial Score: 0.6349
+   Financial Health: 821453200.3223
+5. BIKAJI - Bikaji Foods International Limited
+   Combined Score: 0.8460
+   Classification Probability: 0.9700
+   Financial Score: 1.9028
+   Financial Health: 446273690.1171
+6. BLISSGVS - Bliss GVS Pharma Limited
+   Combined Score: 0.8389
+   Classification Probability: 0.9900
+   Financial Score: 2.6634
+   Financial Health: 203913467.1778
+7. SESHAPAPER - Seshasayee Paper and Boards Limited
+   Combined Score: 0.8375
+   Classification Probability: 0.9900
+   Financial Score: 1.7065
+   Financial Health: 417343332.8347
+8. INDIANHUME - Indian Hume Pipe Company Limited
+   Combined Score: 0.8318
+   Classification Probability: 0.9700
+   Financial Score: 2.0052
+   Financial Health: 366376500.8866
+9. ALKYLAMINE - Alkyl Amines Chemicals Limited
+   Combined Score: 0.8268
+   Classification Probability: 0.9800
+   Financial Score: 2.2803
+   Financial Health: 263506666.1227
+10. ARTEMISMED - Artemis Medicare Services Limited
+   Combined Score: 0.8195
+   Classification Probability: 0.9900
+   Financial Score: 2.2011
+   Financial Health: 232338867.8906
+11. MANINDS - Man Industries (India) Limited
+   Combined Score: 0.8151
+   Classification Probability: 0.9800
+   Financial Score: -0.1042
+   Financial Health: 762289999.5789
+12. RGL - Renaissance Global Limited
+   Combined Score: 0.8117
+   Classification Probability: 0.9900
+   Financial Score: 0.7983
+   Financial Health: 522193233.5935
+13. HNDFDS - Hindustan Foods Limited
+   Combined Score: 0.8091
+   Classification Probability: 0.9700
+   Financial Score: 1.2318
+   Financial Health: 452475045.0397
+14. GUFICBIO - Gufic Biosciences Limited
+   Combined Score: 0.8058
+   Classification Probability: 0.9900
+   Financial Score: 2.0813
+   Financial Health: 204928600.5462
+15. SATIA - Satia Industries Limited
+   Combined Score: 0.8042
+   Classification Probability: 0.9800
+   Financial Score: 1.4118
+   Financial Health: 371771731.4321
+16. CENTENKA - Century Enka Limited
+   Combined Score: 0.8029
+   Classification Probability: 0.9900
+   Financial Score: 0.6573
+   Financial Health: 519230000.6087
+17. HUHTAMAKI - Huhtamaki India Limited
+   Combined Score: 0.8021
+   Classification Probability: 1.0000
+   Financial Score: 0.0553
+   Financial Health: 634023332.2649
+18. UDS - Updater Services Limited
+   Combined Score: 0.8015
+   Classification Probability: 0.9700
+   Financial Score: 0.1247
+   Financial Health: 675680900.1314
+19. ORIENTELEC - Orient Electric Limited
+   Combined Score: 0.8011
+   Classification Probability: 0.9800
+   Financial Score: 0.8161
+   Financial Health: 495962222.4991
+20. RSYSTEMS - R Systems International Limited
+   Combined Score: 0.7846
+   Classification Probability: 0.9700
+   Financial Score: 1.5264
+   Financial Health: 287282443.7106
+21. SMSPHARMA - SMS Pharmaceuticals Limited
+   Combined Score: 0.7746
+   Classification Probability: 0.9800
+   Financial Score: 1.7408
+   Financial Health: 178184166.9919
+22. EKC - Everest Kanto Cylinder Limited
+   Combined Score: 0.7712
+   Classification Probability: 0.9800
+   Financial Score: 0.8914
+   Financial Health: 359029999.8547
+23. RUPA - Rupa & Company Limited
+   Combined Score: 0.7653
+   Classification Probability: 0.9800
+   Financial Score: 1.1582
+   Financial Health: 274611065.3958
+24. DOLLAR - Dollar Industries Limited
+   Combined Score: 0.7631
+   Classification Probability: 0.9900
+   Financial Score: 0.5413
+   Financial Health: 387111232.2400
+25. CANTABIL - Cantabil Retail India Limited
+   Combined Score: 0.7629
+   Classification Probability: 0.9900
+   Financial Score: 1.4971
+   Financial Health: 167346967.5058
+26. TALBROAUTO - Talbros Automotive Components Limited
+   Combined Score: 0.7625
+   Classification Probability: 0.9900
+   Financial Score: 1.3163
+   Financial Health: 207063766.4463
+27. MAYURUNIQ - Mayur Uniquoters Ltd
+   Combined Score: 0.7598
+   Classification Probability: 1.0000
+   Financial Score: 1.1703
+   Financial Health: 209859833.2967
+28. PITTIENG - Pitti Engineering Limited
+   Combined Score: 0.7569
+   Classification Probability: 0.9700
+   Financial Score: 0.5579
+   Financial Health: 398403467.6504
+29. GANESHBE - Ganesh Benzoplast Limited
+   Combined Score: 0.7529
+   Classification Probability: 0.9700
+   Financial Score: 1.8283
+   Financial Health: 91458999.3319
+30. ALLDIGI - Alldigi Tech Limited
+   Combined Score: 0.7477
+   Classification Probability: 0.9800
+   Financial Score: 1.4686
+   Financial Health: 133403334.4357
+31. AMBIKCO - Ambika Cotton Mills Limited
+   Combined Score: 0.7456
+   Classification Probability: 0.9700
+   Financial Score: 1.2765
+   Financial Health: 188586666.4125
+32. VSSL - Vardhman Special Steels Limited
+   Combined Score: 0.7428
+   Classification Probability: 0.9800
+   Financial Score: 0.0181
+   Financial Health: 445456500.0613
+33. INOXINDIA - INOX India Limited
+   Combined Score: 0.7402
+   Classification Probability: 0.9800
+   Financial Score: 1.0152
+   Financial Health: 207067910.0940
+34. ADFFOODS - ADF Foods Limited
+   Combined Score: 0.7393
+   Classification Probability: 0.9900
+   Financial Score: 1.1903
+   Financial Health: 143502767.3695
+35. MONTECARLO - Monte Carlo Fashions Limited
+   Combined Score: 0.7393
+   Classification Probability: 0.9900
+   Financial Score: 0.5140
+   Financial Health: 298159999.9639
+36. ESTER - Ester Industries Limited
+   Combined Score: 0.7371
+   Classification Probability: 0.9700
+   Financial Score: 0.5993
+   Financial Health: 309936800.6331
+37. PPL - Prakash Pipes Limited
+   Combined Score: 0.7327
+   Classification Probability: 1.0000
+   Financial Score: 0.7437
+   Financial Health: 199176667.1013
+38. GREENLAM - Greenlam Industries Limited
+   Combined Score: 0.7326
+   Classification Probability: 0.9700
+   Financial Score: 0.0416
+   Financial Health: 419457776.6395
+39. INDNIPPON - India Nippon Electricals Limited
+   Combined Score: 0.7293
+   Classification Probability: 0.9900
+   Financial Score: 0.7524
+   Financial Health: 203689999.6968
+40. SPAL - S. P. Apparels Limited
+   Combined Score: 0.7280
+   Classification Probability: 0.9900
+   Financial Score: 0.1689
+   Financial Health: 331975333.8767
+41. GIPCL - Gujarat Industries Power Company Limited
+   Combined Score: 0.7260
+   Classification Probability: 0.9700
+   Financial Score: 0.4224
+   Financial Health: 306003866.9824
+42. KRSNAA - Krsnaa Diagnostics Limited
+   Combined Score: 0.7219
+   Classification Probability: 0.9800
+   Financial Score: 0.8368
+   Financial Health: 174671667.9705
+43. KRISHANA - Krishana Phoschem Limited
+   Combined Score: 0.7214
+   Classification Probability: 0.9700
+   Financial Score: 0.3891
+   Financial Health: 295118800.5622
+44. MBAPL - Madhya Bharat Agro Products Limited
+   Combined Score: 0.7203
+   Classification Probability: 0.9800
+   Financial Score: 0.4616
+   Financial Health: 254125800.6488
+45. SATINDLTD - Sat Industries Limited
+   Combined Score: 0.7165
+   Classification Probability: 0.9900
+   Financial Score: 0.8100
+   Financial Health: 139234833.2693
+46. BESTAGRO - Best Agrolife Limited
+   Combined Score: 0.7157
+   Classification Probability: 0.9800
+   Financial Score: -0.7513
+   Financial Health: 513323998.2321
+47. HARSHA - Harsha Engineers International Limited
+   Combined Score: 0.7128
+   Classification Probability: 1.0000
+   Financial Score: -0.1231
+   Financial Health: 318023333.4202
+48. KALAMANDIR - Sai Silks (Kalamandir) Limited
+   Combined Score: 0.7114
+   Classification Probability: 1.0000
+   Financial Score: -0.3052
+   Financial Health: 354386665.4212
+49. IPL - India Pesticides Limited
+   Combined Score: 0.7101
+   Classification Probability: 0.9900
+   Financial Score: 0.4020
+   Financial Health: 207119998.5573
+50. EVEREADY - Eveready Industries India Limited
+   Combined Score: 0.7085
+   Classification Probability: 0.9700
+   Financial Score: -0.0696
+   Financial Health: 348493332.9726
+

@@ -1,0 +1,340 @@
+MULTICLASS POSITIVE-UNLABELED LEARNING STOCK CLASSIFICATION REPORT
+==============================================================
+
+ANALYSIS SUMMARY
+--------------
+Total companies analyzed: 2002
+Known labeled companies: 581
+- Class L (Large): 93
+- Class M (Mid): 143
+- Class S (Small): 96
+- Class Mi (Micro): 249
+Unlabeled companies analyzed: 1421
+
+MODEL INFORMATION
+---------------
+Learning approach: Class-specific Positive-Unlabeled Learning with Bagging
+Method: Separate binary PU classifiers for each market cap category
+Bootstrap iterations per class: 50
+Strong classification threshold: 0.75 (probability)
+High confidence threshold: 0.75 (confidence) and 0.15 (uncertainty)
+
+CLASSIFICATION RESULTS
+-------------------
+Distribution of predictions:
+- Not Strong: 1408 stocks (99.1%)
+- Strong-S: 11 stocks (0.8%)
+- Strong-M: 1 stocks (0.1%)
+- Strong-Mi: 1 stocks (0.1%)
+
+TOP FEATURE IMPORTANCE FOR CLASS Large
+---------------------------------------
+1. log_profit: 0.1825
+2. log_revenue: 0.1624
+3. high_low_ratio: 0.1258
+4. volume_price_ratio: 0.0575
+5. price_volatility: 0.0422
+6. stability_score: 0.0391
+7. price_to_earnings: 0.0374
+8. avg_basic_earnings_per_share: 0.0328
+9. profit_margin: 0.0273
+10. return_on_equity: 0.0235
+
+TOP FEATURE IMPORTANCE FOR CLASS Mid
+-------------------------------------
+1. log_profit: 0.1217
+2. log_revenue: 0.0822
+3. high_low_ratio: 0.0622
+4. price_to_earnings: 0.0499
+5. avg_vwap_distance: 0.0428
+6. volume_price_ratio: 0.0411
+7. trend_strength: 0.0370
+8. return_on_equity: 0.0348
+9. price_to_book: 0.0346
+10. operating_margin: 0.0342
+
+TOP FEATURE IMPORTANCE FOR CLASS Small
+---------------------------------------
+1. log_profit: 0.1852
+2. log_revenue: 0.1156
+3. liquidity_score: 0.0702
+4. price_to_book: 0.0530
+5. avg_vwap_distance: 0.0423
+6. profit_margin: 0.0364
+7. operating_margin: 0.0343
+8. volatility: 0.0343
+9. volume_price_ratio: 0.0333
+10. interest_coverage: 0.0302
+
+TOP FEATURE IMPORTANCE FOR CLASS Micro
+---------------------------------------
+1. log_profit: 0.2623
+2. price_to_book: 0.2098
+3. log_revenue: 0.1895
+4. liquidity_score: 0.0733
+5. volatility: 0.0490
+6. avg_vwap_distance: 0.0412
+7. stability_score: 0.0385
+8. high_low_ratio: 0.0285
+9. price_to_earnings: 0.0128
+10. operating_margin: 0.0096
+
+TOP 20 STRONG MID STOCKS
+-------------------------
+1. EIDPARRY - EID Parry India Limited
+   Confidence Score: 0.7683 (±0.1415)
+   High Confidence: Yes
+   Market Cap: Mid
+   Industry: Other Food Products
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: 0.8794
+   Return on Equity: 23.1481
+   Profit Margin: 0.0497
+   Year Change %: 28.60%
+
+TOP 20 STRONG SMALL STOCKS
+---------------------------
+1. WSTCSTPAPR - West Coast Paper Mills Limited
+   Confidence Score: 0.9276 (±0.0643)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Paper & Paper Products
+   Sector: Forest Materials
+   Sharpe Ratio: -0.7336
+   Return on Equity: 7.3049
+   Profit Margin: 0.0958
+   Year Change %: -27.52%
+
+2. JINDALPOLY - Jindal Poly Films Limited
+   Confidence Score: 0.9102 (±0.0513)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Packaging
+   Sector: Capital Goods
+   Sharpe Ratio: 0.7007
+   Return on Equity: 2.1985
+   Profit Margin: 0.0738
+   Year Change %: 25.44%
+
+3. PRAKASH - Prakash Industries Limited
+   Confidence Score: 0.9010 (±0.0554)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Iron & Steel
+   Sector: Metals & Mining
+   Sharpe Ratio: 0.2623
+   Return on Equity: 0.4926
+   Profit Margin: 0.0835
+   Year Change %: 1.08%
+
+4. ELECTHERM - Electrotherm (India) Limited
+   Confidence Score: 0.8675 (±0.1025)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Iron & Steel Products
+   Sector: Capital Goods
+   Sharpe Ratio: 4.9010
+   Return on Equity: 6.7151
+   Profit Margin: 0.0869
+   Year Change %: 5.68%
+
+5. UFLEX - UFLEX Limited
+   Confidence Score: 0.8647 (±0.1081)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Packaging
+   Sector: Capital Goods
+   Sharpe Ratio: 0.5433
+   Return on Equity: 1.0265
+   Profit Margin: 0.0295
+   Year Change %: 15.48%
+
+6. DALMIASUG - Dalmia Bharat Sugar and Industries Limited
+   Confidence Score: 0.8335 (±0.1744)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Sugar
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: 0.2974
+   Return on Equity: 4.0819
+   Profit Margin: 0.0730
+   Year Change %: 2.82%
+
+7. GOKULAGRO - Gokul Agro Resources Limited
+   Confidence Score: 0.8317 (±0.1234)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Edible Oil
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: 1.6509
+   Return on Equity: 2.2239
+   Profit Margin: 0.0140
+   Year Change %: 112.45%
+
+8. ZUARI - Zuari Agro Chemicals Limited
+   Confidence Score: 0.8250 (±0.1259)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Fertilizers
+   Sector: Chemicals
+   Sharpe Ratio: 0.3361
+   Return on Equity: 1.6147
+   Profit Margin: 0.0585
+   Year Change %: 5.10%
+
+9. ASHAPURMIN - Ashapura Minechem Limited
+   Confidence Score: 0.8026 (±0.1524)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Industrial Minerals
+   Sector: Metals & Mining
+   Sharpe Ratio: 0.4062
+   Return on Equity: 3.7256
+   Profit Margin: 0.0964
+   Year Change %: 6.03%
+
+10. LGBBROSLTD - LG Balakrishnan & Bros Limited
+   Confidence Score: 0.7559 (±0.1789)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Auto Components & Equipments
+   Sector: Automobile and Auto Components
+   Sharpe Ratio: -0.2163
+   Return on Equity: 2.2911
+   Profit Margin: 0.1142
+   Year Change %: -11.93%
+
+11. NAVNETEDUL - Navneet Education Limited
+   Confidence Score: 0.7506 (±0.1389)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Printing & Publication
+   Sector: Media Entertainment & Publication
+   Sharpe Ratio: 0.1150
+   Return on Equity: 5.6585
+   Profit Margin: 0.5597
+   Year Change %: -1.42%
+
+12. NORTHARC - Northern Arc Capital Limited
+   Confidence Score: 0.7254 (±0.1401)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Non Banking Financial Company (NBFC)
+   Sector: Financial Services
+   Sharpe Ratio: -2.1136
+   Return on Equity: 0.6379
+   Profit Margin: 0.1512
+   Year Change %: -41.02%
+
+13. LUMAXTECH - Lumax Auto Technologies Limited
+   Confidence Score: 0.7174 (±0.1919)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Auto Components & Equipments
+   Sector: Automobile and Auto Components
+   Sharpe Ratio: 0.5268
+   Return on Equity: 3.6555
+   Profit Margin: 0.0597
+   Year Change %: 13.81%
+
+14. RAMKY - Ramky Infrastructure Limited
+   Confidence Score: 0.7049 (±0.1542)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Civil Construction
+   Sector: Construction
+   Sharpe Ratio: -0.2999
+   Return on Equity: 1.1732
+   Profit Margin: 0.1611
+   Year Change %: -24.62%
+
+15. KCP - KCP Limited
+   Confidence Score: 0.7029 (±0.1991)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Cement & Cement Products
+   Sector: Construction Materials
+   Sharpe Ratio: 0.5389
+   Return on Equity: 4.7100
+   Profit Margin: 0.0962
+   Year Change %: 15.53%
+
+16. RPSGVENT - RPSG VENTURES LIMITED
+   Confidence Score: 0.6857 (±0.1792)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO)
+   Sector: Services
+   Sharpe Ratio: 0.5664
+   Return on Equity: 1.5323
+   Profit Margin: 0.0215
+   Year Change %: 17.45%
+
+17. SSWL - Steel Strips Wheels Limited
+   Confidence Score: 0.6807 (±0.1842)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Auto Components & Equipments
+   Sector: Automobile and Auto Components
+   Sharpe Ratio: -0.3323
+   Return on Equity: 2.8596
+   Profit Margin: 0.0421
+   Year Change %: -15.21%
+
+18. REPCOHOME - Repco Home Finance Limited
+   Confidence Score: 0.6665 (±0.1503)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Housing Finance Company
+   Sector: Financial Services
+   Sharpe Ratio: -0.4053
+   Return on Equity: 1.8160
+   Profit Margin: 0.2707
+   Year Change %: -20.29%
+
+19. MAITHANALL - Maithan Alloys Limited
+   Confidence Score: 0.6589 (±0.1699)
+   High Confidence: Yes
+   Market Cap: Small
+   Industry: Ferro & Silica Manganese
+   Sector: Metals & Mining
+   Sharpe Ratio: -0.6457
+   Return on Equity: 7.8904
+   Profit Margin: 0.5028
+   Year Change %: -24.37%
+
+TOP 20 STRONG MICRO STOCKS
+---------------------------
+1. JAYSREETEA - Jayshree Tea & Industries Limited
+   Confidence Score: 0.7518 (±0.1687)
+   High Confidence: Yes
+   Market Cap: Micro
+   Industry: Tea & Coffee
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: 0.0431
+   Return on Equity: 2.1941
+   Profit Margin: 0.1360
+   Year Change %: -9.09%
+
+2. MAWANASUG - Mawana Sugars Limited
+   Confidence Score: 0.7464 (±0.1619)
+   High Confidence: Yes
+   Market Cap: Micro
+   Industry: Sugar
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: 0.0545
+   Return on Equity: 0.4069
+   Profit Margin: 0.0433
+   Year Change %: -5.41%
+
+3. RUCHIRA - Ruchira Papers Limited
+   Confidence Score: 0.6513 (±0.1711)
+   High Confidence: Yes
+   Market Cap: Micro
+   Industry: Paper & Paper Products
+   Sector: Forest Materials
+   Sharpe Ratio: 0.2146
+   Return on Equity: 0.5465
+   Profit Margin: 0.0983
+   Year Change %: 1.63%
+

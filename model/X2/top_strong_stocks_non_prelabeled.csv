@@ -1,0 +1,51 @@
+symbol,company_name,company_industry,sector,strength_probability,market_cap_category,intrinsic_label,sharpe_ratio,return_on_equity,profit_margin,year_change_percent
+JUBLPHARMA,Jubilant Pharmova Limited,Pharmaceuticals,Healthcare,0.99977213,Mid,,0.9818,14.451476793248943,0.1291064327044499,41.1
+SAREGAMA,Saregama India Limited,Media & Entertainment,Media Entertainment & Publication,0.99968123,Mid,,0.8496,2.480463347164592,0.16799372380037939,34.73
+SARDAEN,Sarda Energy & Minerals Limited,Iron & Steel,Metals & Mining,0.9996332,Mid,,1.7541,5.692395005675369,0.17679149003675076,108.59
+JMFINANCIL,JM Financial Limited,Holding Company,Financial Services,0.99945205,Mid,,0.6081,2.802862347124642,0.15963778640661588,19.08
+ISEC,ICICI Securities Limited,Stockbroking & Allied,Financial Services,0.99944776,Large,,1.1223,3.2080797697368424,0.31630082034171786,24.38
+LTFOODS,LT Foods Limited,Other Agricultural Products,Fast Moving Consumer Goods,0.99942017,Mid,,1.466,4.331928017900493,0.06993261275103052,75.33
+HOMEFIRST,Home First Finance Company India Limited,Housing Finance Company,Financial Services,0.9993024,Mid,,0.6064,5.179563788467284,0.24870481187717547,18.05
+INDOBORAX,Indo Borax & Chemicals Limited,Commodity Chemicals,Chemicals,0.9992424,Small,,0.2161,3.3514386620961885,0.25781636428288907,-0.9
+KANSAINER,Kansai Nerolac Paints Limited,Paints,Consumer Durables,0.9990834,Large,,-0.2285,4.15182253010061,0.1676400857763156,-8.63
+CHOLAHLDNG,Cholamandalam Financial Holdings Limited,Investment Company,Financial Services,0.99902487,Large,,1.4056,59.95207667731629,0.1395054345042698,63.89
+JPOLYINVST,Jindal Poly Investment and Finance Company Limited,Investment Company,Financial Services,0.99896574,Small,,0.5611,7.2684551200530265,9.605379624817688,16.52
+AIIL,Authum Investment & Infrastructure Limited,Non Banking Financial Company (NBFC),Financial Services,0.99895644,Large,,1.2733,48.65625674747277,0.7928276212353536,73.72
+ALIVUS,Alivus Life Sciences Limited,Pharmaceuticals,Healthcare,0.99894506,Mid,,0.6715,4.67584809162382,0.19786524103816236,22.02
+KEYFINSERV,Keynote Financial Services Limited,Stockbroking & Allied,Financial Services,0.99889046,Micro,,1.5529,1.3329141666367261,0.7381685895161318,70.66
+ATLASCYCLE,Atlas Cycles (Haryana) Limited,Cycles,Consumer Durables,0.99887115,Micro,,40.9563,0.8742273747655217,1.0291413263828555,47.04
+SHRADHA,Shradha Infraprojects Limited,Residential Commercial Projects,Realty,0.99878067,Micro,,5.2571,0.4804520956999549,0.22811405311870353,136.12
+VIJAYA,Vijaya Diagnostic Centre Limited,Healthcare Service Provider,Healthcare,0.99854845,Mid,,0.9653,3.4810166055975675,0.21630598982197746,43.77
+SOMATEX,Soma Textiles & Industries Limited,Other Textile Products,Textiles,0.99854434,Micro,,1.1121,0.6966394187102634,12.282918149466196,29.64
+GEECEE,GeeCee Ventures Limited,Residential Commercial Projects,Realty,0.9984794,Small,,0.9816,0.6630897217028426,0.3556771194932848,40.57
+DHANUKA,Dhanuka Agritech Limited,Pesticides & Agrochemicals,Chemicals,0.9984642,Mid,,0.4744,8.157703769463406,0.1390082382552168,11.71
+FMNL,Future Market Networks Limited,Diversified Commercial Services,Services,0.9984231,Micro,,4.4203,0.5370260144355193,1.2288494116390902,68.64
+RAMCOIND,Ramco Industries Limited,Other Construction Materials,Construction Materials,0.9983646,Small,,0.3831,5.724763406940063,0.11707970097015347,7.54
+AARVEEDEN,Aarvee Denims & Exports Limited,Other Textile Products,Textiles,0.99816954,Micro,,2.7851,0.3396945697178436,0.6840486409155937,43.58
+CONCORDBIO,Concord Biotech Limited,Pharmaceuticals,Healthcare,0.99810094,Mid,,0.4,7.368378960515919,0.3002521023350854,7.68
+NAVNETEDUL,Navneet Education Limited,Printing & Publication,Media Entertainment & Publication,0.998097,Small,,0.115,5.658506580915346,0.5596819352124328,-1.42
+CUB,City Union Bank Limited,Private Sector Bank,Financial Services,0.9980096,Mid,,0.3955,0.4246562282991007,0.0660247047197285,7.69
+NAVA,NAVA LIMITED,Power Generation,Power,0.99796057,Large,,0.4349,7.341536726977971,0.34885604035342255,-1.31
+ABSLAMC,Aditya Birla Sun Life AMC Limited,Asset Management Company,Financial Services,0.9979303,Mid,,0.7662,1.6174640982355526,0.5628435088396945,25.21
+KIRLOSBROS,Kirloskar Brothers Limited,Compressors Pumps & Diesel Engines,Capital Goods,0.997914,Mid,,0.8444,5.886792452830188,0.08745211622909464,37.82
+PDMJEPAPER,Pudumjee Paper Products Limited,Paper & Paper Products,Forest Materials,0.9978504,Small,,0.9653,2.6985964912280695,0.12424878836833601,46.15
+GUFICBIO,Gufic Biosciences Limited,Pharmaceuticals,Healthcare,0.997809,Small,,0.409,2.058580479600045,0.10073280807721974,8.74
+DEEPAKFERT,Deepak Fertilizers and Petrochemicals Corporation Limited,Commodity Chemicals,Chemicals,0.99778455,Mid,,1.7667,1.7606939163498099,0.08765661417602309,124.1
+KCP,KCP Limited,Cement & Cement Products,Construction Materials,0.99773884,Small,,0.5389,4.71002689006102,0.09617196866788902,15.53
+BFINVEST,BF Investment Limited,Holding Company,Financial Services,0.9974597,Small,,0.1181,3.99309758946586,6.343999550106848,-4.96
+DOLATALGO,Dolat Algotech Limited,Stockbroking & Allied,Financial Services,0.9973265,Small,,0.2572,3.338380681818182,0.4237269189607078,-2.8
+CAPLIPOINT,Caplin Point Laboratories Limited,Pharmaceuticals,Healthcare,0.9973259,Mid,,0.997,8.679824561403509,0.2758149712199133,43.73
+SUNDARMHLD,Sundaram Finance Holdings Limited,Investment Company,Financial Services,0.9972362,Mid,,0.7589,0.9153741028594138,2.8978325319751423,28.96
+EIDPARRY,EID Parry India Limited,Other Food Products,Fast Moving Consumer Goods,0.99720913,Mid,,0.8794,23.14811338464427,0.04972680702764675,28.6
+UTIAMC,UTI Asset Management Company Limited,Asset Management Company,Financial Services,0.99700326,Mid,,0.466,1.8578708058952649,0.4787032049555615,10.97
+FLEXITUFF,Flexituff Ventures International Limited,Other Textile Products,Textiles,0.99696475,Micro,,12746.2248,2.5850947122824457,1.0924541468397646,27.58
+AJAXENGG,Ajax Engineering Limited,Construction Vehicles,Capital Goods,0.9968836,Mid,,1.0445,5.9545494274975965,0.12427715085246033,4.58
+INDIANCARD,Indian Card Clothing Company Limited,Other Textile Products,Textiles,0.9968262,Micro,,0.0098,4.173419063809733,2.424056078055648,-10.04
+TAJGVK,Taj GVK Hotels & Resorts Limited,Hotels & Resorts,Consumer Services,0.9967829,Small,,0.579,2.1900584795321634,0.25357010956543147,18.29
+KITEX,Kitex Garments Limited,Garments & Apparels,Textiles,0.99675095,Mid,,1.224,5.209513784461153,0.15224795795000876,12.06
+TCI,Transport Corporation of India Limited,Logistics Solution Provider,Services,0.99658185,Mid,,0.902,6.515151515151516,0.0908542106851796,29.25
+SUMICHEM,Sumitomo Chemical India Limited,Pesticides & Agrochemicals,Chemicals,0.9964954,Large,,1.1285,0.27156917348164,0.16469867802193755,44.45
+VTL,Vardhman Textiles Limited,Other Textile Products,Textiles,0.9964468,Mid,,0.1787,3.801054481546573,0.08917157185441521,-0.7
+SIYSIL,Siyaram Silk Mills Limited,Other Textile Products,Textiles,0.9963856,Small,,1.0099,4.594405260451105,0.0841972768905693,48.98
+GENUSPOWER,Genus Power Infrastructures Limited,Other Electrical Equipment,Capital Goods,0.99635726,Mid,,0.2298,2.0633802430587176,0.12494375480529778,-0.38
+JYOTICNC,Jyoti CNC Automation Limited,Industrial Products,Capital Goods,0.9962554,Large,,0.8427,1.4458905866402845,0.1657206069117519,36.3

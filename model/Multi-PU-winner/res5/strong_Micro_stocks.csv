@@ -1,0 +1,4 @@
+symbol,company_name,company_industry,sector,market_cap_category,confidence_score,uncertainty,high_confidence,sharpe_ratio,return_on_equity,profit_margin,year_change_percent
+JAYSREETEA,Jayshree Tea & Industries Limited,Tea & Coffee,Fast Moving Consumer Goods,Micro,0.7518380880355835,0.16866071275085834,True,0.0431,2.1941366574330563,0.13601110411539122,-9.09
+MAWANASUG,Mawana Sugars Limited,Sugar,Fast Moving Consumer Goods,Micro,0.7463832503557205,0.16187533902298745,True,0.0545,0.40686775732788,0.04326631207922945,-5.41
+RUCHIRA,Ruchira Papers Limited,Paper & Paper Products,Forest Materials,Micro,0.6513104310631752,0.1711392324769368,True,0.2146,0.5464935500083766,0.09834334782580732,1.63

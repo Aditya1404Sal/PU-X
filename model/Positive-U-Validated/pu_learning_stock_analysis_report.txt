@@ -1,0 +1,637 @@
+POSITIVE-UNLABELED LEARNING STOCK CLASSIFICATION REPORT
+===================================================
+
+ANALYSIS SUMMARY
+--------------
+Total companies analyzed: 2002
+Known strong companies (IN-L, IN-M): 581
+Unlabeled companies analyzed: 1421
+Companies classified as intrinsically strong: 229 (16.1% of unlabeled)
+High confidence strong predictions: 20 (8.7% of strong)
+
+VALIDATION RESULTS
+----------------
+Cross-validation (5-fold) metrics:
+  - Mean accuracy: 0.9466 (±0.0258)
+  - Mean AUC: 0.9801 (±0.0146)
+  - Mean precision: 0.9803 (±0.0121)
+  - Mean recall: 0.9466 (±0.0258)
+
+Hold-out validation metrics:
+  - Accuracy on held-out positive samples: 0.9573
+  - AUC: 0.9714
+  - Current threshold: 0.4243
+  - Optimal threshold from validation: 0.4243
+
+Classification stability metrics:
+  - Average classification flips: 2.98 out of 49
+  - Stocks with perfect stability: 1078
+  - Stocks with high stability (< 10% flips): 1158
+  - Stocks with high instability (> 25% flips): 153
+
+Top recommendations have high validation confidence:
+  - 0 stocks have high confidence score and low uncertainty
+  - These stocks represent the highest quality recommendations
+
+MODEL INFORMATION
+---------------
+Learning approach: Positive-Unlabeled Learning with Bagging
+Bootstrap iterations: 50
+Classification threshold: 0.4243
+High confidence threshold: 0.75 (probability) and 0.15 (uncertainty)
+
+TOP FEATURE IMPORTANCE
+-------------------
+1. market_cap_numeric: 0.3380
+2. log_revenue: 0.0571
+3. log_profit: 0.0567
+4. liquidity_score: 0.0338
+5. price_to_earnings: 0.0284
+6. price_to_book: 0.0257
+7. avg_vwap_distance: 0.0221
+8. high_low_ratio: 0.0199
+9. return_on_equity: 0.0190
+10. volatility: 0.0188
+11. avg_basic_earnings_per_share: 0.0184
+12. volume_price_ratio: 0.0183
+13. earnings_growth: 0.0181
+14. trend_strength: 0.0179
+15. avg_diluted_earnings_per_share: 0.0179
+
+SECTOR ANALYSIS
+-------------
+Distribution of strong stocks by sector:
+Capital Goods: 38 stocks (16.6%)
+Healthcare: 29 stocks (12.7%)
+Financial Services: 28 stocks (12.2%)
+Fast Moving Consumer Goods: 19 stocks (8.3%)
+Chemicals: 17 stocks (7.4%)
+Consumer Durables: 16 stocks (7.0%)
+Consumer Services: 16 stocks (7.0%)
+Automobile and Auto Components: 13 stocks (5.7%)
+Services: 10 stocks (4.4%)
+Information Technology: 9 stocks (3.9%)
+Textiles: 8 stocks (3.5%)
+Metals & Mining: 5 stocks (2.2%)
+Construction: 5 stocks (2.2%)
+Media Entertainment & Publication: 4 stocks (1.7%)
+Power: 3 stocks (1.3%)
+Oil Gas & Consumable Fuels: 2 stocks (0.9%)
+Realty: 2 stocks (0.9%)
+Forest Materials: 2 stocks (0.9%)
+Construction Materials: 1 stocks (0.4%)
+Diversified: 1 stocks (0.4%)
+Telecommunication: 1 stocks (0.4%)
+
+TOP 50 INTRINSICALLY STRONG STOCKS
+-----------------------------
+1. CHOLAHLDNG - Cholamandalam Financial Holdings Limited
+   Confidence Score: 0.8946 (±0.1218)
+   High Confidence: Yes
+   Market Cap: Large
+   Industry: Investment Company
+   Sector: Financial Services
+   Sharpe Ratio: 1.4056
+   Return on Equity: 59.9521
+   Profit Margin: 0.1395
+   Year Change %: 63.89%
+
+2. CUB - City Union Bank Limited
+   Confidence Score: 0.8934 (±0.1352)
+   High Confidence: Yes
+   Market Cap: Mid
+   Industry: Private Sector Bank
+   Sector: Financial Services
+   Sharpe Ratio: 0.3955
+   Return on Equity: 0.4247
+   Profit Margin: 0.0660
+   Year Change %: 7.69%
+
+3. SUMICHEM - Sumitomo Chemical India Limited
+   Confidence Score: 0.8920 (±0.1275)
+   High Confidence: Yes
+   Market Cap: Large
+   Industry: Pesticides & Agrochemicals
+   Sector: Chemicals
+   Sharpe Ratio: 1.1285
+   Return on Equity: 0.2716
+   Profit Margin: 0.1647
+   Year Change %: 44.45%
+
+4. KANSAINER - Kansai Nerolac Paints Limited
+   Confidence Score: 0.8769 (±0.1503)
+   High Confidence: No
+   Market Cap: Large
+   Industry: Paints
+   Sector: Consumer Durables
+   Sharpe Ratio: -0.2285
+   Return on Equity: 4.1518
+   Profit Margin: 0.1676
+   Year Change %: -8.63%
+
+5. RCF - Rashtriya Chemicals and Fertilizers Limited
+   Confidence Score: 0.8698 (±0.1213)
+   High Confidence: Yes
+   Market Cap: Mid
+   Industry: Fertilizers
+   Sector: Chemicals
+   Sharpe Ratio: 0.0621
+   Return on Equity: 0.1024
+   Profit Margin: 0.0128
+   Year Change %: -10.47%
+
+6. TRIVENI - Triveni Engineering & Industries Limited
+   Confidence Score: 0.8673 (±0.1329)
+   High Confidence: Yes
+   Market Cap: Mid
+   Industry: Sugar
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: 0.5786
+   Return on Equity: 0.7787
+   Profit Margin: 0.0105
+   Year Change %: 17.23%
+
+7. PGHH - Procter & Gamble Hygiene and Health Care Limited
+   Confidence Score: 0.8658 (±0.1269)
+   High Confidence: Yes
+   Market Cap: Large
+   Industry: Personal Care
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: -0.6433
+   Return on Equity: 6.5194
+   Profit Margin: 0.1876
+   Year Change %: -13.82%
+
+8. JINDALSAW - Jindal Saw Limited
+   Confidence Score: 0.8599 (±0.1325)
+   High Confidence: Yes
+   Market Cap: Large
+   Industry: Iron & Steel Products
+   Sector: Capital Goods
+   Sharpe Ratio: -0.5602
+   Return on Equity: 7.1468
+   Profit Margin: 0.0869
+   Year Change %: -50.19%
+
+9. SYRMA - Syrma SGS Technology Limited
+   Confidence Score: 0.8590 (±0.1324)
+   High Confidence: Yes
+   Market Cap: Mid
+   Industry: Industrial Products
+   Sector: Capital Goods
+   Sharpe Ratio: 0.2793
+   Return on Equity: 0.1680
+   Profit Margin: 0.0357
+   Year Change %: 0.19%
+
+10. KIMS - Krishna Institute of Medical Sciences Limited
+   Confidence Score: 0.8504 (±0.1577)
+   High Confidence: No
+   Market Cap: Large
+   Industry: Hospital
+   Sector: Healthcare
+   Sharpe Ratio: -0.3686
+   Return on Equity: 1.2849
+   Profit Margin: 0.1378
+   Year Change %: -68.40%
+
+11. SUVENPHAR - Suven Pharmaceuticals Limited
+   Confidence Score: 0.8464 (±0.1287)
+   High Confidence: Yes
+   Market Cap: Large
+   Industry: Pharmaceuticals
+   Sector: Healthcare
+   Sharpe Ratio: 1.8103
+   Return on Equity: 0.0870
+   Profit Margin: 0.2841
+   Year Change %: 83.17%
+
+12. ISEC - ICICI Securities Limited
+   Confidence Score: 0.8426 (±0.1804)
+   High Confidence: No
+   Market Cap: Large
+   Industry: Stockbroking & Allied
+   Sector: Financial Services
+   Sharpe Ratio: 1.1223
+   Return on Equity: 3.2081
+   Profit Margin: 0.3163
+   Year Change %: 24.38%
+
+13. JYOTICNC - Jyoti CNC Automation Limited
+   Confidence Score: 0.8407 (±0.1504)
+   High Confidence: No
+   Market Cap: Large
+   Industry: Industrial Products
+   Sector: Capital Goods
+   Sharpe Ratio: 0.8427
+   Return on Equity: 1.4459
+   Profit Margin: 0.1657
+   Year Change %: 36.30%
+
+14. DOMS - DOMS Industries Limited
+   Confidence Score: 0.8401 (±0.1456)
+   High Confidence: Yes
+   Market Cap: Mid
+   Industry: Stationary
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: 1.2628
+   Return on Equity: 0.8912
+   Profit Margin: 0.1156
+   Year Change %: 54.29%
+
+15. ENGINERSIN - Engineers India Limited
+   Confidence Score: 0.8381 (±0.1355)
+   High Confidence: Yes
+   Market Cap: Mid
+   Industry: Civil Construction
+   Sector: Construction
+   Sharpe Ratio: -0.3209
+   Return on Equity: 0.3558
+   Profit Margin: 0.1444
+   Year Change %: -24.69%
+
+16. POLYMED - Poly Medicure Limited
+   Confidence Score: 0.8338 (±0.1394)
+   High Confidence: Yes
+   Market Cap: Large
+   Industry: Medical Equipment & Supplies
+   Sector: Healthcare
+   Sharpe Ratio: 0.9580
+   Return on Equity: 1.6526
+   Profit Margin: 0.2008
+   Year Change %: 38.15%
+
+17. GODREJAGRO - Godrej Agrovet Limited
+   Confidence Score: 0.8298 (±0.1443)
+   High Confidence: Yes
+   Market Cap: Mid
+   Industry: Animal Feed
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: 1.2951
+   Return on Equity: 0.5847
+   Profit Margin: 0.0465
+   Year Change %: 49.19%
+
+18. RENUKA - Shree Renuka Sugars Limited
+   Confidence Score: 0.8278 (±0.1403)
+   High Confidence: Yes
+   Market Cap: Mid
+   Industry: Sugar
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: -0.9296
+   Return on Equity: -0.6156
+   Profit Margin: -0.0479
+   Year Change %: -37.40%
+
+19. GILLETTE - Gillette India Limited
+   Confidence Score: 0.8274 (±0.1436)
+   High Confidence: Yes
+   Market Cap: Large
+   Industry: Personal Care
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: 0.7492
+   Return on Equity: 3.6624
+   Profit Margin: 0.1667
+   Year Change %: 22.35%
+
+20. JBCHEPHARM - JB Chemicals & Pharmaceuticals Limited
+   Confidence Score: 0.8244 (±0.1596)
+   High Confidence: No
+   Market Cap: Large
+   Industry: Pharmaceuticals
+   Sector: Healthcare
+   Sharpe Ratio: -0.3237
+   Return on Equity: 10.9504
+   Profit Margin: 0.1750
+   Year Change %: -12.81%
+
+21. ZFCVINDIA - ZF Commercial Vehicle Control Systems India Limited
+   Confidence Score: 0.8210 (±0.1499)
+   High Confidence: Yes
+   Market Cap: Large
+   Industry: Auto Components & Equipments
+   Sector: Automobile and Auto Components
+   Sharpe Ratio: -0.0561
+   Return on Equity: 11.7398
+   Profit Margin: 0.1185
+   Year Change %: -10.15%
+
+22. SAMMAANCAP - Sammaan Capital Limited
+   Confidence Score: 0.8200 (±0.1577)
+   High Confidence: No
+   Market Cap: Mid
+   Industry: Housing Finance Company
+   Sector: Financial Services
+   Sharpe Ratio: -0.8243
+   Return on Equity: -5.2689
+   Profit Margin: -0.3207
+   Year Change %: -35.56%
+
+23. DEEPAKFERT - Deepak Fertilizers and Petrochemicals Corporation Limited
+   Confidence Score: 0.8174 (±0.1694)
+   High Confidence: No
+   Market Cap: Mid
+   Industry: Commodity Chemicals
+   Sector: Chemicals
+   Sharpe Ratio: 1.7667
+   Return on Equity: 1.7607
+   Profit Margin: 0.0877
+   Year Change %: 124.10%
+
+24. EIHOTEL - EIH Limited
+   Confidence Score: 0.8172 (±0.1743)
+   High Confidence: No
+   Market Cap: Large
+   Industry: Hotels & Resorts
+   Sector: Consumer Services
+   Sharpe Ratio: -0.5229
+   Return on Equity: 1.3547
+   Profit Margin: 0.2653
+   Year Change %: -21.79%
+
+25. GNFC - Gujarat Narmada Valley Fertilizers and Chemicals Limited
+   Confidence Score: 0.8146 (±0.1682)
+   High Confidence: No
+   Market Cap: Mid
+   Industry: Commodity Chemicals
+   Sector: Chemicals
+   Sharpe Ratio: -0.8363
+   Return on Equity: 0.8753
+   Profit Margin: 0.0661
+   Year Change %: -29.66%
+
+26. SKFINDIA - SKF India Limited
+   Confidence Score: 0.8145 (±0.1814)
+   High Confidence: No
+   Market Cap: Large
+   Industry: Abrasives & Bearings
+   Sector: Capital Goods
+   Sharpe Ratio: -0.4020
+   Return on Equity: 2.4477
+   Profit Margin: 0.0979
+   Year Change %: -15.25%
+
+27. BBOX - Black Box Limited
+   Confidence Score: 0.8121 (±0.1481)
+   High Confidence: Yes
+   Market Cap: Mid
+   Industry: IT Enabled Services
+   Sector: Information Technology
+   Sharpe Ratio: 0.7623
+   Return on Equity: 0.8974
+   Profit Margin: 0.0302
+   Year Change %: 23.35%
+
+28. BALRAMCHIN - Balrampur Chini Mills Limited
+   Confidence Score: 0.8085 (±0.1567)
+   High Confidence: No
+   Market Cap: Mid
+   Industry: Sugar
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: 1.1533
+   Return on Equity: 3.4324
+   Profit Margin: 0.0531
+   Year Change %: 44.27%
+
+29. PFIZER - Pfizer Limited
+   Confidence Score: 0.8075 (±0.1840)
+   High Confidence: No
+   Market Cap: Large
+   Industry: Pharmaceuticals
+   Sector: Healthcare
+   Sharpe Ratio: 0.1136
+   Return on Equity: 3.1815
+   Profit Margin: 0.2585
+   Year Change %: -0.67%
+
+30. PRAJIND - Praj Industries Limited
+   Confidence Score: 0.8054 (±0.1299)
+   High Confidence: Yes
+   Market Cap: Mid
+   Industry: Industrial Products
+   Sector: Capital Goods
+   Sharpe Ratio: 0.2057
+   Return on Equity: 1.6241
+   Profit Margin: 0.0756
+   Year Change %: -0.46%
+
+31. BASF - BASF India Limited
+   Confidence Score: 0.8051 (±0.1708)
+   High Confidence: No
+   Market Cap: Large
+   Industry: Specialty Chemicals
+   Sector: Chemicals
+   Sharpe Ratio: 0.6743
+   Return on Equity: 3.4808
+   Profit Margin: 0.0378
+   Year Change %: 23.79%
+
+32. RBLBANK - RBL Bank Limited
+   Confidence Score: 0.8032 (±0.1623)
+   High Confidence: No
+   Market Cap: Mid
+   Industry: Private Sector Bank
+   Sector: Financial Services
+   Sharpe Ratio: -0.7033
+   Return on Equity: 0.4247
+   Profit Margin: 0.0660
+   Year Change %: -30.88%
+
+33. JKTYRE - JK Tyre & Industries Limited
+   Confidence Score: 0.8018 (±0.1713)
+   High Confidence: No
+   Market Cap: Mid
+   Industry: Tyres & Rubber Products
+   Sector: Automobile and Auto Components
+   Sharpe Ratio: -0.8560
+   Return on Equity: 2.2878
+   Profit Margin: 0.0377
+   Year Change %: -29.91%
+
+34. METROBRAND - Metro Brands Limited
+   Confidence Score: 0.7998 (±0.1564)
+   High Confidence: No
+   Market Cap: Large
+   Industry: Footwear
+   Sector: Consumer Durables
+   Sharpe Ratio: 0.1602
+   Return on Equity: 0.6351
+   Profit Margin: 0.1390
+   Year Change %: 0.25%
+
+35. WHIRLPOOL - Whirlpool of India Limited
+   Confidence Score: 0.7989 (±0.2049)
+   High Confidence: No
+   Market Cap: Large
+   Industry: Household Appliances
+   Sector: Consumer Durables
+   Sharpe Ratio: -0.3939
+   Return on Equity: 0.6393
+   Profit Margin: 0.0411
+   Year Change %: -22.12%
+
+36. TVSHLTD - TVS Holdings Limited
+   Confidence Score: 0.7980 (±0.1823)
+   High Confidence: No
+   Market Cap: Large
+   Industry: Investment Company
+   Sector: Financial Services
+   Sharpe Ratio: 0.4577
+   Return on Equity: 58.1453
+   Profit Margin: 0.0527
+   Year Change %: 10.04%
+
+37. CAMPUS - Campus Activewear Limited
+   Confidence Score: 0.7973 (±0.1824)
+   High Confidence: No
+   Market Cap: Mid
+   Industry: Footwear
+   Sector: Consumer Durables
+   Sharpe Ratio: 0.2878
+   Return on Equity: 0.1881
+   Profit Margin: 0.0726
+   Year Change %: 3.59%
+
+38. HATSUN - Hatsun Agro Product Limited
+   Confidence Score: 0.7972 (±0.2094)
+   High Confidence: No
+   Market Cap: Large
+   Industry: Dairy Products
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: 0.0668
+   Return on Equity: 3.5278
+   Profit Margin: 0.0365
+   Year Change %: -5.43%
+
+39. MINDACORP - Minda Corporation Limited
+   Confidence Score: 0.7918 (±0.1624)
+   High Confidence: No
+   Market Cap: Mid
+   Industry: Auto Components & Equipments
+   Sector: Automobile and Auto Components
+   Sharpe Ratio: 0.6443
+   Return on Equity: 1.4174
+   Profit Margin: 0.0544
+   Year Change %: 19.82%
+
+40. SAREGAMA - Saregama India Limited
+   Confidence Score: 0.7910 (±0.1783)
+   High Confidence: No
+   Market Cap: Mid
+   Industry: Media & Entertainment
+   Sector: Media Entertainment & Publication
+   Sharpe Ratio: 0.8496
+   Return on Equity: 2.4805
+   Profit Margin: 0.1680
+   Year Change %: 34.73%
+
+41. ZEEL - Zee Entertainment Enterprises Limited
+   Confidence Score: 0.7907 (±0.1810)
+   High Confidence: No
+   Market Cap: Mid
+   Industry: TV Broadcasting & Software Production
+   Sector: Media Entertainment & Publication
+   Sharpe Ratio: -0.4627
+   Return on Equity: 1.7037
+   Profit Margin: 0.0804
+   Year Change %: -26.79%
+
+42. CEATLTD - CEAT Limited
+   Confidence Score: 0.7903 (±0.1720)
+   High Confidence: No
+   Market Cap: Mid
+   Industry: Tyres & Rubber Products
+   Sector: Automobile and Auto Components
+   Sharpe Ratio: 0.4372
+   Return on Equity: 3.0710
+   Profit Margin: 0.0380
+   Year Change %: 9.65%
+
+43. SUNDRMFAST - Sundram Fasteners Limited
+   Confidence Score: 0.7895 (±0.2077)
+   High Confidence: No
+   Market Cap: Large
+   Industry: Auto Components & Equipments
+   Sector: Automobile and Auto Components
+   Sharpe Ratio: -0.7415
+   Return on Equity: 6.6200
+   Profit Margin: 0.0943
+   Year Change %: -20.43%
+
+44. EMCURE - Emcure Pharmaceuticals Limited
+   Confidence Score: 0.7871 (±0.2108)
+   High Confidence: No
+   Market Cap: Large
+   Industry: Pharmaceuticals
+   Sector: Healthcare
+   Sharpe Ratio: -1.2249
+   Return on Equity: 0.9116
+   Profit Margin: 0.0883
+   Year Change %: -32.35%
+
+45. JMFINANCIL - JM Financial Limited
+   Confidence Score: 0.7868 (±0.1903)
+   High Confidence: No
+   Market Cap: Mid
+   Industry: Holding Company
+   Sector: Financial Services
+   Sharpe Ratio: 0.6081
+   Return on Equity: 2.8029
+   Profit Margin: 0.1596
+   Year Change %: 19.08%
+
+46. INDIACEM - The India Cements Limited
+   Confidence Score: 0.7867 (±0.2000)
+   High Confidence: No
+   Market Cap: Mid
+   Industry: Cement & Cement Products
+   Sector: Construction Materials
+   Sharpe Ratio: 0.7648
+   Return on Equity: -0.1703
+   Profit Margin: -0.0528
+   Year Change %: 26.16%
+
+47. TIMKEN - Timken India Limited
+   Confidence Score: 0.7862 (±0.1560)
+   High Confidence: No
+   Market Cap: Large
+   Industry: Abrasives & Bearings
+   Sector: Capital Goods
+   Sharpe Ratio: -0.2637
+   Return on Equity: 1.1547
+   Profit Margin: 0.1180
+   Year Change %: -15.16%
+
+48. SCI - Shipping Corporation Of India Limited
+   Confidence Score: 0.7857 (±0.1956)
+   High Confidence: No
+   Market Cap: Mid
+   Industry: Shipping
+   Sector: Services
+   Sharpe Ratio: -0.0966
+   Return on Equity: 0.4679
+   Profit Margin: 0.1528
+   Year Change %: -18.51%
+
+49. NAVA - NAVA LIMITED
+   Confidence Score: 0.7832 (±0.1437)
+   High Confidence: Yes
+   Market Cap: Large
+   Industry: Power Generation
+   Sector: Power
+   Sharpe Ratio: 0.4349
+   Return on Equity: 7.3415
+   Profit Margin: 0.3489
+   Year Change %: -1.31%
+
+50. BIKAJI - Bikaji Foods International Limited
+   Confidence Score: 0.7818 (±0.1602)
+   High Confidence: No
+   Market Cap: Mid
+   Industry: Packaged Foods
+   Sector: Fast Moving Consumer Goods
+   Sharpe Ratio: 0.9276
+   Return on Equity: 2.0558
+   Profit Margin: 0.0769
+   Year Change %: 34.67%
+

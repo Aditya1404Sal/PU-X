@@ -1,0 +1,998 @@
+NSE STOCK SELECTION REPORT (CORRELATION-BASED CLUSTERING)
+================================================
+
+DATA SUMMARY
+-----------
+Total companies: 2002
+Labeled companies: 581
+
+FEATURE SELECTION
+----------------
+Top 15 features by correlation to market cap labels:
+- market_cap_numeric: 0.7828
+- log_market_cap: 0.6957
+- log_revenue: 0.5330
+- stability_score: 0.5007
+- high_low_ratio: 0.4911
+- avg_vwap_distance: 0.2694
+- price_to_book: 0.2532
+- log_profit: 0.2479
+- earnings_growth: 0.2434
+- return_on_equity: 0.2393
+- liquidity_score: 0.1869
+- avg_volume_spike: 0.1811
+- price_volatility: 0.1559
+- trend_strength: 0.1384
+- volatility: 0.1365
+
+RANDOM FOREST FEATURE IMPORTANCE
+-----------------------------
+- log_market_cap: 0.2090
+- market_cap_numeric: 0.1621
+- log_profit: 0.1549
+- log_revenue: 0.0986
+- high_low_ratio: 0.0850
+- stability_score: 0.0632
+- price_to_book: 0.0549
+- avg_vwap_distance: 0.0458
+- return_on_equity: 0.0391
+- earnings_growth: 0.0388
+- avg_volume_spike: 0.0380
+- liquidity_score: 0.0105
+
+CLUSTERING RESULTS
+-----------------
+Silhouette Score: 0.4544
+
+Cluster 3 -> NIN-L (Avg Market Cap: 3.87)
+Cluster 1 -> NIN-M (Avg Market Cap: 3.41)
+Cluster 2 -> NIN-S (Avg Market Cap: 3.10)
+Cluster 0 -> NIN-Mi (Avg Market Cap: 1.61)
+
+
+CLUSTER-LABEL DISTRIBUTION
+-------------------------
+Cluster 0 (NIN-Mi):
+  IN-Mi: 63 companies (100.0%)
+
+Cluster 1 (NIN-M):
+  IN-Mi: 184 companies (40.1%)
+  IN-M: 115 companies (25.1%)
+  IN-S: 95 companies (20.7%)
+  IN-L: 65 companies (14.2%)
+
+Cluster 2 (NIN-S):
+  IN-M: 1 companies (100.0%)
+
+Cluster 3 (NIN-L):
+  IN-L: 28 companies (48.3%)
+  IN-M: 27 companies (46.6%)
+  IN-Mi: 2 companies (3.4%)
+  IN-S: 1 companies (1.7%)
+
+SELECTED COMPANIES BY CATEGORY
+----------------------------
+
+NIN-L - TOP 5 COMPANIES:
+------------------------
+1. JBCHEPHARM - JB Chemicals & Pharmaceuticals Limited
+   Performance Score: 0.6573
+   Market Cap Category: Large
+   Sharpe Ratio: -0.3237
+   Profit Margin: 0.1750
+   Return on Equity: 10.9504
+   Year Change %: -12.81%
+
+2. ZFCVINDIA - ZF Commercial Vehicle Control Systems India Limited
+   Performance Score: 0.6450
+   Market Cap Category: Large
+   Sharpe Ratio: -0.0561
+   Profit Margin: 0.1185
+   Return on Equity: 11.7398
+   Year Change %: -10.15%
+
+3. EIDPARRY - EID Parry India Limited
+   Performance Score: 0.5870
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.8794
+   Profit Margin: 0.0497
+   Return on Equity: 23.1481
+   Year Change %: 28.60%
+
+4. ASTRAZEN - AstraZeneca Pharma India Limited
+   Performance Score: 0.5304
+   Market Cap Category: Mid
+   Sharpe Ratio: 1.3163
+   Profit Margin: 0.0465
+   Return on Equity: 3.8329
+   Year Change %: 62.64%
+
+5. PARASPETRO - Paras Petrofils Limited
+   Performance Score: 0.2447
+   Market Cap Category: Micro
+   Sharpe Ratio: -0.3954
+   Profit Margin: 0.0660
+   Return on Equity: 29.2233
+   Year Change %: -11.69%
+
+
+NIN-M - TOP 50 COMPANIES:
+------------------------
+1. JINDALSAW - Jindal Saw Limited
+   Performance Score: 0.6711
+   Market Cap Category: Large
+   Sharpe Ratio: -0.5602
+   Profit Margin: 0.0869
+   Return on Equity: 7.1468
+   Year Change %: -50.19%
+
+2. SUNDRMFAST - Sundram Fasteners Limited
+   Performance Score: 0.6630
+   Market Cap Category: Large
+   Sharpe Ratio: -0.7415
+   Profit Margin: 0.0943
+   Return on Equity: 6.6200
+   Year Change %: -20.43%
+
+3. KANSAINER - Kansai Nerolac Paints Limited
+   Performance Score: 0.6626
+   Market Cap Category: Large
+   Sharpe Ratio: -0.2285
+   Profit Margin: 0.1676
+   Return on Equity: 4.1518
+   Year Change %: -8.63%
+
+4. ISEC - ICICI Securities Limited
+   Performance Score: 0.6616
+   Market Cap Category: Large
+   Sharpe Ratio: 1.1223
+   Profit Margin: 0.3163
+   Return on Equity: 3.2081
+   Year Change %: 24.38%
+
+5. BASF - BASF India Limited
+   Performance Score: 0.6517
+   Market Cap Category: Large
+   Sharpe Ratio: 0.6743
+   Profit Margin: 0.0378
+   Return on Equity: 3.4808
+   Year Change %: 23.79%
+
+6. RATNAMANI - Ratnamani Metals & Tubes Limited
+   Performance Score: 0.6488
+   Market Cap Category: Large
+   Sharpe Ratio: -0.1538
+   Profit Margin: 0.0975
+   Return on Equity: 8.0468
+   Year Change %: -7.86%
+
+7. WHIRLPOOL - Whirlpool of India Limited
+   Performance Score: 0.6487
+   Market Cap Category: Large
+   Sharpe Ratio: -0.3939
+   Profit Margin: 0.0411
+   Return on Equity: 0.6393
+   Year Change %: -22.12%
+
+8. GPIL - Godawari Power And Ispat limited
+   Performance Score: 0.6481
+   Market Cap Category: Large
+   Sharpe Ratio: -0.6181
+   Profit Margin: 0.1513
+   Return on Equity: 3.1974
+   Year Change %: -77.13%
+
+9. CARBORUNIV - Carborundum Universal Limited
+   Performance Score: 0.6478
+   Market Cap Category: Large
+   Sharpe Ratio: -0.6171
+   Profit Margin: 0.0730
+   Return on Equity: 4.7042
+   Year Change %: -23.47%
+
+10. HATSUN - Hatsun Agro Product Limited
+   Performance Score: 0.6474
+   Market Cap Category: Large
+   Sharpe Ratio: 0.0668
+   Profit Margin: 0.0365
+   Return on Equity: 3.5278
+   Year Change %: -5.43%
+
+11. EMCURE - Emcure Pharmaceuticals Limited
+   Performance Score: 0.6470
+   Market Cap Category: Large
+   Sharpe Ratio: -1.2249
+   Profit Margin: 0.0883
+   Return on Equity: 0.9116
+   Year Change %: -32.35%
+
+12. PGHH - Procter & Gamble Hygiene and Health Care Limited
+   Performance Score: 0.6464
+   Market Cap Category: Large
+   Sharpe Ratio: -0.6433
+   Profit Margin: 0.1876
+   Return on Equity: 6.5194
+   Year Change %: -13.82%
+
+13. NAVA - NAVA LIMITED
+   Performance Score: 0.6416
+   Market Cap Category: Large
+   Sharpe Ratio: 0.4349
+   Profit Margin: 0.3489
+   Return on Equity: 7.3415
+   Year Change %: -1.31%
+
+14. KIMS - Krishna Institute of Medical Sciences Limited
+   Performance Score: 0.6413
+   Market Cap Category: Large
+   Sharpe Ratio: -0.3686
+   Profit Margin: 0.1378
+   Return on Equity: 1.2849
+   Year Change %: -68.40%
+
+15. EIHOTEL - EIH Limited
+   Performance Score: 0.6412
+   Market Cap Category: Large
+   Sharpe Ratio: -0.5229
+   Profit Margin: 0.2653
+   Return on Equity: 1.3547
+   Year Change %: -21.79%
+
+16. TIMKEN - Timken India Limited
+   Performance Score: 0.6387
+   Market Cap Category: Large
+   Sharpe Ratio: -0.2637
+   Profit Margin: 0.1180
+   Return on Equity: 1.1547
+   Year Change %: -15.16%
+
+17. SUMICHEM - Sumitomo Chemical India Limited
+   Performance Score: 0.6383
+   Market Cap Category: Large
+   Sharpe Ratio: 1.1285
+   Profit Margin: 0.1647
+   Return on Equity: 0.2716
+   Year Change %: 44.45%
+
+18. MANYAVAR - Vedant Fashions Limited
+   Performance Score: 0.6373
+   Market Cap Category: Large
+   Sharpe Ratio: -0.1643
+   Profit Margin: 0.2820
+   Return on Equity: 3.9435
+   Year Change %: -11.17%
+
+19. METROBRAND - Metro Brands Limited
+   Performance Score: 0.6350
+   Market Cap Category: Large
+   Sharpe Ratio: 0.1602
+   Profit Margin: 0.1390
+   Return on Equity: 0.6351
+   Year Change %: 0.25%
+
+20. SKFINDIA - SKF India Limited
+   Performance Score: 0.6350
+   Market Cap Category: Large
+   Sharpe Ratio: -0.4020
+   Profit Margin: 0.0979
+   Return on Equity: 2.4477
+   Year Change %: -15.25%
+
+21. GILLETTE - Gillette India Limited
+   Performance Score: 0.6345
+   Market Cap Category: Large
+   Sharpe Ratio: 0.7492
+   Profit Margin: 0.1667
+   Return on Equity: 3.6624
+   Year Change %: 22.35%
+
+22. GRINDWELL - Grindwell Norton Limited
+   Performance Score: 0.6339
+   Market Cap Category: Large
+   Sharpe Ratio: -0.7364
+   Profit Margin: 0.1315
+   Return on Equity: 1.6315
+   Year Change %: -25.12%
+
+23. PFIZER - Pfizer Limited
+   Performance Score: 0.6322
+   Market Cap Category: Large
+   Sharpe Ratio: 0.1136
+   Profit Margin: 0.2585
+   Return on Equity: 3.1815
+   Year Change %: -0.67%
+
+24. JYOTICNC - Jyoti CNC Automation Limited
+   Performance Score: 0.6312
+   Market Cap Category: Large
+   Sharpe Ratio: 0.8427
+   Profit Margin: 0.1657
+   Return on Equity: 1.4459
+   Year Change %: 36.30%
+
+25. POLYMED - Poly Medicure Limited
+   Performance Score: 0.6278
+   Market Cap Category: Large
+   Sharpe Ratio: 0.9580
+   Profit Margin: 0.2008
+   Return on Equity: 1.6526
+   Year Change %: 38.15%
+
+26. HEG - HEG Limited
+   Performance Score: 0.6267
+   Market Cap Category: Large
+   Sharpe Ratio: -0.7570
+   Profit Margin: 0.1167
+   Return on Equity: 1.6298
+   Year Change %: -81.44%
+
+27. ANANDRATHI - Anand Rathi Wealth Limited
+   Performance Score: 0.6251
+   Market Cap Category: Large
+   Sharpe Ratio: -0.9546
+   Profit Margin: 0.3186
+   Return on Equity: 3.6279
+   Year Change %: -56.99%
+
+28. SUVENPHAR - Suven Pharmaceuticals Limited
+   Performance Score: 0.6216
+   Market Cap Category: Large
+   Sharpe Ratio: 1.8103
+   Profit Margin: 0.2841
+   Return on Equity: 0.0870
+   Year Change %: 83.17%
+
+29. JUBLPHARMA - Jubilant Pharmova Limited
+   Performance Score: 0.5643
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.9818
+   Profit Margin: 0.1291
+   Return on Equity: 14.4515
+   Year Change %: 41.10%
+
+30. QUESS - Quess Corp Limited
+   Performance Score: 0.5600
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.2287
+   Profit Margin: 0.0234
+   Return on Equity: 0.7815
+   Year Change %: 1.43%
+
+31. CANFINHOME - Can Fin Homes Limited
+   Performance Score: 0.5586
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.4117
+   Profit Margin: 0.2164
+   Return on Equity: 7.8004
+   Year Change %: -15.96%
+
+32. CEATLTD - CEAT Limited
+   Performance Score: 0.5584
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.4372
+   Profit Margin: 0.0380
+   Return on Equity: 3.0710
+   Year Change %: 9.65%
+
+33. BBTC - Bombay Burmah Trading Corporation Limited
+   Performance Score: 0.5578
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.5716
+   Profit Margin: 0.1292
+   Return on Equity: 14.8821
+   Year Change %: 17.75%
+
+34. KAJARIACER - Kajaria Ceramics Limited
+   Performance Score: 0.5570
+   Market Cap Category: Mid
+   Sharpe Ratio: -1.2840
+   Profit Margin: 0.0743
+   Return on Equity: 5.3743
+   Year Change %: -33.91%
+
+35. DEEPAKFERT - Deepak Fertilizers and Petrochemicals Corporation Limited
+   Performance Score: 0.5567
+   Market Cap Category: Mid
+   Sharpe Ratio: 1.7667
+   Profit Margin: 0.0877
+   Return on Equity: 1.7607
+   Year Change %: 124.10%
+
+36. JKTYRE - JK Tyre & Industries Limited
+   Performance Score: 0.5546
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.8560
+   Profit Margin: 0.0377
+   Return on Equity: 2.2878
+   Year Change %: -29.91%
+
+37. DCMSHRIRAM - DCM Shriram Limited
+   Performance Score: 0.5544
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.4909
+   Profit Margin: 0.0438
+   Return on Equity: 4.5227
+   Year Change %: 12.27%
+
+38. VTL - Vardhman Textiles Limited
+   Performance Score: 0.5537
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.1787
+   Profit Margin: 0.0892
+   Return on Equity: 3.8011
+   Year Change %: -0.70%
+
+39. LTFOODS - LT Foods Limited
+   Performance Score: 0.5534
+   Market Cap Category: Mid
+   Sharpe Ratio: 1.4660
+   Profit Margin: 0.0699
+   Return on Equity: 4.3319
+   Year Change %: 75.33%
+
+40. APLLTD - Alembic Pharmaceuticals Limited
+   Performance Score: 0.5534
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.1436
+   Profit Margin: 0.0970
+   Return on Equity: 3.9599
+   Year Change %: -12.61%
+
+41. GODREJAGRO - Godrej Agrovet Limited
+   Performance Score: 0.5532
+   Market Cap Category: Mid
+   Sharpe Ratio: 1.2951
+   Profit Margin: 0.0465
+   Return on Equity: 0.5847
+   Year Change %: 49.19%
+
+42. SARDAEN - Sarda Energy & Minerals Limited
+   Performance Score: 0.5518
+   Market Cap Category: Mid
+   Sharpe Ratio: 1.7541
+   Profit Margin: 0.1768
+   Return on Equity: 5.6924
+   Year Change %: 108.59%
+
+43. PDSL - PDS Limited
+   Performance Score: 0.5517
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.1870
+   Profit Margin: 0.0184
+   Return on Equity: 2.0188
+   Year Change %: -13.13%
+
+44. GNFC - Gujarat Narmada Valley Fertilizers and Chemicals Limited
+   Performance Score: 0.5517
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.8363
+   Profit Margin: 0.0661
+   Return on Equity: 0.8753
+   Year Change %: -29.66%
+
+45. BALRAMCHIN - Balrampur Chini Mills Limited
+   Performance Score: 0.5506
+   Market Cap Category: Mid
+   Sharpe Ratio: 1.1533
+   Profit Margin: 0.0531
+   Return on Equity: 3.4324
+   Year Change %: 44.27%
+
+46. KIRLOSBROS - Kirloskar Brothers Limited
+   Performance Score: 0.5502
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.8444
+   Profit Margin: 0.0875
+   Return on Equity: 5.8868
+   Year Change %: 37.82%
+
+47. KNRCON - KNR Constructions Limited
+   Performance Score: 0.5502
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.0380
+   Profit Margin: 0.2632
+   Return on Equity: 5.8923
+   Year Change %: -11.00%
+
+48. MAHSEAMLES - Maharashtra Seamless Limited
+   Performance Score: 0.5499
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.5326
+   Profit Margin: 0.1389
+   Return on Equity: 2.6620
+   Year Change %: -25.02%
+
+49. VINATIORGA - Vinati Organics Limited
+   Performance Score: 0.5496
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.0937
+   Profit Margin: 0.1764
+   Return on Equity: 9.0725
+   Year Change %: -1.75%
+
+50. PNCINFRA - PNC Infratech Limited
+   Performance Score: 0.5490
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.8155
+   Profit Margin: 0.1461
+   Return on Equity: 4.8075
+   Year Change %: -40.08%
+
+
+NIN-S - TOP 9 COMPANIES:
+------------------------
+1. CHOLAHLDNG - Cholamandalam Financial Holdings Limited
+   Performance Score: 0.7094
+   Market Cap Category: Large
+   Sharpe Ratio: 1.4056
+   Profit Margin: 0.1395
+   Return on Equity: 59.9521
+   Year Change %: 63.89%
+
+2. TVSHLTD - TVS Holdings Limited
+   Performance Score: 0.7026
+   Market Cap Category: Large
+   Sharpe Ratio: 0.4577
+   Profit Margin: 0.0527
+   Return on Equity: 58.1453
+   Year Change %: 10.04%
+
+3. AIIL - Authum Investment & Infrastructure Limited
+   Performance Score: 0.6812
+   Market Cap Category: Large
+   Sharpe Ratio: 1.2733
+   Profit Margin: 0.7928
+   Return on Equity: 48.6563
+   Year Change %: 73.72%
+
+4. RAYMOND - Raymond Limited
+   Performance Score: 0.5853
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.0653
+   Profit Margin: 3.7746
+   Return on Equity: 66.9246
+   Year Change %: -20.61%
+
+5. KIRLOSIND - Kirloskar Industries Limited
+   Performance Score: 0.5450
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.5054
+   Profit Margin: 0.0434
+   Return on Equity: 6.9657
+   Year Change %: -25.87%
+
+6. JSWHL - JSW Holdings Limited
+   Performance Score: 0.5247
+   Market Cap Category: Mid
+   Sharpe Ratio: 3.3188
+   Profit Margin: 0.8450
+   Return on Equity: 5.5488
+   Year Change %: 249.33%
+
+7. NSIL - Nalwa Sons Investments Limited
+   Performance Score: 0.4391
+   Market Cap Category: Small
+   Sharpe Ratio: 1.5531
+   Profit Margin: 0.6413
+   Return on Equity: 4.7009
+   Year Change %: 111.66%
+
+8. SUMMITSEC - Summit Securities Limited
+   Performance Score: 0.4208
+   Market Cap Category: Small
+   Sharpe Ratio: 1.1065
+   Profit Margin: 0.6605
+   Return on Equity: 2.4049
+   Year Change %: 61.10%
+
+9. KICL - Kalyani Investment Company Limited
+   Performance Score: 0.4088
+   Market Cap Category: Small
+   Sharpe Ratio: 0.6060
+   Profit Margin: 0.8078
+   Return on Equity: 3.5028
+   Year Change %: 14.30%
+
+
+NIN-Mi - TOP 50 COMPANIES:
+-------------------------
+1. ELECTHERM - Electrotherm (India) Limited
+   Performance Score: 0.4643
+   Market Cap Category: Small
+   Sharpe Ratio: 4.9010
+   Profit Margin: 0.0869
+   Return on Equity: 6.7151
+   Year Change %: 5.68%
+
+2. GOKULAGRO - Gokul Agro Resources Limited
+   Performance Score: 0.4569
+   Market Cap Category: Small
+   Sharpe Ratio: 1.6509
+   Profit Margin: 0.0140
+   Return on Equity: 2.2239
+   Year Change %: 112.45%
+
+3. WSTCSTPAPR - West Coast Paper Mills Limited
+   Performance Score: 0.4536
+   Market Cap Category: Small
+   Sharpe Ratio: -0.7336
+   Profit Margin: 0.0958
+   Return on Equity: 7.3049
+   Year Change %: -27.52%
+
+4. RPTECH - Rashi Peripherals Limited
+   Performance Score: 0.4532
+   Market Cap Category: Small
+   Sharpe Ratio: -0.0043
+   Profit Margin: 0.0145
+   Return on Equity: 1.5880
+   Year Change %: -9.37%
+
+5. JINDALPOLY - Jindal Poly Films Limited
+   Performance Score: 0.4501
+   Market Cap Category: Small
+   Sharpe Ratio: 0.7007
+   Profit Margin: 0.0738
+   Return on Equity: 2.1985
+   Year Change %: 25.44%
+
+6. RPSGVENT - RPSG VENTURES LIMITED
+   Performance Score: 0.4495
+   Market Cap Category: Small
+   Sharpe Ratio: 0.5664
+   Profit Margin: 0.0215
+   Return on Equity: 1.5323
+   Year Change %: 17.45%
+
+7. NAVNETEDUL - Navneet Education Limited
+   Performance Score: 0.4485
+   Market Cap Category: Small
+   Sharpe Ratio: 0.1150
+   Profit Margin: 0.5597
+   Return on Equity: 5.6585
+   Year Change %: -1.42%
+
+8. ZUARI - Zuari Agro Chemicals Limited
+   Performance Score: 0.4470
+   Market Cap Category: Small
+   Sharpe Ratio: 0.3361
+   Profit Margin: 0.0585
+   Return on Equity: 1.6147
+   Year Change %: 5.10%
+
+9. MAITHANALL - Maithan Alloys Limited
+   Performance Score: 0.4469
+   Market Cap Category: Small
+   Sharpe Ratio: -0.6457
+   Profit Margin: 0.5028
+   Return on Equity: 7.8904
+   Year Change %: -24.37%
+
+10. DALMIASUG - Dalmia Bharat Sugar and Industries Limited
+   Performance Score: 0.4461
+   Market Cap Category: Small
+   Sharpe Ratio: 0.2974
+   Profit Margin: 0.0730
+   Return on Equity: 4.0819
+   Year Change %: 2.82%
+
+11. UFLEX - UFLEX Limited
+   Performance Score: 0.4461
+   Market Cap Category: Small
+   Sharpe Ratio: 0.5433
+   Profit Margin: 0.0295
+   Return on Equity: 1.0265
+   Year Change %: 15.48%
+
+12. LUMAXTECH - Lumax Auto Technologies Limited
+   Performance Score: 0.4458
+   Market Cap Category: Small
+   Sharpe Ratio: 0.5268
+   Profit Margin: 0.0597
+   Return on Equity: 3.6555
+   Year Change %: 13.81%
+
+13. NAGAFERT - Nagarjuna Fertilizers and Chemicals Limited
+   Performance Score: 0.4454
+   Market Cap Category: Small
+   Sharpe Ratio: -1.4379
+   Profit Margin: 3.4635
+   Return on Equity: 13.5750
+   Year Change %: -57.91%
+
+14. SSWL - Steel Strips Wheels Limited
+   Performance Score: 0.4444
+   Market Cap Category: Small
+   Sharpe Ratio: -0.3323
+   Profit Margin: 0.0421
+   Return on Equity: 2.8596
+   Year Change %: -15.21%
+
+15. PRAKASH - Prakash Industries Limited
+   Performance Score: 0.4432
+   Market Cap Category: Small
+   Sharpe Ratio: 0.2623
+   Profit Margin: 0.0835
+   Return on Equity: 0.4926
+   Year Change %: 1.08%
+
+16. ASHAPURMIN - Ashapura Minechem Limited
+   Performance Score: 0.4431
+   Market Cap Category: Small
+   Sharpe Ratio: 0.4062
+   Profit Margin: 0.0964
+   Return on Equity: 3.7256
+   Year Change %: 6.03%
+
+17. REPCOHOME - Repco Home Finance Limited
+   Performance Score: 0.4429
+   Market Cap Category: Small
+   Sharpe Ratio: -0.4053
+   Profit Margin: 0.2707
+   Return on Equity: 1.8160
+   Year Change %: -20.29%
+
+18. JAGRAN - Jagran Prakashan Limited
+   Performance Score: 0.4427
+   Market Cap Category: Small
+   Sharpe Ratio: -1.1460
+   Profit Margin: 0.1033
+   Return on Equity: 1.1134
+   Year Change %: -30.09%
+
+19. GOODLUCK - Goodluck India Limited
+   Performance Score: 0.4416
+   Market Cap Category: Small
+   Sharpe Ratio: -0.3306
+   Profit Margin: 0.0437
+   Return on Equity: 6.2989
+   Year Change %: -23.12%
+
+20. SATIN - Satin Creditcare Network Limited
+   Performance Score: 0.4411
+   Market Cap Category: Small
+   Sharpe Ratio: -1.2791
+   Profit Margin: 0.0840
+   Return on Equity: 0.4880
+   Year Change %: -37.10%
+
+21. SPIC - Southern Petrochemicals Industries Corporation  Limited
+   Performance Score: 0.4410
+   Market Cap Category: Small
+   Sharpe Ratio: 0.4150
+   Profit Margin: 0.0584
+   Return on Equity: 0.2230
+   Year Change %: 8.90%
+
+22. MUTHOOTMF - Muthoot Microfin Limited
+   Performance Score: 0.4405
+   Market Cap Category: Small
+   Sharpe Ratio: -1.6980
+   Profit Margin: 0.0900
+   Return on Equity: 0.3492
+   Year Change %: -41.30%
+
+23. FEDFINA - Fedbank Financial Services Limited
+   Performance Score: 0.4401
+   Market Cap Category: Small
+   Sharpe Ratio: -1.2035
+   Profit Margin: 0.1008
+   Return on Equity: 0.1377
+   Year Change %: -30.77%
+
+24. RAMCOIND - Ramco Industries Limited
+   Performance Score: 0.4397
+   Market Cap Category: Small
+   Sharpe Ratio: 0.3831
+   Profit Margin: 0.1171
+   Return on Equity: 5.7248
+   Year Change %: 7.54%
+
+25. KCP - KCP Limited
+   Performance Score: 0.4395
+   Market Cap Category: Small
+   Sharpe Ratio: 0.5389
+   Profit Margin: 0.0962
+   Return on Equity: 4.7100
+   Year Change %: 15.53%
+
+26. FILATEX - Filatex India Limited
+   Performance Score: 0.4393
+   Market Cap Category: Small
+   Sharpe Ratio: -0.8174
+   Profit Margin: 0.0292
+   Return on Equity: 0.6966
+   Year Change %: -36.39%
+
+27. SANATHAN - Sanathan Textiles Limited
+   Performance Score: 0.4392
+   Market Cap Category: Small
+   Sharpe Ratio: 0.3478
+   Profit Margin: 0.0449
+   Return on Equity: 0.4268
+   Year Change %: 1.65%
+
+28. MANGCHEFER - Mangalore Chemicals & Fertilizers Limited
+   Performance Score: 0.4391
+   Market Cap Category: Small
+   Sharpe Ratio: 1.3417
+   Profit Margin: 0.0499
+   Return on Equity: 0.3590
+   Year Change %: 61.30%
+
+29. RAMKY - Ramky Infrastructure Limited
+   Performance Score: 0.4389
+   Market Cap Category: Small
+   Sharpe Ratio: -0.2999
+   Profit Margin: 0.1611
+   Return on Equity: 1.1732
+   Year Change %: -24.62%
+
+30. VRLLOG - VRL Logistics Limited
+   Performance Score: 0.4389
+   Market Cap Category: Small
+   Sharpe Ratio: -0.2993
+   Profit Margin: 0.0462
+   Return on Equity: 0.4142
+   Year Change %: -15.22%
+
+31. DDEVPLSTIK - Ddev Plastiks Industries Limited
+   Performance Score: 0.4389
+   Market Cap Category: Small
+   Sharpe Ratio: 0.3783
+   Profit Margin: 0.0705
+   Return on Equity: 4.5037
+   Year Change %: 0.83%
+
+32. SOTL - Savita Oil Technologies Limited
+   Performance Score: 0.4387
+   Market Cap Category: Small
+   Sharpe Ratio: -0.4715
+   Profit Margin: 0.0297
+   Return on Equity: 2.0213
+   Year Change %: -24.98%
+
+33. COSMOFIRST - COSMO FIRST LIMITED
+   Performance Score: 0.4387
+   Market Cap Category: Small
+   Sharpe Ratio: 0.3103
+   Profit Margin: 0.0494
+   Return on Equity: 1.3493
+   Year Change %: 2.38%
+
+34. WHEELS - Wheels India Limited
+   Performance Score: 0.4386
+   Market Cap Category: Small
+   Sharpe Ratio: 0.4764
+   Profit Margin: 0.0212
+   Return on Equity: 1.0049
+   Year Change %: 11.95%
+
+35. NITINSPIN - Nitin Spinners Limited
+   Performance Score: 0.4384
+   Market Cap Category: Small
+   Sharpe Ratio: 0.2397
+   Profit Margin: 0.0524
+   Return on Equity: 0.7652
+   Year Change %: 1.26%
+
+36. STYRENIX - Styrenix Performance Materials Limited
+   Performance Score: 0.4381
+   Market Cap Category: Small
+   Sharpe Ratio: 1.6092
+   Profit Margin: 0.0876
+   Return on Equity: 3.3927
+   Year Change %: 74.51%
+
+37. GANDHAR - Gandhar Oil Refinery (India) Limited
+   Performance Score: 0.4380
+   Market Cap Category: Small
+   Sharpe Ratio: -1.0537
+   Profit Margin: 0.0243
+   Return on Equity: 1.2127
+   Year Change %: -35.46%
+
+38. LGBBROSLTD - LG Balakrishnan & Bros Limited
+   Performance Score: 0.4380
+   Market Cap Category: Small
+   Sharpe Ratio: -0.2163
+   Profit Margin: 0.1142
+   Return on Equity: 2.2911
+   Year Change %: -11.93%
+
+39. PANAMAPET - Panama Petrochem Limited
+   Performance Score: 0.4379
+   Market Cap Category: Small
+   Sharpe Ratio: 0.4887
+   Profit Margin: 0.0681
+   Return on Equity: 3.9328
+   Year Change %: 12.05%
+
+40. SINDHUTRAD - Sindhu Trade Links Limited
+   Performance Score: 0.4378
+   Market Cap Category: Small
+   Sharpe Ratio: -0.2305
+   Profit Margin: 0.1259
+   Return on Equity: 0.3904
+   Year Change %: -30.77%
+
+41. CAPACITE - Capacit'e Infraprojects Limited
+   Performance Score: 0.4376
+   Market Cap Category: Small
+   Sharpe Ratio: 0.6425
+   Profit Margin: 0.0898
+   Return on Equity: 0.5936
+   Year Change %: 20.33%
+
+42. FMGOETZE - Federal-Mogul Goetze (India) Limited.
+   Performance Score: 0.4376
+   Market Cap Category: Small
+   Sharpe Ratio: -0.0278
+   Profit Margin: 0.0789
+   Return on Equity: 0.6296
+   Year Change %: -5.93%
+
+43. HMAAGRO - HMA Agro Industries Limited
+   Performance Score: 0.4375
+   Market Cap Category: Small
+   Sharpe Ratio: -1.7962
+   Profit Margin: 0.0207
+   Return on Equity: 0.5015
+   Year Change %: -52.30%
+
+44. UDS - Updater Services Limited
+   Performance Score: 0.4372
+   Market Cap Category: Small
+   Sharpe Ratio: 0.0821
+   Profit Margin: 0.0418
+   Return on Equity: 0.4222
+   Year Change %: -5.04%
+
+45. JITFINFRA - JITF Infralogistics Limited
+   Performance Score: 0.4372
+   Market Cap Category: Small
+   Sharpe Ratio: -1.4454
+   Profit Margin: 0.0841
+   Return on Equity: 9.1294
+   Year Change %: -49.98%
+
+46. RAMRAT - Ram Ratna Wires Limited
+   Performance Score: 0.4369
+   Market Cap Category: Small
+   Sharpe Ratio: 1.3702
+   Profit Margin: 0.0189
+   Return on Equity: 0.7807
+   Year Change %: 70.29%
+
+47. SIYSIL - Siyaram Silk Mills Limited
+   Performance Score: 0.4369
+   Market Cap Category: Small
+   Sharpe Ratio: 1.0099
+   Profit Margin: 0.0842
+   Return on Equity: 4.5944
+   Year Change %: 48.98%
+
+48. MANINDS - Man Industries (India) Limited
+   Performance Score: 0.4364
+   Market Cap Category: Small
+   Sharpe Ratio: -0.3461
+   Profit Margin: 0.0372
+   Return on Equity: 0.8756
+   Year Change %: -25.26%
+
+49. BALMLAWRIE - Balmer Lawrie & Company Limited
+   Performance Score: 0.4363
+   Market Cap Category: Small
+   Sharpe Ratio: -0.4239
+   Profit Margin: 0.0974
+   Return on Equity: 0.0000
+   Year Change %: -24.26%
+
+50. KIRIINDUS - Kiri Industries Limited
+   Performance Score: 0.4359
+   Market Cap Category: Small
+   Sharpe Ratio: 1.2962
+   Profit Margin: 0.4684
+   Return on Equity: 2.1053
+   Year Change %: 74.28%
+

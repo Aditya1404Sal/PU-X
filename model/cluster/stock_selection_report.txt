@@ -1,0 +1,313 @@
+NSE STOCK SELECTION REPORT (CLUSTERING-BASED)
+=========================================
+
+CLUSTERING RESULTS
+-----------------
+Silhouette Score: 0.6223
+
+Cluster 0 -> IN-L
+Cluster 1 -> IN-Mi
+Cluster 3 -> IN-L
+Cluster 2 -> NIN-Micro
+
+
+CLUSTER-LABEL DISTRIBUTION
+-------------------------
+Cluster 0:
+  IN-L: 43 companies
+  IN-M: 22 companies
+  IN-S: 3 companies
+  IN-Mi: 2 companies
+
+Cluster 1:
+  IN-Mi: 247 companies
+  IN-M: 120 companies
+  IN-S: 93 companies
+  IN-L: 44 companies
+
+Cluster 2:
+  No labeled companies
+
+Cluster 3:
+  IN-L: 6 companies
+  IN-M: 1 companies
+
+SELECTED COMPANIES BY CATEGORY
+----------------------------
+
+IN-L - TOP 50 COMPANIES:
+
+
+IN-Mi - TOP 50 COMPANIES:
+1. CHENNPETRO - Chennai Petroleum Corporation Limited
+   Performance Score: 3364609332.1492
+   Financial Health: 11215364443.8688
+   Sharpe Ratio: -0.5624
+   Year Change %: -33.48%
+2. GOKULAGRO - Gokul Agro Resources Limited
+   Performance Score: 1409099122.4314
+   Financial Health: 4696997068.3206
+   Sharpe Ratio: 1.6509
+   Year Change %: 112.45%
+3. RPTECH - Rashi Peripherals Limited
+   Performance Score: 1079955900.8998
+   Financial Health: 3599853000.0029
+   Sharpe Ratio: -0.0043
+   Year Change %: -9.37%
+4. QUESS - Quess Corp Limited
+   Performance Score: 993605534.1714
+   Financial Health: 3312018444.8181
+   Sharpe Ratio: 0.2287
+   Year Change %: 1.43%
+5. RCF - Rashtriya Chemicals and Fertilizers Limited
+   Performance Score: 880264667.0513
+   Financial Health: 2934215555.6333
+   Sharpe Ratio: 0.0621
+   Year Change %: -10.47%
+6. JISLDVREQS - Jain Irrigation Systems Limited
+   Performance Score: 806122000.3615
+   Financial Health: 2687073333.3683
+   Sharpe Ratio: 0.0334
+   Year Change %: -11.69%
+7. JINDALSAW - Jindal Saw Limited
+   Performance Score: 789115002.1198
+   Financial Health: 2630383332.5678
+   Sharpe Ratio: -0.5602
+   Year Change %: -50.19%
+8. UFLEX - UFLEX Limited
+   Performance Score: 755033000.9509
+   Financial Health: 2516776667.3438
+   Sharpe Ratio: 0.5433
+   Year Change %: 15.48%
+9. RPSGVENT - RPSG VENTURES LIMITED
+   Performance Score: 706709000.8024
+   Financial Health: 2355696667.2894
+   Sharpe Ratio: 0.5664
+   Year Change %: 17.45%
+10. JKTYRE - JK Tyre & Industries Limited
+   Performance Score: 655159333.6621
+   Financial Health: 2183864443.1008
+   Sharpe Ratio: -0.8560
+   Year Change %: -29.91%
+11. CEATLTD - CEAT Limited
+   Performance Score: 653150001.3000
+   Financial Health: 2177166667.3906
+   Sharpe Ratio: 0.4372
+   Year Change %: 9.65%
+12. DCMSHRIRAM - DCM Shriram Limited
+   Performance Score: 648133335.6973
+   Financial Health: 2160444445.0152
+   Sharpe Ratio: 0.4909
+   Year Change %: 12.27%
+13. PDSL - PDS Limited
+   Performance Score: 603481280.8869
+   Financial Health: 2011604266.4010
+   Sharpe Ratio: -0.1870
+   Year Change %: -13.13%
+14. BASF - BASF India Limited
+   Performance Score: 598664497.3046
+   Financial Health: 1995548334.0826
+   Sharpe Ratio: 0.6743
+   Year Change %: 23.79%
+15. RENUKA - Shree Renuka Sugars Limited
+   Performance Score: 546879999.2238
+   Financial Health: 1822933331.9527
+   Sharpe Ratio: -0.9296
+   Year Change %: -37.40%
+16. GOKUL - Gokul Refoils and Solvent Limited
+   Performance Score: 530156780.8576
+   Financial Health: 1767189267.2098
+   Sharpe Ratio: 0.5972
+   Year Change %: 8.55%
+17. DEEPAKFERT - Deepak Fertilizers and Petrochemicals Corporation Limited
+   Performance Score: 507138001.7403
+   Financial Health: 1690460001.9311
+   Sharpe Ratio: 1.7667
+   Year Change %: 124.10%
+18. VTL - Vardhman Textiles Limited
+   Performance Score: 485087335.3495
+   Financial Health: 1616957778.0427
+   Sharpe Ratio: 0.1787
+   Year Change %: -0.70%
+19. GODREJAGRO - Godrej Agrovet Limited
+   Performance Score: 483275335.2038
+   Financial Health: 1610917779.9314
+   Sharpe Ratio: 1.2951
+   Year Change %: 49.19%
+20. MAHLOG - Mahindra Logistics Limited
+   Performance Score: 453531998.6532
+   Financial Health: 1511773330.9045
+   Sharpe Ratio: -1.3836
+   Year Change %: -39.30%
+21. SAMMAANCAP - Sammaan Capital Limited
+   Performance Score: 443045330.6131
+   Financial Health: 1476817776.5083
+   Sharpe Ratio: -0.8243
+   Year Change %: -35.56%
+22. JAYNECOIND - Jayaswal Neco Industries Limited
+   Performance Score: 432445999.5896
+   Financial Health: 1441486665.8036
+   Sharpe Ratio: -0.8081
+   Year Change %: -38.90%
+23. LTFOODS - LT Foods Limited
+   Performance Score: 430207009.9445
+   Financial Health: 1434023357.3237
+   Sharpe Ratio: 1.4660
+   Year Change %: 75.33%
+24. NETWORK18 - Network18 Media & Investments Limited
+   Performance Score: 421773331.7483
+   Financial Health: 1405911108.9747
+   Sharpe Ratio: -1.4251
+   Year Change %: -52.54%
+25. PVSL - Popular Vehicles and Services Limited
+   Performance Score: 416886697.6485
+   Financial Health: 1389622329.5345
+   Sharpe Ratio: -2.5675
+   Year Change %: -60.44%
+26. RTNINDIA - RattanIndia Enterprises Limited
+   Performance Score: 414409666.3632
+   Financial Health: 1381365554.5105
+   Sharpe Ratio: -0.9328
+   Year Change %: -41.39%
+27. ZEEL - Zee Entertainment Enterprises Limited
+   Performance Score: 407335333.9527
+   Financial Health: 1357784443.8870
+   Sharpe Ratio: -0.4627
+   Year Change %: -26.79%
+28. SHANKARA - Shankara Building Products Limited
+   Performance Score: 394457000.1912
+   Financial Health: 1314856666.4660
+   Sharpe Ratio: -0.1901
+   Year Change %: -16.98%
+29. JINDALPOLY - Jindal Poly Films Limited
+   Performance Score: 391524461.4830
+   Financial Health: 1305081534.2426
+   Sharpe Ratio: 0.7007
+   Year Change %: 25.44%
+30. GNFC - Gujarat Narmada Valley Fertilizers and Chemicals Limited
+   Performance Score: 389133333.0841
+   Financial Health: 1297111109.6417
+   Sharpe Ratio: -0.8363
+   Year Change %: -29.66%
+31. SIS - SIS LIMITED
+   Performance Score: 384689533.0788
+   Financial Health: 1282298442.6360
+   Sharpe Ratio: -0.8879
+   Year Change %: -25.40%
+32. MUKANDLTD - Mukand Limited
+   Performance Score: 378309999.1514
+   Financial Health: 1261033331.7860
+   Sharpe Ratio: -1.2596
+   Year Change %: -44.42%
+33. NSLNISP - NMDC Steel Limited
+   Performance Score: 377653332.0969
+   Financial Health: 1258844442.2587
+   Sharpe Ratio: -1.3760
+   Year Change %: -43.76%
+34. HMAAGRO - HMA Agro Industries Limited
+   Performance Score: 363345798.8055
+   Financial Health: 1211152664.1147
+   Sharpe Ratio: -1.7962
+   Year Change %: -52.30%
+35. RRKABEL - R R Kabel Limited
+   Performance Score: 360026458.4368
+   Financial Health: 1200088198.4093
+   Sharpe Ratio: -1.3510
+   Year Change %: -42.28%
+36. RSWM - RSWM Limited
+   Performance Score: 356960999.8058
+   Financial Health: 1189869999.3819
+   Sharpe Ratio: -0.4204
+   Year Change %: -23.45%
+37. ZUARI - Zuari Agro Chemicals Limited
+   Performance Score: 348410001.4544
+   Financial Health: 1161366667.1989
+   Sharpe Ratio: 0.3361
+   Year Change %: 5.10%
+38. WHEELS - Wheels India Limited
+   Performance Score: 346721001.1277
+   Financial Health: 1155736667.4663
+   Sharpe Ratio: 0.4764
+   Year Change %: 11.95%
+39. RAYMONDLSL - Raymond Lifestyle Limited
+   Performance Score: 346246997.7341
+   Financial Health: 1154156663.8149
+   Sharpe Ratio: -2.6394
+   Year Change %: -56.86%
+40. PNCINFRA - PNC Infratech Limited
+   Performance Score: 337638394.5685
+   Financial Health: 1125461310.2794
+   Sharpe Ratio: -0.8155
+   Year Change %: -40.08%
+41. TRIVENI - Triveni Engineering & Industries Limited
+   Performance Score: 325510667.6929
+   Financial Health: 1085035556.1680
+   Sharpe Ratio: 0.5786
+   Year Change %: 17.23%
+42. HGS - Hinduja Global Solutions Limited
+   Performance Score: 324311998.7113
+   Financial Health: 1081039997.8172
+   Sharpe Ratio: -1.5160
+   Year Change %: -45.37%
+43. HATSUN - Hatsun Agro Product Limited
+   Performance Score: 322845501.4748
+   Financial Health: 1076151666.7644
+   Sharpe Ratio: 0.0668
+   Year Change %: -5.43%
+44. APLLTD - Alembic Pharmaceuticals Limited
+   Performance Score: 321085134.8077
+   Financial Health: 1070283777.6022
+   Sharpe Ratio: -0.1436
+   Year Change %: -12.61%
+45. SSWL - Steel Strips Wheels Limited
+   Performance Score: 319506671.2850
+   Financial Health: 1065022232.7990
+   Sharpe Ratio: -0.3323
+   Year Change %: -15.21%
+46. FILATEX - Filatex India Limited
+   Performance Score: 317212999.8842
+   Financial Health: 1057376665.6019
+   Sharpe Ratio: -0.8174
+   Year Change %: -36.39%
+47. PRAKASH - Prakash Industries Limited
+   Performance Score: 316971000.8211
+   Financial Health: 1056570000.3479
+   Sharpe Ratio: 0.2623
+   Year Change %: 1.08%
+48. TNPL - Tamil Nadu Newsprint & Papers Limited
+   Performance Score: 315915998.4104
+   Financial Health: 1053053330.8269
+   Sharpe Ratio: -1.7827
+   Year Change %: -51.77%
+49. INDORAMA - Indo Rama Synthetics (India) Limited
+   Performance Score: 306046000.0303
+   Financial Health: 1020153332.9309
+   Sharpe Ratio: -0.3301
+   Year Change %: -22.32%
+50. WSTCSTPAPR - West Coast Paper Mills Limited
+   Performance Score: 302100502.4277
+   Financial Health: 1007001665.3248
+   Sharpe Ratio: -0.7336
+   Year Change %: -27.52%
+
+
+NIN-Micro - TOP 50 COMPANIES:
+1. FLEXITUFF - Flexituff Ventures International Limited
+   Performance Score: 45614270.4509
+   Financial Health: 152030563.3552
+   Sharpe Ratio: 12746.2248
+   Year Change %: 27.58%
+
+
+FEATURE IMPORTANCE
+-----------------
+avg_profit_loss_for_period: 0.2063
+avg_revenue_from_operations: 0.1083
+stability_score: 0.0944
+financial_health: 0.0925
+profit_margin: 0.0565
+volatility: 0.0483
+earnings_growth: 0.0462
+return_on_equity: 0.0424
+financial_score: 0.0394
+price_stability: 0.0390

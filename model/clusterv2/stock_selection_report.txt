@@ -1,0 +1,989 @@
+NSE STOCK SELECTION REPORT (MARKET CAP FOCUSED CLUSTERING)
+=========================================
+
+CLUSTERING RESULTS
+-----------------
+Silhouette Score: 0.7985
+
+Cluster 0 -> NIN-L (Avg Market Cap: 4.00)
+Cluster 3 -> NIN-M (Avg Market Cap: 3.05)
+Cluster 1 -> NIN-S (Avg Market Cap: 2.00)
+Cluster 2 -> NIN-Mi (Avg Market Cap: 1.01)
+
+
+CLUSTER-LABEL DISTRIBUTION
+-------------------------
+Cluster 0 (NIN-L):
+  IN-M: 134 companies (48.7%)
+  IN-L: 84 companies (30.5%)
+  IN-S: 47 companies (17.1%)
+  IN-Mi: 10 companies (3.6%)
+
+Cluster 1 (NIN-S):
+  IN-Mi: 64 companies (100.0%)
+
+Cluster 2 (NIN-Mi):
+  No labeled companies
+
+Cluster 3 (NIN-M):
+  IN-Mi: 175 companies (72.3%)
+  IN-S: 49 companies (20.2%)
+  IN-M: 9 companies (3.7%)
+  IN-L: 9 companies (3.7%)
+
+SELECTED COMPANIES BY CATEGORY
+----------------------------
+
+NIN-L - TOP 36 COMPANIES:
+1. CHOLAHLDNG - Cholamandalam Financial Holdings Limited
+   Performance Score: 36.2335
+   Market Cap Category: Large
+   Sharpe Ratio: 1.4056
+   Year Change %: 63.89%
+2. AIIL - Authum Investment & Infrastructure Limited
+   Performance Score: 29.0870
+   Market Cap Category: Large
+   Sharpe Ratio: 1.2733
+   Year Change %: 73.72%
+3. TVSHLTD - TVS Holdings Limited
+   Performance Score: 23.2455
+   Market Cap Category: Large
+   Sharpe Ratio: 0.4577
+   Year Change %: 10.04%
+4. JBCHEPHARM - JB Chemicals & Pharmaceuticals Limited
+   Performance Score: 6.3220
+   Market Cap Category: Large
+   Sharpe Ratio: -0.3237
+   Year Change %: -12.81%
+5. NAVA - NAVA LIMITED
+   Performance Score: 3.8384
+   Market Cap Category: Large
+   Sharpe Ratio: 0.4349
+   Year Change %: -1.31%
+6. ISEC - ICICI Securities Limited
+   Performance Score: 3.5613
+   Market Cap Category: Large
+   Sharpe Ratio: 1.1223
+   Year Change %: 24.38%
+7. JINDALSAW - Jindal Saw Limited
+   Performance Score: 3.2873
+   Market Cap Category: Large
+   Sharpe Ratio: -0.5602
+   Year Change %: -50.19%
+8. SUNDRMFAST - Sundram Fasteners Limited
+   Performance Score: 3.0905
+   Market Cap Category: Large
+   Sharpe Ratio: -0.7415
+   Year Change %: -20.43%
+9. KANSAINER - Kansai Nerolac Paints Limited
+   Performance Score: 2.9818
+   Market Cap Category: Large
+   Sharpe Ratio: -0.2285
+   Year Change %: -8.63%
+10. RATNAMANI - Ratnamani Metals & Tubes Limited
+   Performance Score: 2.9726
+   Market Cap Category: Large
+   Sharpe Ratio: -0.1538
+   Year Change %: -7.86%
+11. HATSUN - Hatsun Agro Product Limited
+   Performance Score: 1.9532
+   Market Cap Category: Large
+   Sharpe Ratio: 0.0668
+   Year Change %: -5.43%
+12. MANYAVAR - Vedant Fashions Limited
+   Performance Score: 1.8184
+   Market Cap Category: Large
+   Sharpe Ratio: -0.1643
+   Year Change %: -11.17%
+13. SUMICHEM - Sumitomo Chemical India Limited
+   Performance Score: 1.4869
+   Market Cap Category: Large
+   Sharpe Ratio: 1.1285
+   Year Change %: 44.45%
+14. CARBORUNIV - Carborundum Universal Limited
+   Performance Score: 1.3470
+   Market Cap Category: Large
+   Sharpe Ratio: -0.6171
+   Year Change %: -23.47%
+15. JYOTICNC - Jyoti CNC Automation Limited
+   Performance Score: 1.1371
+   Market Cap Category: Large
+   Sharpe Ratio: 0.8427
+   Year Change %: 36.30%
+16. SUVENPHAR - Suven Pharmaceuticals Limited
+   Performance Score: 0.9475
+   Market Cap Category: Large
+   Sharpe Ratio: 1.8103
+   Year Change %: 83.17%
+17. EIHOTEL - EIH Limited
+   Performance Score: 0.7960
+   Market Cap Category: Large
+   Sharpe Ratio: -0.5229
+   Year Change %: -21.79%
+18. METROBRAND - Metro Brands Limited
+   Performance Score: 0.6150
+   Market Cap Category: Large
+   Sharpe Ratio: 0.1602
+   Year Change %: 0.25%
+19. POLYMED - Poly Medicure Limited
+   Performance Score: 0.1341
+   Market Cap Category: Large
+   Sharpe Ratio: 0.9580
+   Year Change %: 38.15%
+20. FACT - Fertilizers and Chemicals Travancore Limited
+   Performance Score: -0.3681
+   Market Cap Category: Large
+   Sharpe Ratio: 0.1901
+   Year Change %: -4.29%
+21. GPIL - Godawari Power And Ispat limited
+   Performance Score: -0.5475
+   Market Cap Category: Large
+   Sharpe Ratio: -0.6181
+   Year Change %: -77.13%
+22. EMCURE - Emcure Pharmaceuticals Limited
+   Performance Score: -1.0607
+   Market Cap Category: Large
+   Sharpe Ratio: -1.2249
+   Year Change %: -32.35%
+23. PFIZER - Pfizer Limited
+   Performance Score: -1.0697
+   Market Cap Category: Large
+   Sharpe Ratio: 0.1136
+   Year Change %: -0.67%
+24. KIOCL - KIOCL Limited
+   Performance Score: -1.2212
+   Market Cap Category: Large
+   Sharpe Ratio: -0.9550
+   Year Change %: -46.14%
+25. GRINDWELL - Grindwell Norton Limited
+   Performance Score: -1.2764
+   Market Cap Category: Large
+   Sharpe Ratio: -0.7364
+   Year Change %: -25.12%
+26. WHIRLPOOL - Whirlpool of India Limited
+   Performance Score: -1.9272
+   Market Cap Category: Large
+   Sharpe Ratio: -0.3939
+   Year Change %: -22.12%
+27. ANANDRATHI - Anand Rathi Wealth Limited
+   Performance Score: -2.0422
+   Market Cap Category: Large
+   Sharpe Ratio: -0.9546
+   Year Change %: -56.99%
+28. TIMKEN - Timken India Limited
+   Performance Score: -2.3784
+   Market Cap Category: Large
+   Sharpe Ratio: -0.2637
+   Year Change %: -15.16%
+29. GILLETTE - Gillette India Limited
+   Performance Score: -2.6688
+   Market Cap Category: Large
+   Sharpe Ratio: 0.7492
+   Year Change %: 22.35%
+30. PGHH - Procter & Gamble Hygiene and Health Care Limited
+   Performance Score: -2.7024
+   Market Cap Category: Large
+   Sharpe Ratio: -0.6433
+   Year Change %: -13.82%
+31. SKFINDIA - SKF India Limited
+   Performance Score: -3.3557
+   Market Cap Category: Large
+   Sharpe Ratio: -0.4020
+   Year Change %: -15.25%
+32. KIMS - Krishna Institute of Medical Sciences Limited
+   Performance Score: -3.5391
+   Market Cap Category: Large
+   Sharpe Ratio: -0.3686
+   Year Change %: -68.40%
+33. SAPPHIRE - Sapphire Foods India Limited
+   Performance Score: -3.8682
+   Market Cap Category: Large
+   Sharpe Ratio: -0.8245
+   Year Change %: -79.64%
+34. BASF - BASF India Limited
+   Performance Score: -4.5624
+   Market Cap Category: Large
+   Sharpe Ratio: 0.6743
+   Year Change %: 23.79%
+35. HEG - HEG Limited
+   Performance Score: -4.7254
+   Market Cap Category: Large
+   Sharpe Ratio: -0.7570
+   Year Change %: -81.44%
+36. ZFCVINDIA - ZF Commercial Vehicle Control Systems India Limited
+   Performance Score: -4.9070
+   Market Cap Category: Large
+   Sharpe Ratio: -0.0561
+   Year Change %: -10.15%
+
+
+NIN-M - TOP 50 COMPANIES:
+1. RAYMOND - Raymond Limited
+   Performance Score: 40.2018
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.0653
+   Year Change %: -20.61%
+2. MMTC - MMTC Limited
+   Performance Score: 20.5387
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.4398
+   Year Change %: -29.71%
+3. EIDPARRY - EID Parry India Limited
+   Performance Score: 14.8028
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.8794
+   Year Change %: 28.60%
+4. JUBLPHARMA - Jubilant Pharmova Limited
+   Performance Score: 8.9684
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.9818
+   Year Change %: 41.10%
+5. BBTC - Bombay Burmah Trading Corporation Limited
+   Performance Score: 7.3851
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.5716
+   Year Change %: 17.75%
+6. SHARDAMOTR - Sharda Motor Industries Limited
+   Performance Score: 6.2165
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.2154
+   Year Change %: -1.60%
+7. SKYGOLD - SKY GOLD AND DIAMONDS LIMITED
+   Performance Score: 5.7171
+   Market Cap Category: Mid
+   Sharpe Ratio: 7.2760
+   Year Change %: 18.31%
+8. VINATIORGA - Vinati Organics Limited
+   Performance Score: 5.1450
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.0937
+   Year Change %: -1.75%
+9. AJAXENGG - Ajax Engineering Limited
+   Performance Score: 5.0326
+   Market Cap Category: Mid
+   Sharpe Ratio: 1.0445
+   Year Change %: 4.58%
+10. SARDAEN - Sarda Energy & Minerals Limited
+   Performance Score: 4.8554
+   Market Cap Category: Mid
+   Sharpe Ratio: 1.7541
+   Year Change %: 108.59%
+11. DHANUKA - Dhanuka Agritech Limited
+   Performance Score: 4.8006
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.4744
+   Year Change %: 11.71%
+12. TCI - Transport Corporation of India Limited
+   Performance Score: 4.7084
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.9020
+   Year Change %: 29.25%
+13. CANFINHOME - Can Fin Homes Limited
+   Performance Score: 4.5805
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.4117
+   Year Change %: -15.96%
+14. CAPLIPOINT - Caplin Point Laboratories Limited
+   Performance Score: 4.5333
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.9970
+   Year Change %: 43.73%
+15. TANLA - Tanla Platforms Limited
+   Performance Score: 3.9702
+   Market Cap Category: Mid
+   Sharpe Ratio: -1.4466
+   Year Change %: -48.36%
+16. LTFOODS - LT Foods Limited
+   Performance Score: 3.9227
+   Market Cap Category: Mid
+   Sharpe Ratio: 1.4660
+   Year Change %: 75.33%
+17. KNRCON - KNR Constructions Limited
+   Performance Score: 3.7625
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.0380
+   Year Change %: -11.00%
+18. CONCORDBIO - Concord Biotech Limited
+   Performance Score: 3.7286
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.4000
+   Year Change %: 7.68%
+19. KITEX - Kitex Garments Limited
+   Performance Score: 3.5799
+   Market Cap Category: Mid
+   Sharpe Ratio: 1.2240
+   Year Change %: 12.06%
+20. HOMEFIRST - Home First Finance Company India Limited
+   Performance Score: 3.5471
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.6064
+   Year Change %: 18.05%
+21. ERIS - Eris Lifesciences Limited
+   Performance Score: 3.5229
+   Market Cap Category: Mid
+   Sharpe Ratio: 1.6182
+   Year Change %: 62.15%
+22. CLEAN - Clean Science and Technology Limited
+   Performance Score: 3.4506
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.1808
+   Year Change %: -10.43%
+23. GRANULES - Granules India Limited
+   Performance Score: 3.3300
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.4505
+   Year Change %: 10.22%
+24. BALRAMCHIN - Balrampur Chini Mills Limited
+   Performance Score: 3.2329
+   Market Cap Category: Mid
+   Sharpe Ratio: 1.1533
+   Year Change %: 44.27%
+25. ALIVUS - Alivus Life Sciences Limited
+   Performance Score: 3.1710
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.6715
+   Year Change %: 22.02%
+26. DCMSHRIRAM - DCM Shriram Limited
+   Performance Score: 3.1004
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.4909
+   Year Change %: 12.27%
+27. SUNDARMHLD - Sundaram Finance Holdings Limited
+   Performance Score: 3.0877
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.7589
+   Year Change %: 28.96%
+28. ASAHIINDIA - Asahi India Glass Limited
+   Performance Score: 2.9666
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.5151
+   Year Change %: 12.92%
+29. KIRLOSBROS - Kirloskar Brothers Limited
+   Performance Score: 2.9463
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.8444
+   Year Change %: 37.82%
+30. VTL - Vardhman Textiles Limited
+   Performance Score: 2.6860
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.1787
+   Year Change %: -0.70%
+31. PGHL - Procter & Gamble Health Limited
+   Performance Score: 2.6323
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.5201
+   Year Change %: 10.24%
+32. JUBLINGREA - Jubilant Ingrevia Limited
+   Performance Score: 2.6257
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.5605
+   Year Change %: 16.52%
+33. VIJAYA - Vijaya Diagnostic Centre Limited
+   Performance Score: 2.5589
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.9653
+   Year Change %: 43.77%
+34. JMFINANCIL - JM Financial Limited
+   Performance Score: 2.5581
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.6081
+   Year Change %: 19.08%
+35. MANORAMA - Manorama Industries Limited
+   Performance Score: 2.4902
+   Market Cap Category: Mid
+   Sharpe Ratio: 2.0549
+   Year Change %: 112.53%
+36. MASTEK - Mastek Limited
+   Performance Score: 2.4597
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.1729
+   Year Change %: -15.23%
+37. SAREGAMA - Saregama India Limited
+   Performance Score: 2.4378
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.8496
+   Year Change %: 34.73%
+38. USHAMART - Usha Martin Limited
+   Performance Score: 2.3276
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.0114
+   Year Change %: -8.95%
+39. GALLANTT - Gallantt Ispat Limited
+   Performance Score: 2.3078
+   Market Cap Category: Mid
+   Sharpe Ratio: 1.9321
+   Year Change %: 38.28%
+40. AAVAS - Aavas Financiers Limited
+   Performance Score: 2.0942
+   Market Cap Category: Mid
+   Sharpe Ratio: 1.1781
+   Year Change %: 30.85%
+41. TTKPRESTIG - TTK Prestige Limited
+   Performance Score: 2.0806
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.1216
+   Year Change %: -7.29%
+42. APLLTD - Alembic Pharmaceuticals Limited
+   Performance Score: 2.0513
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.1436
+   Year Change %: -12.61%
+43. PNCINFRA - PNC Infratech Limited
+   Performance Score: 2.0471
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.8155
+   Year Change %: -40.08%
+44. CCL - CCL Products (India) Limited
+   Performance Score: 1.9476
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.2813
+   Year Change %: 3.93%
+45. TECHNOE - Techno Electric & Engineering Company Limited
+   Performance Score: 1.9407
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.6875
+   Year Change %: 19.91%
+46. ABSLAMC - Aditya Birla Sun Life AMC Limited
+   Performance Score: 1.9280
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.7662
+   Year Change %: 25.21%
+47. BIKAJI - Bikaji Foods International Limited
+   Performance Score: 1.8528
+   Market Cap Category: Mid
+   Sharpe Ratio: 0.9276
+   Year Change %: 34.67%
+48. ALKYLAMINE - Alkyl Amines Chemicals Limited
+   Performance Score: 1.7975
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.3600
+   Year Change %: -15.53%
+49. APTUS - Aptus Value Housing Finance India Limited
+   Performance Score: 1.7428
+   Market Cap Category: Mid
+   Sharpe Ratio: -0.0071
+   Year Change %: -4.93%
+50. GRAVITA - Gravita India Limited
+   Performance Score: 1.7329
+   Market Cap Category: Mid
+   Sharpe Ratio: 1.3263
+   Year Change %: 88.20%
+
+
+NIN-S - TOP 50 COMPANIES:
+1. JINDALPHOT - Jindal Photo Limited
+   Performance Score: 65.5177
+   Market Cap Category: Small
+   Sharpe Ratio: 0.5977
+   Year Change %: 19.40%
+2. CCCL - Consolidated Construction Consortium Limited
+   Performance Score: 25.6853
+   Market Cap Category: Small
+   Sharpe Ratio: 40.6897
+   Year Change %: 46.81%
+3. VHL - Vardhman Holdings Limited
+   Performance Score: 14.3170
+   Market Cap Category: Small
+   Sharpe Ratio: 0.5451
+   Year Change %: 16.38%
+4. JPOLYINVST - Jindal Poly Investment and Finance Company Limited
+   Performance Score: 10.4029
+   Market Cap Category: Small
+   Sharpe Ratio: 0.5611
+   Year Change %: 16.52%
+5. NAGAFERT - Nagarjuna Fertilizers and Chemicals Limited
+   Performance Score: 9.2039
+   Market Cap Category: Small
+   Sharpe Ratio: -1.4379
+   Year Change %: -57.91%
+6. ELECTHERM - Electrotherm (India) Limited
+   Performance Score: 7.7246
+   Market Cap Category: Small
+   Sharpe Ratio: 4.9010
+   Year Change %: 5.68%
+7. DHUNINV - Dhunseri Investments Limited
+   Performance Score: 6.7942
+   Market Cap Category: Small
+   Sharpe Ratio: 0.6494
+   Year Change %: 23.54%
+8. BFINVEST - BF Investment Limited
+   Performance Score: 6.1879
+   Market Cap Category: Small
+   Sharpe Ratio: 0.1181
+   Year Change %: -4.96%
+9. HINDMOTORS - Hindustan Motors Limited
+   Performance Score: 5.2909
+   Market Cap Category: Small
+   Sharpe Ratio: 0.8003
+   Year Change %: 23.61%
+10. BIRLAMONEY - Aditya Birla Money Limited
+   Performance Score: 4.8173
+   Market Cap Category: Small
+   Sharpe Ratio: 2.6559
+   Year Change %: 109.38%
+11. VEEDOL - Veedol Corporation Limited
+   Performance Score: 4.6370
+   Market Cap Category: Small
+   Sharpe Ratio: -0.0590
+   Year Change %: -9.10%
+12. MAITHANALL - Maithan Alloys Limited
+   Performance Score: 4.3164
+   Market Cap Category: Small
+   Sharpe Ratio: -0.6457
+   Year Change %: -24.37%
+13. NAVNETEDUL - Navneet Education Limited
+   Performance Score: 4.3141
+   Market Cap Category: Small
+   Sharpe Ratio: 0.1150
+   Year Change %: -1.42%
+14. SHREERAMA - Shree Rama Multi-Tech Limited
+   Performance Score: 4.2266
+   Market Cap Category: Small
+   Sharpe Ratio: 5.0692
+   Year Change %: 43.53%
+15. RAMCOIND - Ramco Industries Limited
+   Performance Score: 4.1932
+   Market Cap Category: Small
+   Sharpe Ratio: 0.3831
+   Year Change %: 7.54%
+16. ESSARSHPNG - Essar Shipping Limited
+   Performance Score: 4.1763
+   Market Cap Category: Small
+   Sharpe Ratio: 0.9197
+   Year Change %: -13.11%
+17. POKARNA - Pokarna Limited
+   Performance Score: 4.0597
+   Market Cap Category: Small
+   Sharpe Ratio: 1.1779
+   Year Change %: 73.29%
+18. WSTCSTPAPR - West Coast Paper Mills Limited
+   Performance Score: 3.9329
+   Market Cap Category: Small
+   Sharpe Ratio: -0.7336
+   Year Change %: -27.52%
+19. KCP - KCP Limited
+   Performance Score: 3.5635
+   Market Cap Category: Small
+   Sharpe Ratio: 0.5389
+   Year Change %: 15.53%
+20. JITFINFRA - JITF Infralogistics Limited
+   Performance Score: 3.5449
+   Market Cap Category: Small
+   Sharpe Ratio: -1.4454
+   Year Change %: -49.98%
+21. CLSEL - Chaman Lal Setia Exports Limited
+   Performance Score: 3.3672
+   Market Cap Category: Small
+   Sharpe Ratio: 1.0787
+   Year Change %: 49.87%
+22. DDEVPLSTIK - Ddev Plastiks Industries Limited
+   Performance Score: 3.3350
+   Market Cap Category: Small
+   Sharpe Ratio: 0.3783
+   Year Change %: 0.83%
+23. BIL - Bhartiya International Limited
+   Performance Score: 3.2937
+   Market Cap Category: Small
+   Sharpe Ratio: 3.8464
+   Year Change %: 39.32%
+24. INTLCONV - International Conveyors Limited
+   Performance Score: 3.1781
+   Market Cap Category: Small
+   Sharpe Ratio: -0.2235
+   Year Change %: -17.15%
+25. SIMPLEXINF - Simplex Infrastructures Limited
+   Performance Score: 3.0786
+   Market Cap Category: Small
+   Sharpe Ratio: 4.4027
+   Year Change %: 117.14%
+26. PANAMAPET - Panama Petrochem Limited
+   Performance Score: 3.0711
+   Market Cap Category: Small
+   Sharpe Ratio: 0.4887
+   Year Change %: 12.05%
+27. SIYSIL - Siyaram Silk Mills Limited
+   Performance Score: 3.0561
+   Market Cap Category: Small
+   Sharpe Ratio: 1.0099
+   Year Change %: 48.98%
+28. GOODLUCK - Goodluck India Limited
+   Performance Score: 3.0432
+   Market Cap Category: Small
+   Sharpe Ratio: -0.3306
+   Year Change %: -23.12%
+29. LUMAXTECH - Lumax Auto Technologies Limited
+   Performance Score: 2.9652
+   Market Cap Category: Small
+   Sharpe Ratio: 0.5268
+   Year Change %: 13.81%
+30. DALMIASUG - Dalmia Bharat Sugar and Industries Limited
+   Performance Score: 2.8915
+   Market Cap Category: Small
+   Sharpe Ratio: 0.2974
+   Year Change %: 2.82%
+31. DLINKINDIA - D-Link (India) Limited
+   Performance Score: 2.7449
+   Market Cap Category: Small
+   Sharpe Ratio: 0.8672
+   Year Change %: 38.73%
+32. GOKULAGRO - Gokul Agro Resources Limited
+   Performance Score: 2.7367
+   Market Cap Category: Small
+   Sharpe Ratio: 1.6509
+   Year Change %: 112.45%
+33. IZMO - IZMO Limited
+   Performance Score: 2.6875
+   Market Cap Category: Small
+   Sharpe Ratio: 2.4760
+   Year Change %: 86.18%
+34. SARLAPOLY - Sarla Performance Fibers Limited
+   Performance Score: 2.6757
+   Market Cap Category: Small
+   Sharpe Ratio: 1.3577
+   Year Change %: 46.37%
+35. PDMJEPAPER - Pudumjee Paper Products Limited
+   Performance Score: 2.6738
+   Market Cap Category: Small
+   Sharpe Ratio: 0.9653
+   Year Change %: 46.15%
+36. SPMLINFRA - SPML Infra Limited
+   Performance Score: 2.6711
+   Market Cap Category: Small
+   Sharpe Ratio: 2.1258
+   Year Change %: 79.81%
+37. DOLATALGO - Dolat Algotech Limited
+   Performance Score: 2.6709
+   Market Cap Category: Small
+   Sharpe Ratio: 0.2572
+   Year Change %: -2.80%
+38. SRM - SRM Contractors Limited
+   Performance Score: 2.6692
+   Market Cap Category: Small
+   Sharpe Ratio: 2.8441
+   Year Change %: 92.97%
+39. AMRUTANJAN - Amrutanjan Health Care Limited
+   Performance Score: 2.6376
+   Market Cap Category: Small
+   Sharpe Ratio: 0.0577
+   Year Change %: -3.94%
+40. INDOBORAX - Indo Borax & Chemicals Limited
+   Performance Score: 2.6172
+   Market Cap Category: Small
+   Sharpe Ratio: 0.2161
+   Year Change %: -0.90%
+41. VIMTALABS - Vimta Labs Limited
+   Performance Score: 2.6063
+   Market Cap Category: Small
+   Sharpe Ratio: 1.4529
+   Year Change %: 99.68%
+42. ASHAPURMIN - Ashapura Minechem Limited
+   Performance Score: 2.6027
+   Market Cap Category: Small
+   Sharpe Ratio: 0.4062
+   Year Change %: 6.03%
+43. GRMOVER - GRM Overseas Limited
+   Performance Score: 2.5063
+   Market Cap Category: Small
+   Sharpe Ratio: 1.9499
+   Year Change %: 144.12%
+44. ALEMBICLTD - Alembic Limited
+   Performance Score: 2.5059
+   Market Cap Category: Small
+   Sharpe Ratio: 0.3758
+   Year Change %: 6.83%
+45. OSWALAGRO - Oswal Agro Mills Limited
+   Performance Score: 2.4749
+   Market Cap Category: Small
+   Sharpe Ratio: 1.8972
+   Year Change %: 87.86%
+46. LGHL - Laxmi Goldorna House Limited
+   Performance Score: 2.3552
+   Market Cap Category: Small
+   Sharpe Ratio: 2.8493
+   Year Change %: 76.75%
+47. KIRIINDUS - Kiri Industries Limited
+   Performance Score: 2.3380
+   Market Cap Category: Small
+   Sharpe Ratio: 1.2962
+   Year Change %: 74.28%
+48. VISHNU - Vishnu Chemicals Limited
+   Performance Score: 2.2805
+   Market Cap Category: Small
+   Sharpe Ratio: 0.9072
+   Year Change %: 37.48%
+49. ORICONENT - Oricon Enterprises Limited
+   Performance Score: 2.2033
+   Market Cap Category: Small
+   Sharpe Ratio: 0.3642
+   Year Change %: 6.67%
+50. BLISSGVS - Bliss GVS Pharma Limited
+   Performance Score: 2.1049
+   Market Cap Category: Small
+   Sharpe Ratio: 0.4094
+   Year Change %: 7.91%
+
+
+NIN-Mi - TOP 50 COMPANIES:
+1. FLEXITUFF - Flexituff Ventures International Limited
+   Performance Score: 7651.7155
+   Market Cap Category: Micro
+   Sharpe Ratio: 12746.2248
+   Year Change %: 27.58%
+2. BLUECOAST - Blue Coast Hotels Limited
+   Performance Score: 2114.0022
+   Market Cap Category: Micro
+   Sharpe Ratio: 3518.1169
+   Year Change %: 54.43%
+3. NILASPACES - Nila Spaces Limited
+   Performance Score: 137.8624
+   Market Cap Category: Micro
+   Sharpe Ratio: 227.4028
+   Year Change %: 36.76%
+4. LATTEYS - Latteys Industries Limited
+   Performance Score: 69.4263
+   Market Cap Category: Micro
+   Sharpe Ratio: 113.5491
+   Year Change %: 66.37%
+5. ALPSINDUS - Alps Industries Limited
+   Performance Score: 68.8061
+   Market Cap Category: Micro
+   Sharpe Ratio: 112.3361
+   Year Change %: 38.46%
+6. RHFL - Reliance Home Finance Limited
+   Performance Score: 67.6853
+   Market Cap Category: Micro
+   Sharpe Ratio: -0.2090
+   Year Change %: -14.82%
+7. KAUSHALYA - Kaushalya Infrastructure Development Corporation Limited
+   Performance Score: 29.0665
+   Market Cap Category: Micro
+   Sharpe Ratio: 0.5620
+   Year Change %: 12.25%
+8. ATLASCYCLE - Atlas Cycles (Haryana) Limited
+   Performance Score: 27.5318
+   Market Cap Category: Micro
+   Sharpe Ratio: 40.9563
+   Year Change %: 47.04%
+9. PARASPETRO - Paras Petrofils Limited
+   Performance Score: 17.5692
+   Market Cap Category: Micro
+   Sharpe Ratio: -0.3954
+   Year Change %: -11.69%
+10. NAVKARURB - Navkar Urbanstructure Limited
+   Performance Score: 12.8708
+   Market Cap Category: Micro
+   Sharpe Ratio: 19.3362
+   Year Change %: 7.80%
+11. SOMATEX - Soma Textiles & Industries Limited
+   Performance Score: 8.9862
+   Market Cap Category: Micro
+   Sharpe Ratio: 1.1121
+   Year Change %: 29.64%
+12. SHYAMTEL - Shyam Telecom Limited
+   Performance Score: 7.9660
+   Market Cap Category: Micro
+   Sharpe Ratio: 11.4178
+   Year Change %: 85.18%
+13. RADAAN - Radaan Mediaworks India Limited
+   Performance Score: 7.4603
+   Market Cap Category: Micro
+   Sharpe Ratio: 10.1289
+   Year Change %: 84.32%
+14. MANAKCOAT - Manaksia Coated Metals & Industries Limited
+   Performance Score: 7.4186
+   Market Cap Category: Micro
+   Sharpe Ratio: 9.8392
+   Year Change %: 198.79%
+15. DGCONTENT - Digicontent Limited
+   Performance Score: 7.3968
+   Market Cap Category: Micro
+   Sharpe Ratio: 9.6949
+   Year Change %: 79.81%
+16. 21STCENMGM - 21st Century Management Services Limited
+   Performance Score: 7.1320
+   Market Cap Category: Micro
+   Sharpe Ratio: 8.2813
+   Year Change %: 5.49%
+17. NDGL - Naga Dhunseri Group Limited
+   Performance Score: 6.1857
+   Market Cap Category: Micro
+   Sharpe Ratio: 2.0935
+   Year Change %: 76.39%
+18. CEREBRAINT - Cerebra Integrated Technologies Limited
+   Performance Score: 5.6278
+   Market Cap Category: Micro
+   Sharpe Ratio: 8.7389
+   Year Change %: 38.56%
+19. SRPL - Shree Ram Proteins Limited
+   Performance Score: 5.2796
+   Market Cap Category: Micro
+   Sharpe Ratio: 7.0664
+   Year Change %: 82.35%
+20. GATECHDVR - GACM Technologies Limited
+   Performance Score: 5.0592
+   Market Cap Category: Micro
+   Sharpe Ratio: 5.8120
+   Year Change %: 15.85%
+21. FMNL - Future Market Networks Limited
+   Performance Score: 4.9865
+   Market Cap Category: Micro
+   Sharpe Ratio: 4.4203
+   Year Change %: 68.64%
+22. GROBTEA - The Grob Tea Company Limited
+   Performance Score: 4.8543
+   Market Cap Category: Micro
+   Sharpe Ratio: 0.1766
+   Year Change %: -4.05%
+23. SHRADHA - Shradha Infraprojects Limited
+   Performance Score: 4.6151
+   Market Cap Category: Micro
+   Sharpe Ratio: 5.2571
+   Year Change %: 136.12%
+24. ATLANTAA - ATLANTAA LIMITED
+   Performance Score: 4.5969
+   Market Cap Category: Micro
+   Sharpe Ratio: 4.4969
+   Year Change %: 4.62%
+25. ELGIRUBCO - Elgi Rubber Company Limited
+   Performance Score: 4.2638
+   Market Cap Category: Micro
+   Sharpe Ratio: 4.6737
+   Year Change %: 172.65%
+26. MASKINVEST - Mask Investments Limited
+   Performance Score: 4.2429
+   Market Cap Category: Micro
+   Sharpe Ratio: 5.1102
+   Year Change %: 58.92%
+27. IRIS - Iris Business Services Limited
+   Performance Score: 4.2100
+   Market Cap Category: Micro
+   Sharpe Ratio: 4.9094
+   Year Change %: 36.05%
+28. INDIANCARD - Indian Card Clothing Company Limited
+   Performance Score: 4.1782
+   Market Cap Category: Micro
+   Sharpe Ratio: 0.0098
+   Year Change %: -10.04%
+29. TERASOFT - Tera Software Limited
+   Performance Score: 3.9671
+   Market Cap Category: Micro
+   Sharpe Ratio: 4.8014
+   Year Change %: 163.59%
+30. TPHQ - Teamo Productions HQ Limited
+   Performance Score: 3.9361
+   Market Cap Category: Micro
+   Sharpe Ratio: 4.3939
+   Year Change %: 113.04%
+31. UNIVPHOTO - Universus Photo Imagings Limited
+   Performance Score: 3.9150
+   Market Cap Category: Micro
+   Sharpe Ratio: -1.4697
+   Year Change %: -48.43%
+32. TFL - Transwarranty Finance Limited
+   Performance Score: 3.9019
+   Market Cap Category: Micro
+   Sharpe Ratio: 4.8832
+   Year Change %: 47.66%
+33. THOMASCOTT - Thomas Scott (India) Limited
+   Performance Score: 3.8909
+   Market Cap Category: Micro
+   Sharpe Ratio: 4.6123
+   Year Change %: 64.73%
+34. FCONSUMER - Future Consumer Limited
+   Performance Score: 3.7471
+   Market Cap Category: Micro
+   Sharpe Ratio: 3.7414
+   Year Change %: 15.79%
+35. AARVEEDEN - Aarvee Denims & Exports Limited
+   Performance Score: 3.5540
+   Market Cap Category: Micro
+   Sharpe Ratio: 2.7851
+   Year Change %: 43.58%
+36. PRUDMOULI - Prudential Sugar Corporation Limited
+   Performance Score: 3.4319
+   Market Cap Category: Micro
+   Sharpe Ratio: 3.6520
+   Year Change %: 55.86%
+37. PANACHE - Panache Digilife Limited
+   Performance Score: 3.3257
+   Market Cap Category: Micro
+   Sharpe Ratio: 3.5939
+   Year Change %: 63.96%
+38. PANSARI - Pansari Developers Limited
+   Performance Score: 3.2701
+   Market Cap Category: Micro
+   Sharpe Ratio: 3.7586
+   Year Change %: 153.94%
+39. MAHASTEEL - Mahamaya Steel Industries Limited
+   Performance Score: 3.2395
+   Market Cap Category: Micro
+   Sharpe Ratio: 3.4681
+   Year Change %: 56.73%
+40. MOHITIND - Mohit Industries Limited
+   Performance Score: 2.9903
+   Market Cap Category: Micro
+   Sharpe Ratio: 3.2388
+   Year Change %: 138.22%
+41. SETCO - Setco Automotive Limited
+   Performance Score: 2.9849
+   Market Cap Category: Micro
+   Sharpe Ratio: 4.0575
+   Year Change %: 74.97%
+42. UNIVASTU - Univastu India Limited
+   Performance Score: 2.9496
+   Market Cap Category: Micro
+   Sharpe Ratio: 3.1111
+   Year Change %: 134.34%
+43. YAARI - Yaari Digital Integrated Services Limited
+   Performance Score: 2.6225
+   Market Cap Category: Micro
+   Sharpe Ratio: 2.7119
+   Year Change %: 72.65%
+44. KEYFINSERV - Keynote Financial Services Limited
+   Performance Score: 2.6009
+   Market Cap Category: Micro
+   Sharpe Ratio: 1.5529
+   Year Change %: 70.66%
+45. ASIANHOTNR - Asian Hotels (North) Limited
+   Performance Score: 2.5993
+   Market Cap Category: Micro
+   Sharpe Ratio: 2.4285
+   Year Change %: 70.67%
+46. NORBTEAEXP - Norben Tea & Exports Limited
+   Performance Score: 2.5970
+   Market Cap Category: Micro
+   Sharpe Ratio: 2.4260
+   Year Change %: 52.71%
+47. SIMBHALS - Simbhaoli Sugars Limited
+   Performance Score: 2.5296
+   Market Cap Category: Micro
+   Sharpe Ratio: 2.6963
+   Year Change %: 27.86%
+48. KAVVERITEL - Kavveri Telecom Products Limited
+   Performance Score: 2.5182
+   Market Cap Category: Micro
+   Sharpe Ratio: 2.2373
+   Year Change %: 16.29%
+49. EMKAY - Emkay Global Financial Services Limited
+   Performance Score: 2.4921
+   Market Cap Category: Micro
+   Sharpe Ratio: 1.9519
+   Year Change %: 25.65%
+50. KALYANIFRG - Kalyani Forge Limited
+   Performance Score: 2.4451
+   Market Cap Category: Micro
+   Sharpe Ratio: 2.6183
+   Year Change %: 86.86%
+
+
+FEATURE IMPORTANCE
+-----------------
+size_score: 0.2368
+market_cap_numeric: 0.1709
+log_profit: 0.1670
+stability_score: 0.1017
+log_revenue: 0.0909
+sharpe_ratio: 0.0629
+profit_margin: 0.0591
+avg_basic_earnings_per_share: 0.0561
+return_on_equity: 0.0546

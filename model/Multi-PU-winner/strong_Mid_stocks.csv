@@ -1,0 +1,3 @@
+symbol,company_name,company_industry,sector,market_cap_category,confidence_score,uncertainty,high_confidence,sharpe_ratio,return_on_equity,profit_margin,year_change_percent
+EIDPARRY,EID Parry India Limited,Other Food Products,Fast Moving Consumer Goods,Mid,0.7562433895468712,0.15408527583191328,True,0.8794,23.14811338464427,0.04972680702764675,28.6
+GNFC,Gujarat Narmada Valley Fertilizers and Chemicals Limited,Commodity Chemicals,Chemicals,Mid,0.6107323592156172,0.20025305582643843,True,-0.8363,0.8752834467120182,0.06612986123008395,-29.66

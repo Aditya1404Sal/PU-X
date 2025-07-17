@@ -1,0 +1,1422 @@
+symbol,company_name,company_industry,sector,market_cap_category,predicted_label,confidence_score,uncertainty,high_confidence
+20MICRONS,20 Microns Limited,Industrial Minerals,Metals & Mining,Small,Not Strong,0.029440477415919306,0.008339427421237198,False
+21STCENMGM,21st Century Management Services Limited,Other Capital Market related Services,Financial Services,Micro,Not Strong,0.01728412849828601,0.00569998195850935,False
+3IINFOLTD,3i Infotech Limited,Computers - Software & Consulting,Information Technology,Small,Not Strong,0.037632442973554135,0.010281404715538605,False
+3PLAND,3P Land Holdings Limited,Investment Company,Financial Services,Micro,Not Strong,0.014232752006500959,0.002576660373634735,False
+5PAISA,5Paisa Capital Limited,Stockbroking & Allied,Financial Services,Small,Not Strong,0.03831650383770466,0.011226036988994671,False
+63MOONS,63 moons technologies limited,Computers - Software & Consulting,Information Technology,Small,Not Strong,0.3786685672402382,0.14227866491745592,False
+ABINFRA,A B Infrabuild Limited,Civil Construction,Construction,Small,Not Strong,0.013477228991687297,0.0029837064608224757,False
+A2ZINFRA,A2Z Infra Engineering Limited,Diversified Commercial Services,Services,Micro,Not Strong,0.012511134911328554,0.0020799558123231173,False
+AAATECH,AAA Technologies Limited,Consulting Services,Services,Micro,Not Strong,0.009870485821738838,0.001518563371868885,False
+AAKASH,Aakash Exploration Services Limited,Offshore Support Solution Drilling,Oil Gas & Consumable Fuels,Micro,Not Strong,0.013390018902719021,0.0021593300008623654,False
+AAREYDRUGS,Aarey Drugs & Pharmaceuticals Limited,Pharmaceuticals,Healthcare,Micro,Not Strong,0.009700160808861255,0.0016015569550620148,False
+AARON,Aaron Industries Limited,Industrial Products,Capital Goods,Micro,Not Strong,0.009382992424070835,0.0011976758019895512,False
+AARTECH,Aartech Solonics Limited,Heavy Electrical Equipment,Capital Goods,Micro,Not Strong,0.014640012234449386,0.0027078725453226096,False
+AARTISURF,Aarti Surfactants Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.018981592338532208,0.0034619428898919535,False
+AARVEEDEN,Aarvee Denims & Exports Limited,Other Textile Products,Textiles,Micro,Not Strong,0.011584145091474056,0.002005463883256195,False
+AARVI,Aarvi Encon Limited,Diversified Commercial Services,Services,Micro,Not Strong,0.008915087142959237,0.0013927863851358753,False
+AAVAS,Aavas Financiers Limited,Housing Finance Company,Financial Services,Mid,Not Strong,0.6615077090263367,0.20788289004380645,False
+ABAN,Aban Offshore Limited,Offshore Support Solution Drilling,Oil Gas & Consumable Fuels,Micro,Not Strong,0.03646953202784062,0.013357527434600712,False
+ABMINTLLTD,ABM International Limited,Trading & Distributors,Services,Micro,Not Strong,0.007846067100763321,0.0009438417724431029,False
+ACCELYA,Accelya Solutions India Limited,Computers - Software & Consulting,Information Technology,Small,Not Strong,0.07411162689328193,0.02399742783271503,False
+ACCURACY,Accuracy Shipping Limited,Logistics Solution Provider,Services,Micro,Not Strong,0.018006237410008907,0.0049979533087701694,False
+ACEINTEG,Ace Integrated Solutions Limited,Diversified Commercial Services,Services,Micro,Not Strong,0.00958388913422823,0.0018629636286110085,False
+ACMESOLAR,Acme Solar Holdings Limited,Power Generation,Power,Mid,Not Strong,0.7329806578159332,0.18177554577869628,False
+ADFFOODS,ADF Foods Limited,Packaged Foods,Fast Moving Consumer Goods,Small,Not Strong,0.23398008674383164,0.11960541757065779,False
+ABSLAMC,Aditya Birla Sun Life AMC Limited,Asset Management Company,Financial Services,Mid,Not Strong,0.7260611385107041,0.1828390815598486,False
+BIRLAMONEY,Aditya Birla Money Limited,Stockbroking & Allied,Financial Services,Small,Not Strong,0.04497344825416803,0.01566893618860269,False
+ADROITINFO,Adroit Infotech Limited,IT Enabled Services,Information Technology,Micro,Not Strong,0.013526258021593095,0.002066651830317401,False
+ADVANIHOTR,Advani Hotels & Resorts (India) Limited,Hotels & Resorts,Consumer Services,Small,Not Strong,0.05331359170377255,0.01541891513840956,False
+AEROFLEX,Aeroflex Industries Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.18520990826189518,0.07944071314924567,False
+AFFORDABLE,Affordable Robotic & Automation Limited,Industrial Products,Capital Goods,Small,Not Strong,0.02349189454689622,0.007287574547848562,False
+AGARIND,Agarwal Industrial Corporation Limited,Petrochemicals,Chemicals,Small,Not Strong,0.0754900561645627,0.028672695129450337,False
+AGIIL,Agi Infra Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.06942955613136291,0.02031960837505588,False
+AGRITECH,Agri-Tech (India) Limited,Other Agricultural Products,Fast Moving Consumer Goods,Micro,Not Strong,0.017459498513489963,0.004691979214193003,False
+AGROPHOS,Agro Phos India Limited,Fertilizers,Chemicals,Micro,Not Strong,0.013023785278201104,0.0023387183799134627,False
+AGSTRA,AGS Transact Technologies Limited,Financial Technology (Fintech),Financial Services,Small,Not Strong,0.05225552797317505,0.01973271193007542,False
+AHLADA,Ahlada Engineers Limited,Furniture Home Furnishing,Consumer Durables,Micro,Not Strong,0.007369245002046228,0.0009454555526561412,False
+GOLDTECH,AION-TECH SOLUTIONS LIMITED,Software Products,Information Technology,Micro,Not Strong,0.009807862164452672,0.0015630377145383098,False
+AIRAN,Airan Limited,IT Enabled Services,Information Technology,Micro,Not Strong,0.017318809144198893,0.0035173114719275114,False
+AIROLAM,Airo Lam limited,Plywood Boards/ Laminates,Consumer Durables,Micro,Not Strong,0.010378153873607516,0.0017584341858120475,False
+AJAXENGG,Ajax Engineering Limited,Construction Vehicles,Capital Goods,Mid,Not Strong,0.4619002132117748,0.18676354342233534,False
+AJMERA,Ajmera Realty & Infra India Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.15929598279297352,0.08660800425617109,False
+AJOONI,Ajooni Biotech Limited,Animal Feed,Fast Moving Consumer Goods,Micro,Not Strong,0.018025520704686642,0.004192524582252918,False
+AKASH,Akash Infra-Projects Limited,Civil Construction,Construction,Micro,Not Strong,0.01033886531367898,0.0015170808903224953,False
+AKG,Akg Exim Limited,Trading & Distributors,Services,Micro,Not Strong,0.016639704424887894,0.0037339509804548403,False
+AKI,AKI India Limited,Leather And Leather Products,Consumer Durables,Micro,Not Strong,0.013627135511487722,0.002628638336355627,False
+AFIL,Akme Fintrade (India) Limited,Non Banking Financial Company (NBFC),Financial Services,Micro,Not Strong,0.016282326281070708,0.0037166007690650356,False
+AKSHOPTFBR,Aksh Optifibre Limited,Telecom - Equipment & Accessories,Telecommunication,Micro,Not Strong,0.017244639471173287,0.0035774616430789626,False
+AKSHAR,Akshar Spintex Limited,Other Textile Products,Textiles,Micro,Not Strong,0.018468141313642262,0.0052922324165054855,False
+AKSHARCHEM,AksharChem India Limited,Dyes And Pigments,Chemicals,Micro,Not Strong,0.008734579086303712,0.0010050869928274278,False
+AKUMS,Akums Drugs and Pharmaceuticals Limited,Pharmaceuticals,Healthcare,Mid,Not Strong,0.5666795393824577,0.19104981228501694,False
+ALANKIT,Alankit Limited,Diversified Commercial Services,Services,Small,Not Strong,0.02704089891165495,0.007006272011199079,False
+ALBERTDAVD,Albert David Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.01921467239037156,0.0050642537109567,False
+ALEMBICLTD,Alembic Limited,Diversified Commercial Services,Services,Small,Not Strong,0.23374552726745607,0.07680478881094845,False
+APLLTD,Alembic Pharmaceuticals Limited,Pharmaceuticals,Healthcare,Mid,Not Strong,0.639888611137867,0.1946817508955056,False
+ALICON,Alicon Castalloy Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.050550645925104616,0.017629907729357207,False
+ALIVUS,Alivus Life Sciences Limited,Pharmaceuticals,Healthcare,Mid,Not Strong,0.6520846545696258,0.20333167592204668,False
+ALKALI,Alkali Metals Limited,Specialty Chemicals,Chemicals,Micro,Not Strong,0.008769772117957472,0.0014233273158210265,False
+ALKYLAMINE,Alkyl Amines Chemicals Limited,Specialty Chemicals,Chemicals,Mid,Not Strong,0.5653412759304046,0.18304320994658083,False
+ACLGATI,Allcargo Gati Limited,Logistics Solution Provider,Services,Small,Not Strong,0.12885807596147061,0.04624616911822368,False
+ATL,Allcargo Terminals Limited,Port & Port services,Services,Small,Not Strong,0.03902275990694761,0.013016277281785192,False
+ALLDIGI,Alldigi Tech Limited,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Services,Small,Not Strong,0.047354483790695664,0.0162422772779247,False
+ADSL,Allied Digital Services Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.08184749446809292,0.03939961304102927,False
+ALMONDZ,Almondz Global Securities Limited,Stockbroking & Allied,Financial Services,Small,Not Strong,0.022312679812312126,0.006038874347644281,False
+ALOKINDS,Alok Industries Limited,Other Textile Products,Textiles,Mid,Not Strong,0.6164742851257324,0.20309157638973485,False
+ALPA,Alpa Laboratories Limited,Pharmaceuticals,Healthcare,Micro,Not Strong,0.010805744668468833,0.0020007718667320227,False
+ALPHAGEO,Alphageo (India) Limited,Offshore Support Solution Drilling,Oil Gas & Consumable Fuels,Micro,Not Strong,0.013553150910884142,0.0030555198593249793,False
+ALPSINDUS,Alps Industries Limited,Other Textile Products,Textiles,Micro,Not Strong,0.026781666968017818,0.007682351026570172,False
+AMBICAAGAR,Ambica Agarbathies & Aroma industries Limited,Household Products,Fast Moving Consumer Goods,Micro,Not Strong,0.009267335468903183,0.0015257108346202041,False
+AMBIKCO,Ambika Cotton Mills Limited,Other Textile Products,Textiles,Small,Not Strong,0.029915941562503576,0.007996771396198726,False
+AMDIND,AMD Industries Limited,Packaging,Capital Goods,Micro,Not Strong,0.008407530402764677,0.0010419249773975948,False
+AMNPLST,Amines & Plasticizers Limited,Commodity Chemicals,Chemicals,Small,Not Strong,0.018192315194755792,0.004108428664512445,False
+AMJLAND,Amj Land Holdings Limited,Residential Commercial Projects,Realty,Micro,Not Strong,0.012647995855659247,0.002563370543123411,False
+AMRUTANJAN,Amrutanjan Health Care Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.06313514895737171,0.023708472138200435,False
+ANANDRATHI,Anand Rathi Wealth Limited,Financial Products Distributor,Financial Services,Large,Not Strong,0.7336587649583817,0.18916466520132919,False
+ACL,Andhra Cements Limited,Cement & Cement Products,Construction Materials,Small,Not Strong,0.021120197232812644,0.0047539128285736965,False
+ANDHRAPAP,ANDHRA PAPER LIMITED,Paper & Paper Products,Forest Materials,Mid,Not Strong,0.6122927883267403,0.18374234829946784,False
+ANDHRSUGAR,The Andhra Sugars Limited,Commodity Chemicals,Chemicals,Small,Not Strong,0.1455086850374937,0.06277140576511245,False
+ANIKINDS,Anik Industries Limited,Trading & Distributors,Services,Micro,Not Strong,0.01066601077094674,0.0017739669206317391,False
+APCL,Anjani Portland Cement Limited,Cement & Cement Products,Construction Materials,Micro,Not Strong,0.014164208974689245,0.0037304969736452285,False
+ANKITMETAL,Ankit Metal & Power Limited,Iron & Steel,Metals & Mining,Micro,Not Strong,0.016381032038480042,0.0036663941914733397,False
+ANMOL,Anmol India Limited,Trading - Coal,Oil Gas & Consumable Fuels,Micro,Not Strong,0.014676191974431277,0.0032282997369787137,False
+ANTGRAPHIC,Antarctica Limited,Packaging,Capital Goods,Micro,Not Strong,0.017358365394175054,0.0031938568110909255,False
+AWHCL,Antony Waste Handling Cell Limited,Waste Management,Utilities,Small,Not Strong,0.23138019323349,0.1180270788163148,False
+ANUHPHR,Anuh Pharma Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.009605813743546606,0.0014191487112636455,False
+ANURAS,Anupam Rasayan India Limited,Specialty Chemicals,Chemicals,Mid,Not Strong,0.6727737081050873,0.17675304496267008,False
+APCOTEXIND,Apcotex Industries Limited,Rubber,Capital Goods,Small,Not Strong,0.06516137585043907,0.024014388214877905,False
+APEX,Apex Frozen Foods Limited,Seafood,Fast Moving Consumer Goods,Small,Not Strong,0.03974590539932251,0.010249098546559312,False
+APOLLO,Apollo Micro Systems Limited,Aerospace & Defense,Capital Goods,Small,Not Strong,0.18037425257265569,0.09282508271570745,False
+APOLLOPIPE,Apollo Pipes Limited,Plastic Products - Industrial,Capital Goods,Small,Not Strong,0.07998472824692726,0.023071348403420337,False
+APOLSINHOT,Apollo Sindoori Hotels Limited,Hotels & Resorts,Consumer Services,Micro,Not Strong,0.04406252223998308,0.01922437095695667,False
+APTECHT,Aptech Limited,Education,Consumer Services,Small,Not Strong,0.027281577177345754,0.0056382340010333425,False
+APTUS,Aptus Value Housing Finance India Limited,Housing Finance Company,Financial Services,Mid,Not Strong,0.6532153287529945,0.20083038355415328,False
+ADL,Archidply Decor Limited,Plywood Boards/ Laminates,Consumer Durables,Micro,Not Strong,0.010542372707277536,0.0016099194610952835,False
+ARCHIDPLY,Archidply Industries Limited,Plywood Boards/ Laminates,Consumer Durables,Micro,Not Strong,0.010491454573348165,0.001884761758177706,False
+ARCHIES,Archies Limited,Leisure Products,Consumer Durables,Micro,Not Strong,0.012960026171058417,0.002991057559887786,False
+ARIES,Aries Agro Limited,Fertilizers,Chemicals,Micro,Not Strong,0.01159919885918498,0.0024586213852858846,False
+ARIHANTCAP,Arihant Capital Markets Limited,Stockbroking & Allied,Financial Services,Small,Not Strong,0.050091284736990926,0.016984877412018234,False
+ARIHANTSUP,Arihant Superstructures Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.08735291067510843,0.03737819918138096,False
+ARKADE,Arkade Developers Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.10645850278437137,0.05103785242266129,False
+ARMANFIN,Arman Financial Services Limited,Non Banking Financial Company (NBFC),Financial Services,Small,Not Strong,0.0590783778578043,0.020119261468373784,False
+AROGRANITE,Aro Granite Industries Limited,Granites & Marbles,Consumer Durables,Micro,Not Strong,0.009473547004163266,0.0014233098375438006,False
+ARROWGREEN,Arrow Greentech Limited,Packaging,Capital Goods,Small,Not Strong,0.07248505204916,0.02724783269228636,False
+ARTNIRMAN,Art Nirman Limited,Residential Commercial Projects,Realty,Micro,Not Strong,0.011422499399632215,0.0018165021773560571,False
+ARTEMISMED,Artemis Medicare Services Limited,Hospital,Healthcare,Small,Strong,0.7746700137853623,0.16236450606947347,False
+ARVEE,Arvee Laboratories (India) Limited,Specialty Chemicals,Chemicals,Micro,Not Strong,0.007304593967273831,0.0007378559853377417,False
+ARVSMART,Arvind SmartSpaces Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.2936635471880436,0.140213732395836,False
+ASAHIINDIA,Asahi India Glass Limited,Auto Components & Equipments,Automobile and Auto Components,Mid,Not Strong,0.5693708536028862,0.17552726633948637,False
+ASAHISONG,Asahi Songwon Colors Limited,Dyes And Pigments,Chemicals,Micro,Not Strong,0.009899027356877923,0.0016032415929501135,False
+ASHAPURMIN,Ashapura Minechem Limited,Industrial Minerals,Metals & Mining,Small,Not Strong,0.3258091127872467,0.10776187044866123,False
+ASHIANA,Ashiana Housing Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.12543061912059783,0.04657358493736435,False
+ASHIMASYN,Ashima Limited,Other Textile Products,Textiles,Small,Not Strong,0.028167814202606677,0.006734752190281696,False
+ASHOKAMET,Ashoka Metcast Limited,Trading - Metals,Metals & Mining,Micro,Not Strong,0.01557629307731986,0.0030709951191802342,False
+ASIANENE,Asian Energy Services Limited,Oil Equipment & Services,Oil Gas & Consumable Fuels,Small,Not Strong,0.0315977849252522,0.008607010504586999,False
+ASIANTILES,Asian Granito India Limited,Ceramics,Consumer Durables,Small,Not Strong,0.09572384975850583,0.03715016589780062,False
+AHLEAST,Asian Hotels (East) Limited,Hotels & Resorts,Consumer Services,Micro,Not Strong,0.015197351593524217,0.003043201851291734,False
+ASIANHOTNR,Asian Hotels (North) Limited,Hotels & Resorts,Consumer Services,Micro,Not Strong,0.011108543640002608,0.001968634708536329,False
+ASPINWALL,Aspinwall and Company Limited,Logistics Solution Provider,Services,Micro,Not Strong,0.007215936705470085,0.000727931373666903,False
+ASALCBR,Associated Alcohols & Breweries Ltd.,Breweries & Distilleries,Fast Moving Consumer Goods,Small,Not Strong,0.20567531540989875,0.08814124686938017,False
+ASTEC,Astec LifeSciences Limited,Pesticides & Agrochemicals,Chemicals,Small,Not Strong,0.05611767761409283,0.018694396646455187,False
+ASTRAZEN,AstraZeneca Pharma India Limited,Pharmaceuticals,Healthcare,Mid,Not Strong,0.639959093928337,0.18528900484788893,False
+ASTRON,Astron Paper & Board Mill Limited,Paper & Paper Products,Forest Materials,Micro,Not Strong,0.011529510077089071,0.001928088998124804,False
+ATALREAL,Atal Realtech Limited,Residential Commercial Projects,Realty,Micro,Not Strong,0.01558413477614522,0.00351545350365222,False
+ATAM,Atam Valves Limited,Industrial Products,Capital Goods,Micro,Not Strong,0.008354833628982306,0.0016849723505540396,False
+ATLANTAA,ATLANTAA LIMITED,Road Assets - Toll Annuity Hybrid-Annuity,Services,Micro,Not Strong,0.011452283663675188,0.0021373933187879782,False
+ATLASCYCLE,Atlas Cycles (Haryana) Limited,Cycles,Consumer Durables,Micro,Not Strong,0.022061586771160366,0.005896473925668989,False
+ATULAUTO,Atul Auto Limited,Commercial Vehicles,Capital Goods,Small,Not Strong,0.07083573970943689,0.023875659966069863,False
+AURUM,Aurum PropTech Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.020912073757499455,0.005948180386322488,False
+AUSOMENT,Ausom Enterprise Limited,Gems Jewellery And Watches,Consumer Durables,Micro,Not Strong,0.012337238136678934,0.0021933519121869506,False
+AIIL,Authum Investment & Infrastructure Limited,Non Banking Financial Company (NBFC),Financial Services,Large,Strong,0.7616990411281586,0.17315052802383654,False
+AUTOIND,Autoline Industries Limited,Auto Components & Equipments,Automobile and Auto Components,Micro,Not Strong,0.014931895341724157,0.003209302224816335,False
+AUTOAXLES,Automotive Axles Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.17190297096967697,0.08495032617094866,False
+ASAL,Automotive Stampings and Assemblies Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.021427814550697803,0.0054601438900446966,False
+AVADHSUGAR,Avadh Sugar & Energy Limited,Sugar,Fast Moving Consumer Goods,Small,Not Strong,0.09760792449116706,0.02657333687366896,False
+AVANTEL,Avantel Limited,Aerospace & Defense,Capital Goods,Small,Not Strong,0.09614024899899959,0.04270917164824722,False
+AVG,AVG Logistics Limited,Logistics Solution Provider,Services,Small,Not Strong,0.01534706300124526,0.0028258801932903705,False
+AVONMORE,Avonmore Capital & Management Services Limited,Non Banking Financial Company (NBFC),Financial Services,Small,Not Strong,0.029030872769653798,0.008492931221070905,False
+AVROIND,AVRO INDIA LIMITED,Plastic Products - Consumer,Consumer Durables,Micro,Not Strong,0.010445960061624647,0.0018768658631693115,False
+AVTNPL,AVT Natural Products Limited,Other Agricultural Products,Fast Moving Consumer Goods,Small,Not Strong,0.04399195447564125,0.012870154029313416,False
+AXISCADES,AXISCADES Technologies Limited,Aerospace & Defense,Capital Goods,Small,Not Strong,0.03504012070596218,0.008829378924509553,False
+AXITA,Axita Cotton Limited,Other Textile Products,Textiles,Small,Not Strong,0.08713750943541526,0.03051047353227895,False
+AYMSYNTEX,AYM Syntex Limited,Other Textile Products,Textiles,Small,Not Strong,0.03969571799039841,0.01329546579273099,False
+BBTCL,B&B Triplewall Containers Limited,Packaging,Capital Goods,Micro,Not Strong,0.00903172729536891,0.0015426925984200048,False
+BAGFILMS,B.A.G Films and Media Limited,TV Broadcasting & Software Production,Media Entertainment & Publication,Micro,Not Strong,0.014263018853962422,0.001987419361650657,False
+BLKASHYAP,B. L. Kashyap and Sons Limited,Civil Construction,Construction,Small,Not Strong,0.28388113230466844,0.10257553657915912,False
+STYLEBAAZA,Baazar Style Retail Limited,Speciality Retail,Consumer Services,Small,Not Strong,0.048190353736281395,0.014935498332754555,False
+BAIDFIN,Baid Finserv Limited,Non Banking Financial Company (NBFC),Financial Services,Micro,Not Strong,0.014306332413107158,0.00309423279630417,False
+BAJAJCON,Bajaj Consumer Care Limited,Personal Care,Fast Moving Consumer Goods,Small,Not Strong,0.4874605119228363,0.1861434215424694,False
+BAJAJELEC,Bajaj Electricals Limited,Household Appliances,Consumer Durables,Mid,Not Strong,0.6793794047832489,0.16356929804581063,False
+BAJAJHCARE,Bajaj Healthcare Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.08851375266909599,0.03178176286713694,False
+BAJEL,Bajel Projects Limited,Heavy Electrical Equipment,Capital Goods,Small,Not Strong,0.17926218539476393,0.07001698014290886,False
+BALPHARMA,Bal Pharma Limited,Pharmaceuticals,Healthcare,Micro,Not Strong,0.010363949742168189,0.0014298771030399333,False
+BALAJITELE,Balaji Telefilms Limited,Media & Entertainment,Media Entertainment & Publication,Small,Not Strong,0.030527937561273574,0.007232123935678314,False
+BALAXI,BALAXI PHARMACEUTICALS LIMITED,Pharmaceuticals,Healthcare,Small,Not Strong,0.034465141408145425,0.012100503688685937,False
+BALKRISHNA,Balkrishna Paper Mills Limited,Paper & Paper Products,Forest Materials,Micro,Not Strong,0.02657675264403224,0.007105660931682791,False
+BALMLAWRIE,Balmer Lawrie & Company Limited,Diversified,Diversified,Small,Not Strong,0.2923436042666435,0.09773969384292205,False
+BALRAMCHIN,Balrampur Chini Mills Limited,Sugar,Fast Moving Consumer Goods,Mid,Strong,0.8085075747966767,0.15665248618475336,False
+BANARBEADS,Banaras Beads Limited,Gems Jewellery And Watches,Consumer Durables,Micro,Not Strong,0.00922126236371696,0.0015252646979322096,False
+BANG,Bang Overseas Limited,Garments & Apparels,Textiles,Micro,Not Strong,0.011011311290785671,0.001777069719181664,False
+BANKA,Banka BioLoo Limited,Civil Construction,Construction,Micro,Not Strong,0.009350170865654945,0.0014280213878993134,False
+BASML,Bannari Amman Spinning Mills Limited,Other Textile Products,Textiles,Micro,Not Strong,0.014581831824034452,0.0042357992784493315,False
+BANARISUG,Bannari Amman Sugars Limited,Sugar,Fast Moving Consumer Goods,Small,Not Strong,0.31005148619413375,0.14520467425515568,False
+BANSWRAS,Banswara Syntex Limited,Other Textile Products,Textiles,Micro,Not Strong,0.015847473032772542,0.00455740975954807,False
+BVCL,Barak Valley Cements Limited,Cement & Cement Products,Construction Materials,Micro,Not Strong,0.007031153785064816,0.0006746733694001172,False
+BARBEQUE,Barbeque Nation Hospitality Limited,Restaurants,Consumer Services,Small,Not Strong,0.12598895601928234,0.04555590916311889,False
+ASMS,Bartronics India Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.0699848235398531,0.021506593389354515,False
+BASF,BASF India Limited,Specialty Chemicals,Chemicals,Large,Strong,0.8050956851243973,0.17080160795754726,False
+BCLIND,Bcl Industries Limited,Breweries & Distilleries,Fast Moving Consumer Goods,Small,Not Strong,0.110743313357234,0.04729450131118412,False
+BEARDSELL,Beardsell Limited,Other Industrial Products,Capital Goods,Micro,Not Strong,0.010486295698210597,0.001787953473715502,False
+BEDMUTHA,Bedmutha Industries Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.012839169204235078,0.003090012097287966,False
+BLAL,BEML Land Assets Limited,Investment Company,Financial Services,Small,Not Strong,0.04041621919721365,0.012946065763694071,False
+BESTAGRO,Best Agrolife Limited,Pesticides & Agrochemicals,Chemicals,Small,Not Strong,0.07258636496961117,0.024645580079057035,False
+BFINVEST,BF Investment Limited,Holding Company,Financial Services,Small,Not Strong,0.14111004382371903,0.0608812060811058,False
+BFUTILITIE,BF Utilities Limited,Road Assets - Toll Annuity Hybrid-Annuity,Services,Small,Not Strong,0.17451605156064035,0.06463647446564308,False
+BGRENERGY,BGR Energy Systems Limited,Civil Construction,Construction,Micro,Not Strong,0.02407155165448785,0.005432407679870455,False
+BHAGERIA,Bhageria Industries Limited,Dyes And Pigments,Chemicals,Small,Not Strong,0.014463604390621186,0.0036390166084304533,False
+BHAGCHEM,Bhagiradha Chemicals & Industries Limited,Pesticides & Agrochemicals,Chemicals,Small,Not Strong,0.32844663932919504,0.136460569358913,False
+BHAGYANGR,Bhagyanagar India Limited,Copper,Metals & Mining,Micro,Not Strong,0.021363511215895414,0.005316575575992568,False
+BHANDARI,Bhandari Hosiery Exports Limited,Other Textile Products,Textiles,Micro,Not Strong,0.018671519737690687,0.0044035664592733045,False
+BHARATGEAR,Bharat Gears Limited,Auto Components & Equipments,Automobile and Auto Components,Micro,Not Strong,0.012767154555767775,0.002793185285861324,False
+BHARATRAS,Bharat Rasayan Limited,Pesticides & Agrochemicals,Chemicals,Small,Not Strong,0.29808043241500853,0.10102405783874767,False
+BRNL,Bharat Road Network Limited,Civil Construction,Construction,Micro,Not Strong,0.03579633891582489,0.012272879957547694,False
+BHARATWIRE,Bharat Wire Ropes Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.030111295506358146,0.008278652292376617,False
+BIL,Bhartiya International Limited,Leather And Leather Products,Consumer Durables,Small,Not Strong,0.04667260449379682,0.014941201526082066,False
+BIGBLOC,Bigbloc Construction Limited,Cement & Cement Products,Construction Materials,Small,Not Strong,0.02804603021591902,0.007120800804028044,False
+BIKAJI,Bikaji Foods International Limited,Packaged Foods,Fast Moving Consumer Goods,Mid,Strong,0.7817967945337295,0.16023874655293405,False
+BINANIIND,Binani Industries Limited,Holding Company,Financial Services,Micro,Not Strong,0.01028305409476161,0.0016908672347935901,False
+BIOFILCHEM,Biofil Chemicals & Pharmaceuticals Limited,Pharmaceuticals,Healthcare,Micro,Not Strong,0.016099319327622652,0.0032154908594708544,False
+BIRLACABLE,Birla Cable Limited,Telecom - Equipment & Accessories,Telecommunication,Small,Not Strong,0.025090893767774104,0.006927582924724694,False
+BBOX,Black Box Limited,IT Enabled Services,Information Technology,Mid,Strong,0.8121117979288102,0.1480811210680694,True
+BLBLIMITED,BLB Limited,Investment Company,Financial Services,Micro,Not Strong,0.008978255465626717,0.0012288899121503404,False
+BLISSGVS,Bliss GVS Pharma Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.09973361521959305,0.042941344776586406,False
+BLSE,BLS E-Services Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.08514192335307598,0.030991187666750884,False
+BLUECOAST,Blue Coast Hotels Limited,Hotels & Resorts,Consumer Services,Micro,Not Strong,0.03578859865665436,0.012113993370771306,False
+BLUEDART,Blue Dart Express Limited,Logistics Solution Provider,Services,Mid,Not Strong,0.6823331558704376,0.19836638622076166,False
+BODALCHEM,Bodal Chemicals Limited,Dyes And Pigments,Chemicals,Small,Not Strong,0.12055741973221303,0.04716991587941216,False
+BTML,Bodhi Tree Multimedia Limited,Digital Entertainment,Media Entertainment & Publication,Micro,Not Strong,0.01403214642778039,0.0026513529683850822,False
+BBTC,Bombay Burmah Trading Corporation Limited,Packaged Foods,Fast Moving Consumer Goods,Mid,Not Strong,0.6950550520420075,0.15253859361791688,False
+BSHSL,Bombay Super Hybrid Seeds Limited,Other Agricultural Products,Fast Moving Consumer Goods,Small,Not Strong,0.027042246367782356,0.007851310085806501,False
+BOROSCI,Borosil Scientific Limited,Glass - Industrial,Capital Goods,Small,Not Strong,0.095052290558815,0.03529027053398518,False
+BPL,BPL Limited,Consumer Electronics,Consumer Durables,Micro,Not Strong,0.018263315316289663,0.0049836950975889836,False
+BCONCEPTS,Brand Concepts Limited,Speciality Retail,Consumer Services,Small,Not Strong,0.013029244132339954,0.002291936721341932,False
+BROOKS,Brooks Laboratories Limited,Pharmaceuticals,Healthcare,Micro,Not Strong,0.009287001518532633,0.0015189899941323653,False
+BSL,BSL Limited,Other Textile Products,Textiles,Micro,Not Strong,0.007490347875282168,0.000967299730674311,False
+BUTTERFLY,Butterfly Gandhimathi Appliances Limited,Household Appliances,Consumer Durables,Small,Not Strong,0.01934098033234477,0.006746663150332548,False
+MAPMYINDIA,C.E. Info Systems Limited,Software Products,Information Technology,Mid,Not Strong,0.7049151253700257,0.1667229613314953,False
+CALSOFT,California Software Company Limited,Computers - Software & Consulting,Information Technology,Micro,Not Strong,0.0126905264146626,0.0019344651373252577,False
+CTE,Cambridge Technology Enterprises Limited,Computers - Software & Consulting,Information Technology,Micro,Not Strong,0.012463887762278318,0.0025703193716263874,False
+CAMLINFINE,Camlin Fine Sciences Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.38737471744418145,0.14033523488683253,False
+CAMPUS,Campus Activewear Limited,Footwear,Consumer Durables,Mid,Strong,0.7973108702898025,0.1823505275277669,False
+CANFINHOME,Can Fin Homes Limited,Housing Finance Company,Financial Services,Mid,Not Strong,0.5538579896092415,0.22887187639288126,False
+CANTABIL,Cantabil Retail India Limited,Garments & Apparels,Textiles,Small,Not Strong,0.12134742669761181,0.06698272221126345,False
+CAPACITE,Capacit'e Infraprojects Limited,Civil Construction,Construction,Small,Not Strong,0.3101953752338886,0.13132052609196712,False
+CAPITALSFB,Capital Small Finance Bank Limited,Other Bank,Financial Services,Small,Not Strong,0.11126390740275383,0.04797243436126632,False
+CAPTRUST,Capital Trust Limited,Non Banking Financial Company (NBFC),Financial Services,Micro,Not Strong,0.011664159446954727,0.0018223311560020656,False
+CAPLIPOINT,Caplin Point Laboratories Limited,Pharmaceuticals,Healthcare,Mid,Not Strong,0.6656919598579407,0.1725881801519784,False
+CGCL,Capri Global Capital Limited,Non Banking Financial Company (NBFC),Financial Services,Mid,Not Strong,0.6876176905632019,0.17780238139748716,False
+CARBORUNIV,Carborundum Universal Limited,Abrasives & Bearings,Capital Goods,Large,Not Strong,0.7362849688529969,0.1883444648982086,False
+CARERATING,CARE Ratings Limited,Ratings,Financial Services,Small,Not Strong,0.2334994238615036,0.10652985382495306,False
+CARRARO,Carraro India Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.08208871103823184,0.03226065190491069,False
+CARYSIL,CARYSIL LIMITED,Household Appliances,Consumer Durables,Small,Not Strong,0.17788838304579258,0.07304237462516759,False
+CCL,CCL Products (India) Limited,Tea & Coffee,Fast Moving Consumer Goods,Mid,Not Strong,0.6524585872888565,0.18907501912665398,False
+CEATLTD,CEAT Limited,Tyres & Rubber Products,Automobile and Auto Components,Mid,Strong,0.7903029900789261,0.17197916312643496,False
+CELEBRITY,Celebrity Fashions Limited,Garments & Apparels,Textiles,Micro,Not Strong,0.020244778506457804,0.004922269290732873,False
+CENTRALBK,Central Bank of India,Public Sector Bank,Financial Services,Large,Not Strong,0.7466821709275245,0.18151028507609634,False
+CENTRUM,Centrum Capital Limited,Other Financial Services,Financial Services,Small,Not Strong,0.28876658365130425,0.09816831681602631,False
+CENTUM,Centum Electronics Limited,Industrial Products,Capital Goods,Small,Not Strong,0.07160802841186524,0.026248796587519982,False
+CENTENKA,Century Enka Limited,Other Textile Products,Textiles,Small,Not Strong,0.1460513599216938,0.050733595918505445,False
+CENTEXT,Century Extrusions Limited,Aluminium Copper & Zinc Products,Capital Goods,Micro,Not Strong,0.01132934568449855,0.0018763716578225449,False
+CENTURYPLY,Century Plyboards (India) Limited,Plywood Boards/ Laminates,Consumer Durables,Mid,Not Strong,0.6889795053005219,0.17723050647864955,False
+CERA,Cera Sanitaryware Limited,Sanitary Ware,Consumer Durables,Mid,Not Strong,0.6860303205251693,0.16845083642970324,False
+CEREBRAINT,Cerebra Integrated Technologies Limited,Computers Hardware & Equipments,Information Technology,Micro,Not Strong,0.01695008933544159,0.0035768962686112873,False
+CHALET,Chalet Hotels Limited,Hotels & Resorts,Consumer Services,Mid,Not Strong,0.6518806302547455,0.1696646640878792,False
+CLSEL,Chaman Lal Setia Exports Limited,Other Agricultural Products,Fast Moving Consumer Goods,Small,Not Strong,0.20478622391819953,0.09899803597497185,False
+CHEMBOND,Chembond Chemicals Ltd,Specialty Chemicals,Chemicals,Small,Not Strong,0.024790992308408023,0.005770380638056563,False
+CHEMCON,Chemcon Speciality Chemicals Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.019580770041793583,0.00491989221218036,False
+CHEMFAB,Chemfab Alkalis Limited,Commodity Chemicals,Chemicals,Small,Not Strong,0.024695473555475474,0.006644611206999501,False
+CHENNPETRO,Chennai Petroleum Corporation Limited,Refineries & Marketing,Oil Gas & Consumable Fuels,Mid,Strong,0.7524379801750183,0.19599559045652795,False
+CHEVIOT,Cheviot Company Limited,Jute & Jute Products,Forest Materials,Small,Not Strong,0.03036521315574646,0.008737561665008437,False
+CHOLAHLDNG,Cholamandalam Financial Holdings Limited,Investment Company,Financial Services,Large,Strong,0.8945817810297012,0.12184265150002767,True
+CINELINE,Cineline India Limited,Film Production Distribution & Exhibition,Media Entertainment & Publication,Micro,Not Strong,0.014240874908864498,0.0031490660192154438,False
+CINEVISTA,Cinevista Limited,Media & Entertainment,Media Entertainment & Publication,Micro,Not Strong,0.026941942498087883,0.007256608519408779,False
+CUB,City Union Bank Limited,Private Sector Bank,Financial Services,Mid,Strong,0.8934230607748032,0.13516476336545397,True
+CLEDUCATE,CL Educate Limited,Education,Consumer Services,Micro,Not Strong,0.013199949655681848,0.0023156480162280363,False
+CLEAN,Clean Science and Technology Limited,Specialty Chemicals,Chemicals,Mid,Not Strong,0.5839367014169693,0.16347655547944884,False
+COASTCORP,Coastal Corporation Limited,Seafood,Fast Moving Consumer Goods,Small,Not Strong,0.019526782631874084,0.0052232247774054545,False
+COFFEEDAY,Coffee Day Enterprises Limited,Restaurants,Consumer Services,Small,Not Strong,0.023948205169290304,0.005641082074540509,False
+COMSYN,Commercial Syn Bags Limited,Packaging,Capital Goods,Micro,Not Strong,0.009846773324534297,0.0017105847788182632,False
+COMPUSOFT,Compucom Software Limited,Education,Consumer Services,Micro,Not Strong,0.024660644084215165,0.00651438076841842,False
+CONCORDBIO,Concord Biotech Limited,Pharmaceuticals,Healthcare,Mid,Not Strong,0.6746033465862274,0.161754529026949,False
+CEWATER,Concord Enviro Systems Limited,Waste Management,Utilities,Small,Not Strong,0.020844023302197458,0.004364437727259698,False
+CONFIPET,Confidence Petroleum India Limited,LPG/CNG/PNG/LNG Supplier,Oil Gas & Consumable Fuels,Small,Not Strong,0.26050169304013254,0.1039472076435692,False
+CCCL,Consolidated Construction Consortium Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.02996771790087223,0.008892529294211459,False
+CONSOFINVT,Consolidated Finvest & Holdings Limited,Investment Company,Financial Services,Small,Not Strong,0.016975125540047886,0.0038534840553051323,False
+CONTROLPR,Control Print Limited,Computers Hardware & Equipments,Information Technology,Small,Not Strong,0.025209644604474307,0.007059325410933853,False
+CORALFINAC,Coral India Finance & Housing Limited,Diversified Commercial Services,Services,Micro,Not Strong,0.009728759648278356,0.0016876209447337829,False
+CORDSCABLE,Cords Cable Industries Limited,Cables - Electricals,Capital Goods,Micro,Not Strong,0.007917947107926012,0.001173879856824866,False
+COSMOFIRST,COSMO FIRST LIMITED,Packaging,Capital Goods,Small,Not Strong,0.2742159308493137,0.12316279479257042,False
+CCHHL,Country Club Hospitality & Holidays Limited,Hotels & Resorts,Consumer Services,Micro,Not Strong,0.017460387870669364,0.0032639468474565014,False
+COUNCODOS,Country Condo's Limited,Residential Commercial Projects,Realty,Micro,Not Strong,0.03593599352985621,0.008493231529762476,False
+CRAFTSMAN,Craftsman Automation Limited,Auto Components & Equipments,Automobile and Auto Components,Mid,Strong,0.7763822215795517,0.1670841715044325,False
+CREATIVEYE,Creative Eye Limited,Media & Entertainment,Media Entertainment & Publication,Micro,Not Strong,0.01664224110543728,0.003079999828992738,False
+CREATIVE,Creative Newtech Limited,Trading & Distributors,Services,Small,Not Strong,0.035889825262129305,0.010699992834635127,False
+MUFTI,Credo Brands Marketing Limited,Speciality Retail,Consumer Services,Small,Not Strong,0.03395791761577129,0.00872433950605042,False
+CREST,Crest Ventures Limited,Non Banking Financial Company (NBFC),Financial Services,Small,Not Strong,0.060594752058386804,0.021397169932262806,False
+CROWN,Crown Lifters Limited,Industrial Products,Capital Goods,Micro,Not Strong,0.009967298712581396,0.0017028115587689554,False
+CSLFINANCE,CSL Finance Limited,Non Banking Financial Company (NBFC),Financial Services,Small,Not Strong,0.01809835497289896,0.003660932379118923,False
+CUBEXTUB,Cubex Tubings Limited,Aluminium Copper & Zinc Products,Capital Goods,Micro,Not Strong,0.007449282379820943,0.000793761490626238,False
+CUPID,Cupid Limited,Personal Care,Fast Moving Consumer Goods,Small,Not Strong,0.025101540312170982,0.006267847285261908,False
+CYBERMEDIA,Cyber Media (India) Limited,Electronic Media,Media Entertainment & Publication,Micro,Not Strong,0.012243109624832868,0.0020739927635875254,False
+CYBERTECH,Cybertech Systems And Software Limited,Computers - Software & Consulting,Information Technology,Small,Not Strong,0.01155163367278874,0.0021681370467718057,False
+DPWIRES,D P Wires Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.01319726426154375,0.002931389018673504,False
+DLINKINDIA,D-Link (India) Limited,Computers Hardware & Equipments,Information Technology,Small,Not Strong,0.1848888847231865,0.09158941185617998,False
+DPABHUSHAN,D. P. Abhushan Limited,Gems Jewellery And Watches,Consumer Durables,Small,Not Strong,0.15774518199265003,0.08028835773111853,False
+DBCORP,D.B.Corp Limited,Print Media,Media Entertainment & Publication,Mid,Not Strong,0.707413239479065,0.15728896091910607,False
+DALMIASUG,Dalmia Bharat Sugar and Industries Limited,Sugar,Fast Moving Consumer Goods,Small,Not Strong,0.34431313931941987,0.12852796547178738,False
+DAMCAPITAL,Dam Capital Advisors Limited,Stockbroking & Allied,Financial Services,Small,Not Strong,0.0809742707759142,0.03882002689425656,False
+DAMODARIND,Damodar Industries Limited,Other Textile Products,Textiles,Micro,Not Strong,0.008485814156010747,0.0013143257217011581,False
+DANGEE,Dangee Dums Limited,Packaged Foods,Fast Moving Consumer Goods,Micro,Not Strong,0.027995897121727467,0.008228644819575677,False
+DAVANGERE,Davangere Sugar Company Limited,Diversified FMCG,Fast Moving Consumer Goods,Small,Not Strong,0.043007826618850234,0.01240553301384413,False
+DBSTOCKBRO,DB (International) Stock Brokers Limited,Stockbroking & Allied,Financial Services,Micro,Not Strong,0.008390358816832304,0.00106101937069538,False
+DCI,Dc Infotech And Communication Limited,Computers - Software & Consulting,Information Technology,Micro,Not Strong,0.01054851676337421,0.002179936936292322,False
+DCMFINSERV,DCM Financial Services Limited,Investment Company,Financial Services,Micro,Not Strong,0.01168510725721717,0.0021427943764404213,False
+DCM,DCM  Limited,IT Enabled Services,Information Technology,Micro,Not Strong,0.01274411953985691,0.002218712047778852,False
+DCMNVL,DCM Nouvelle Limited,Other Textile Products,Textiles,Micro,Not Strong,0.012622901443392039,0.0024087143372519015,False
+DCMSRIND,DCM Shriram Industries Limited,Sugar,Fast Moving Consumer Goods,Small,Not Strong,0.13928424462676048,0.044685859187118565,False
+DCMSHRIRAM,DCM Shriram Limited,Diversified,Diversified,Mid,Not Strong,0.7200116220116616,0.2013857600490062,False
+DCW,DCW Limited,Petrochemicals,Chemicals,Small,Not Strong,0.415800147652626,0.12863040672348627,False
+DDEVPLSTIK,Ddev Plastiks Industries Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.09256806939840317,0.043459411480109456,False
+DENORA,De Nora India Limited,Electrodes & Refractories,Capital Goods,Small,Not Strong,0.04483252260833979,0.011484618248090741,False
+DIL,Debock Industries Limited,Other Agricultural Products,Fast Moving Consumer Goods,Micro,Not Strong,0.011776297707110644,0.002151062435603479,False
+DECCANCE,Deccan Cements Limited,Cement & Cement Products,Construction Materials,Small,Not Strong,0.030382515639066698,0.00786212228364006,False
+DEEDEV,DEE Development Engineers Limited,Industrial Products,Capital Goods,Small,Not Strong,0.03679684676229954,0.012735685970715178,False
+DEEPINDS,Deep Industries Limited,Offshore Support Solution Drilling,Oil Gas & Consumable Fuels,Small,Not Strong,0.27250384390354154,0.11558489405982451,False
+DBEIL,Deepak Builders & Engineers India Limited,Civil Construction,Construction,Small,Not Strong,0.012497501242905855,0.002363126872141099,False
+DEEPAKFERT,Deepak Fertilizers and Petrochemicals Corporation Limited,Commodity Chemicals,Chemicals,Mid,Strong,0.8173941779136658,0.16940326460758048,False
+DELPHIFX,DELPHI WORLD MONEY LIMITED,Other Financial Services,Financial Services,Micro,Not Strong,0.010831756489351392,0.0022700541271026635,False
+DELTACORP,Delta Corp Limited,Amusement Parks/ Other Recreation,Consumer Services,Small,Not Strong,0.34351658523082734,0.14540253028840144,False
+DELTAMAGNT,Delta Manufacturing Limited,Other Industrial Products,Capital Goods,Micro,Not Strong,0.009615782974287867,0.0013643475088733037,False
+DEN,Den Networks Limited,TV Broadcasting & Software Production,Media Entertainment & Publication,Small,Not Strong,0.20298117995262147,0.08117865128984621,False
+DENTA,Denta Water and Infra Solutions Limited,Water Supply & Management,Utilities,Small,Not Strong,0.017165474109351635,0.004188795366275384,False
+DEVIT,Dev Information Technology Limited,IT Enabled Services,Information Technology,Micro,Not Strong,0.01714607372879982,0.004605192273244655,False
+DBOL,Dhampur Bio Organics Limited,Sugar,Fast Moving Consumer Goods,Small,Not Strong,0.08389405876398087,0.021950341030446272,False
+DHAMPURSUG,Dhampur Sugar Mills Limited,Sugar,Fast Moving Consumer Goods,Small,Not Strong,0.19677725449204445,0.06924668050422057,False
+DHANBANK,Dhanlaxmi Bank Limited,Private Sector Bank,Financial Services,Small,Not Strong,0.09002614259719849,0.045452908218048906,False
+DHANUKA,Dhanuka Agritech Limited,Pesticides & Agrochemicals,Chemicals,Mid,Not Strong,0.5135178601741791,0.21122677781560004,False
+DHARMAJ,Dharmaj Crop Guard Limited,Pesticides & Agrochemicals,Chemicals,Small,Not Strong,0.03377735458314419,0.009571499261868116,False
+DHRUV,Dhruv Consultancy Services Limited,Consulting Services,Services,Micro,Not Strong,0.010293967993929983,0.001876525020252743,False
+DHUNINV,Dhunseri Investments Limited,Non Banking Financial Company (NBFC),Financial Services,Small,Not Strong,0.09650487788021564,0.036833469939510415,False
+DTIL,Dhunseri Tea & Industries Limited,Tea & Coffee,Fast Moving Consumer Goods,Micro,Not Strong,0.008144050175324082,0.0010071385967236075,False
+DVL,Dhunseri Ventures Limited,Diversified,Diversified,Small,Not Strong,0.1109380290657282,0.03116260197573588,False
+DIAMINESQ,Diamines & Chemicals Limited,Specialty Chemicals,Chemicals,Micro,Not Strong,0.012185454368591309,0.0020552854160775383,False
+DIACABS,Diamond Power Infrastructure Limited,Other Electrical Equipment,Capital Goods,Mid,Not Strong,0.37785667344927787,0.15551822622551145,False
+DICIND,DIC India Limited,Printing Inks,Chemicals,Small,Not Strong,0.019651492722332478,0.006318042499782043,False
+DIFFNKG,Diffusion Engineers Limited,Other Industrial Products,Capital Goods,Small,Not Strong,0.013871005568653345,0.0027634820339253697,False
+DGCONTENT,Digicontent Limited,Advertising & Media Agencies,Media Entertainment & Publication,Micro,Not Strong,0.009781464757397771,0.0016638386216625937,False
+DIGIDRIVE,Digidrive Distributors Limited,E-Retail/ E-Commerce,Consumer Services,Micro,Not Strong,0.009925205381587148,0.0015152994997118302,False
+DIGISPICE,DiGiSPICE Technologies Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.017505651637911797,0.0034019903409488804,False
+DIGJAMLMTD,Digjam Limited,Other Textile Products,Textiles,Micro,Not Strong,0.021130844168365002,0.006296555480787652,False
+DNAMEDIA,Diligent Media Corporation Limited,Electronic Media,Media Entertainment & Publication,Micro,Not Strong,0.013498769085854291,0.0025569334154406246,False
+DISHTV,Dish TV India Limited,TV Broadcasting & Software Production,Media Entertainment & Publication,Small,Not Strong,0.10952313497662544,0.031622336248482895,False
+DIVGIITTS,Divgi Torqtransfer Systems Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.029119796678423883,0.007689326356691468,False
+DJML,DJ Mediaprint & Logistics Limited,Logistics Solution Provider,Services,Small,Not Strong,0.03788035187870264,0.014143571867996847,False
+DMCC,DMCC SPECIALITY CHEMICALS LIMITED,Specialty Chemicals,Chemicals,Small,Not Strong,0.010570699060335755,0.0016835729388168887,False
+DOLATALGO,Dolat Algotech Limited,Stockbroking & Allied,Financial Services,Small,Not Strong,0.12858097448945047,0.05323255265443731,False
+DOLLAR,Dollar Industries Limited,Garments & Apparels,Textiles,Small,Not Strong,0.31671112671494484,0.1308395027526731,False
+DOLPHIN,Dolphin Offshore Enterprises (India) Limited,Offshore Support Solution Drilling,Oil Gas & Consumable Fuels,Small,Not Strong,0.03861391354352236,0.014719610169615255,False
+DOMS,DOMS Industries Limited,Stationary,Fast Moving Consumer Goods,Mid,Strong,0.8400835698843002,0.14556241474628703,True
+DONEAR,Donear Industries Limited,Other Textile Products,Textiles,Small,Not Strong,0.018033761195838452,0.004683363840390118,False
+DPSCLTD,DPSC Limited,Integrated Power Utilities,Power,Small,Not Strong,0.05511415768414736,0.015331578068527203,False
+AGARWALEYE,Dr. Agarwal's Health Care Limited,Hospital,Healthcare,Mid,Not Strong,0.6512536653876304,0.2077552738960919,False
+DRCSYSTEMS,DRC Systems India Limited,Computers - Software & Consulting,Information Technology,Micro,Not Strong,0.019597302693873643,0.00397025590743779,False
+DREAMFOLKS,Dreamfolks Services Limited,Airport & Airport services,Services,Small,Not Strong,0.35084288865327834,0.12549606815215655,False
+DREDGECORP,Dredging Corporation of India Limited,Dredging,Services,Small,Not Strong,0.04547826994210482,0.016621197274827908,False
+KEEPLEARN,DSJ Keep Learning Limited,Education,Consumer Services,Micro,Not Strong,0.01169774891808629,0.0022755045913663585,False
+DUCON,Ducon Infratechnologies Limited,Industrial Products,Capital Goods,Micro,Not Strong,0.011170332524925471,0.0019598023545287528,False
+DWARKESH,Dwarikesh Sugar Industries Limited,Sugar,Fast Moving Consumer Goods,Small,Not Strong,0.1357332780957222,0.0501454873860989,False
+DSSL,Dynacons Systems & Solutions Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.046221103221178055,0.019314126350789194,False
+DYCL,Dynamic Cables Limited,Cables - Electricals,Capital Goods,Small,Not Strong,0.1820633441209793,0.07258538994143506,False
+DYNPRO,Dynemic Products Limited,Specialty Chemicals,Chemicals,Micro,Not Strong,0.008901054859161378,0.0013828700761637075,False
+E2E,E2E Networks Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.01946158241480589,0.004783977524204206,False
+ECLERX,eClerx Services Limited,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Services,Mid,Strong,0.7708559292554855,0.1725009941012189,False
+ECOSMOBLTY,Ecos (India) Mobility & Hospitality Limited,Road Transport,Services,Small,Not Strong,0.06963723830878735,0.025283315712112835,False
+EIDPARRY,EID Parry India Limited,Other Food Products,Fast Moving Consumer Goods,Mid,Not Strong,0.6867744666337967,0.21921773568305042,False
+EIHAHOTELS,EIH Associated Hotels Limited,Hotels & Resorts,Consumer Services,Small,Not Strong,0.060377314798533914,0.01906217193478765,False
+EIHOTEL,EIH Limited,Hotels & Resorts,Consumer Services,Large,Strong,0.8172105103731155,0.17429542362493,False
+EIMCOELECO,Eimco Elecon (India) Limited,Industrial Products,Capital Goods,Small,Not Strong,0.048444328047335145,0.01901959722238709,False
+ELDEHSG,Eldeco Housing And Industries Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.04563683446496725,0.016320668835969096,False
+ELECON,Elecon Engineering Company Limited,Heavy Electrical Equipment,Capital Goods,Mid,Not Strong,0.6709345245361328,0.18410058102824342,False
+ELECTHERM,Electrotherm (India) Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.15289169684052467,0.08277121829638899,False
+ELGIEQUIP,Elgi Equipments Limited,Compressors Pumps & Diesel Engines,Capital Goods,Mid,Not Strong,0.5390771773457527,0.18042150111964697,False
+ELGIRUBCO,Elgi Rubber Company Limited,Rubber,Capital Goods,Micro,Not Strong,0.017885340247303247,0.00479302924673941,False
+ELIN,Elin Electronics Limited,Household Appliances,Consumer Durables,Small,Not Strong,0.0627945203334093,0.02424659349373265,False
+EMAMIPAP,Emami Paper Mills Limited,Paper & Paper Products,Forest Materials,Small,Not Strong,0.04386275745928288,0.011617929266940177,False
+EMAMIREAL,Emami Realty Limited,Residential Commercial Projects,Realty,Micro,Not Strong,0.022936929613351822,0.00631168751447051,False
+EMCURE,Emcure Pharmaceuticals Limited,Pharmaceuticals,Healthcare,Large,Strong,0.7871303939819336,0.21081843628629418,False
+EMKAY,Emkay Global Financial Services Limited,Stockbroking & Allied,Financial Services,Micro,Not Strong,0.010892524430528284,0.0016746992986364099,False
+EMMBI,Emmbi Industries Limited,Packaging,Capital Goods,Micro,Not Strong,0.013013729434460402,0.0025946666009685508,False
+EMSLIMITED,EMS Limited,Waste Management,Utilities,Small,Not Strong,0.35928810194134714,0.144914658962937,False
+ENERGYDEV,Energy Development Company Limited,Power Generation,Power,Micro,Not Strong,0.019048080407083036,0.003499249844371627,False
+ENGINERSIN,Engineers India Limited,Civil Construction,Construction,Mid,Strong,0.8381274527311325,0.13553576958372848,True
+ENIL,Entertainment Network (India) Limited,Media & Entertainment,Media Entertainment & Publication,Small,Not Strong,0.01580458687618375,0.0036991121978334745,False
+EPACK,EPACK Durable Limited,Household Appliances,Consumer Durables,Small,Not Strong,0.3644709147512913,0.13784378537482128,False
+ERIS,Eris Lifesciences Limited,Pharmaceuticals,Healthcare,Mid,Not Strong,0.5778715577721596,0.18845088115889846,False
+EROSMEDIA,Eros International Media Limited,Film Production Distribution & Exhibition,Media Entertainment & Publication,Micro,Not Strong,0.016714826989918947,0.0023992001991465423,False
+ESABINDIA,Esab India Limited,Other Industrial Products,Capital Goods,Mid,Not Strong,0.5471723505854607,0.19784872968718506,False
+ESAFSFB,ESAF Small Finance Bank Limited,Other Bank,Financial Services,Small,Not Strong,0.24739034920930864,0.0783133084039031,False
+ESSARSHPNG,Essar Shipping Limited,Shipping,Services,Small,Not Strong,0.0923481635004282,0.03666272627478522,False
+ESTER,Ester Industries Limited,Packaging,Capital Goods,Small,Not Strong,0.07805045139044524,0.031037363908768496,False
+EIFFL,Euro India Fresh Foods Limited,Packaged Foods,Fast Moving Consumer Goods,Micro,Not Strong,0.012305097784847022,0.00237723136283493,False
+EVEREADY,Eveready Industries India Limited,Household Products,Fast Moving Consumer Goods,Small,Not Strong,0.1671694140136242,0.07515606409055448,False
+EVERESTIND,Everest Industries Limited,Other Construction Materials,Construction Materials,Small,Not Strong,0.040310874730348584,0.014350048944531724,False
+EKC,Everest Kanto Cylinder Limited,Industrial Products,Capital Goods,Small,Not Strong,0.1314856482297182,0.05840811390368963,False
+EXCELINDUS,Excel Industries Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.0879090141505003,0.03789660968474126,False
+EXCEL,Excel Realty N Infra Limited,Trading & Distributors,Services,Micro,Not Strong,0.016394120790064335,0.00325006704305435,False
+EXICOM,Exicom Tele-Systems Limited,Heavy Electrical Equipment,Capital Goods,Small,Not Strong,0.06356241080909968,0.026206694648415536,False
+EXPLEOSOL,Expleo Solutions Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.06963392172008753,0.034393097094647905,False
+EXXARO,Exxaro Tiles Limited,Ceramics,Consumer Durables,Small,Not Strong,0.05966544855386019,0.019760415715132557,False
+FACT,Fertilizers and Chemicals Travancore Limited,Fertilizers,Chemicals,Large,Strong,0.7644075900316238,0.17828877756123138,False
+FAIRCHEMOR,Fairchem Organics Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.024458896815776825,0.0054385749105977,False
+FAZE3Q,Faze Three Limited,Other Textile Products,Textiles,Small,Not Strong,0.013543333113193511,0.0030430225444224353,False
+FCSSOFT,FCS Software Solutions Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.04891051817685366,0.01373982462208188,False
+FEDFINA,Fedbank Financial Services Limited,Non Banking Financial Company (NBFC),Financial Services,Small,Not Strong,0.31839658960700035,0.11704163464065273,False
+FMGOETZE,Federal-Mogul Goetze (India) Limited.,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.20704935520887374,0.07859122727124868,False
+FIBERWEB,Fiberweb (India) Limited,Other Textile Products,Textiles,Micro,Not Strong,0.012748593185096978,0.002921636313915825,False
+FILATFASH,Filatex Fashions Limited,Garments & Apparels,Textiles,Mid,Not Strong,0.23838231846690178,0.11568862823975794,False
+FILATEX,Filatex India Limited,Other Textile Products,Textiles,Small,Not Strong,0.17115773037075996,0.0773693107256163,False
+FINOPB,Fino Payments Bank Limited,Other Bank,Financial Services,Small,Not Strong,0.15223692409694195,0.06893293002459791,False
+FINCABLES,Finolex Cables Limited,Cables - Electricals,Capital Goods,Mid,Not Strong,0.6611165541410446,0.1670660701165422,False
+FINPIPE,Finolex Industries Limited,Plastic Products - Industrial,Capital Goods,Mid,Not Strong,0.7067600241303444,0.16994156433751745,False
+FLAIR,Flair Writing Industries Limited,Stationary,Fast Moving Consumer Goods,Small,Not Strong,0.21004060328006743,0.11380242467269944,False
+FLEXITUFF,Flexituff Ventures International Limited,Other Textile Products,Textiles,Micro,Not Strong,0.07342184610664844,0.024452822358311404,False
+FOCUS,Focus Lighting and Fixtures Limited,Consumer Electronics,Consumer Durables,Small,Not Strong,0.014677943084388972,0.0037468512690354947,False
+FOODSIN,Foods & Inns Limited,Packaged Foods,Fast Moving Consumer Goods,Small,Not Strong,0.04537228778004646,0.014425487889444625,False
+FOSECOIND,Foseco India Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.12658415481448174,0.050479506113649604,False
+FUSION,Fusion Finance Limited,Microfinance Institutions,Financial Services,Small,Not Strong,0.26412849336862565,0.08830930683566376,False
+FCONSUMER,Future Consumer Limited,Diversified Retail,Consumer Services,Micro,Not Strong,0.019401315525174143,0.004456754927712522,False
+FMNL,Future Market Networks Limited,Diversified Commercial Services,Services,Micro,Not Strong,0.034252516999840735,0.008827824578722948,False
+GMBREW,GM Breweries Limited,Breweries & Distilleries,Fast Moving Consumer Goods,Small,Not Strong,0.14391849018633365,0.055911022769345224,False
+GTECJAINX,G-TEC JAINX EDUCATION LIMITED,E-Learning,Consumer Services,Micro,Not Strong,0.01720876332372427,0.005631909596027863,False
+GATECH,GACM Technologies Limited,Other Financial Services,Financial Services,Micro,Not Strong,0.013787076920270919,0.0026623214923259418,False
+GATECHDVR,GACM Technologies Limited,Other Financial Services,Financial Services,Micro,Not Strong,0.014252530131489038,0.00302100524879274,False
+GALAPREC,Gala Precision Engineering Limited,Industrial Products,Capital Goods,Small,Not Strong,0.017664433717727662,0.0045456401694266785,False
+GALAXYSURF,Galaxy Surfactants Limited,Specialty Chemicals,Chemicals,Mid,Not Strong,0.5409927305579185,0.19642404789057513,False
+GALLANTT,Gallantt Ispat Limited,Iron & Steel Products,Capital Goods,Mid,Not Strong,0.5100183875858784,0.2173864088074384,False
+GANDHAR,Gandhar Oil Refinery (India) Limited,Lubricants,Oil Gas & Consumable Fuels,Small,Not Strong,0.14453592389822006,0.06150787553789223,False
+GANDHITUBE,Gandhi Special Tubes Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.02548343449831009,0.0075696473712454386,False
+GANESHBE,Ganesh Benzoplast Limited,Oil Storage & Transportation,Oil Gas & Consumable Fuels,Small,Not Strong,0.0666918396577239,0.022153901186575505,False
+GTL,GTL Limited,Other Telecom Services,Telecommunication,Micro,Not Strong,0.015625462364405394,0.0029341557310250638,False
+GANGAFORGE,Ganga Forging Limited,Castings & Forgings,Capital Goods,Micro,Not Strong,0.015567939933389426,0.002794064596999239,False
+GANGESSECU,Ganges Securities Limited,Tea & Coffee,Fast Moving Consumer Goods,Micro,Not Strong,0.009357284605503082,0.0013758569503247665,False
+GARUDA,Garuda Construction and Engineering Limited,Civil Construction,Construction,Small,Not Strong,0.01626187836751342,0.0035225627371395134,False
+GAYAHWS,Gayatri Highways Limited,Road Assets - Toll Annuity Hybrid-Annuity,Services,Micro,Not Strong,0.05927324555814266,0.01826183234938988,False
+GEPIL,GE Power India Limited,Heavy Electrical Equipment,Capital Goods,Small,Not Strong,0.1609865252673626,0.07863606410027589,False
+GEECEE,GeeCee Ventures Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.01666512046009302,0.0031606051718072194,False
+GEEKAYWIRE,Geekay Wires Limited,Iron & Steel Products,Capital Goods,Micro,Not Strong,0.010606334982439876,0.001926602523503034,False
+GENCON,Generic Engineering Construction and Projects Limited,Residential Commercial Projects,Realty,Micro,Not Strong,0.010391488345339895,0.001673284447572615,False
+GENESYS,Genesys International Corporation Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.12665810532867908,0.06525778388571718,False
+GENSOL,Gensol Engineering Limited,Other Electrical Equipment,Capital Goods,Small,Not Strong,0.16632200486958026,0.06908942180703759,False
+GENUSPAPER,Genus Paper & Boards Limited,Paper & Paper Products,Forest Materials,Small,Not Strong,0.06056575514376163,0.019311502105266838,False
+GENUSPOWER,Genus Power Infrastructures Limited,Other Electrical Equipment,Capital Goods,Mid,Strong,0.762724512219429,0.17086628420919112,False
+GEOJITFSL,Geojit Financial Services Limited,Stockbroking & Allied,Financial Services,Small,Not Strong,0.27289748162031174,0.12933453913555962,False
+GFLLIMITED,GFL Limited,Holding Company,Financial Services,Small,Not Strong,0.051629510670900346,0.01849765367581294,False
+GHCLTEXTIL,GHCL Textiles Limited,Other Textile Products,Textiles,Small,Not Strong,0.07796952463686466,0.04128565274502266,False
+GICHSGFIN,GIC Housing Finance Limited,Housing Finance Company,Financial Services,Small,Not Strong,0.10533933266997338,0.04087866054665621,False
+GILLANDERS,Gillanders Arbuthnot & Company Limited,Tea & Coffee,Fast Moving Consumer Goods,Micro,Not Strong,0.009500653855502606,0.0017914536361774015,False
+GILLETTE,Gillette India Limited,Personal Care,Fast Moving Consumer Goods,Large,Strong,0.8273527044057846,0.1435595442261724,True
+GINNIFILA,Ginni Filaments Limited,Other Textile Products,Textiles,Micro,Not Strong,0.01715400904417038,0.004069991019583694,False
+GKWLIMITED,GKW Limited,Investment Company,Financial Services,Small,Not Strong,0.08967753872275352,0.03352800711783333,False
+GLOBAL,Global Education Limited,Education,Consumer Services,Small,Not Strong,0.014191624317318201,0.0026150200156736902,False
+GSLSU,Global Surfaces Limited,Granites & Marbles,Consumer Durables,Small,Not Strong,0.02521275382488966,0.0071447947478450145,False
+GLOBALVECT,Global Vectra Helicorp Limited,Airline,Services,Micro,Not Strong,0.01171835782006383,0.002603054279813357,False
+GLOBALE,Globale Tessile Limited,Trading - Textile Products,Textiles,Micro,Not Strong,0.00903272214345634,0.0012195548300791303,False
+GLOBE,Globe Textiles (India) Limited,Other Textile Products,Textiles,Micro,Not Strong,0.01842574540525675,0.003920734590807414,False
+GLOBUSSPR,Globus Spirits Limited,Breweries & Distilleries,Fast Moving Consumer Goods,Small,Not Strong,0.3165418517589569,0.10045193514514743,False
+GLOSTERLTD,Gloster Limited,Jute & Jute Products,Forest Materials,Small,Not Strong,0.016456624679267406,0.004255915068062503,False
+GNA,GNA Axles Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.07181632913649082,0.019491680115171522,False
+GOCOLORS,Go Fashion (India) Limited,Speciality Retail,Consumer Services,Mid,Not Strong,0.48451707005500794,0.16008912483227009,False
+GOACARBON,Goa Carbon Limited,Industrial Minerals,Metals & Mining,Small,Not Strong,0.037138410583138465,0.014032132499590249,False
+GOCLCORP,GOCL Corporation Limited,Explosives,Chemicals,Small,Not Strong,0.13042713418602944,0.05507614921423282,False
+GODAVARIB,Godavari Biorefineries Limited,Diversified FMCG,Fast Moving Consumer Goods,Small,Not Strong,0.03939738988876343,0.012540583273473386,False
+GPIL,Godawari Power And Ispat limited,Iron & Steel Products,Capital Goods,Large,Strong,0.7648928302526474,0.18512437402020152,False
+GODHA,Godha Cabcon & Insulation Limited,Cables - Electricals,Capital Goods,Micro,Not Strong,0.013889368763193488,0.0028753299639293845,False
+GODREJAGRO,Godrej Agrovet Limited,Animal Feed,Fast Moving Consumer Goods,Mid,Strong,0.8298429495096207,0.14434922001450048,True
+GOKULAGRO,Gokul Agro Resources Limited,Edible Oil,Fast Moving Consumer Goods,Small,Not Strong,0.4338827362656593,0.13745187433311928,False
+GOKUL,Gokul Refoils and Solvent Limited,Edible Oil,Fast Moving Consumer Goods,Micro,Not Strong,0.06311917133629322,0.019776949888519104,False
+GOLDIAM,Goldiam International Limited,Gems Jewellery And Watches,Consumer Durables,Small,Not Strong,0.5700554206967354,0.1676393268522314,False
+GOODLUCK,Goodluck India Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.396848167181015,0.14932252038168572,False
+GOYALALUM,Goyal Aluminiums Limited,Trading & Distributors,Services,Micro,Not Strong,0.01776928162202239,0.005227622725884373,False
+GULFPETRO,GP Petroleums Limited,Lubricants,Oil Gas & Consumable Fuels,Micro,Not Strong,0.015195191167294978,0.003286051732503358,False
+GPTHEALTH,GPT Healthcare Limited,Hospital,Healthcare,Small,Not Strong,0.05012379065155983,0.013460896376789624,False
+GPTINFRA,GPT Infraprojects Limited,Civil Construction,Construction,Small,Not Strong,0.042978131659328934,0.015440199550391328,False
+GRANULES,Granules India Limited,Pharmaceuticals,Healthcare,Mid,Not Strong,0.7079868441820145,0.20134765623277556,False
+GRAPHITE,Graphite India Limited,Electrodes & Refractories,Capital Goods,Mid,Not Strong,0.5287294225394725,0.20423676575583857,False
+GRAVITA,Gravita India Limited,Industrial Minerals,Metals & Mining,Mid,Not Strong,0.6875663226842881,0.1907779423596585,False
+GREENLAM,Greenlam Industries Limited,Plywood Boards/ Laminates,Consumer Durables,Mid,Not Strong,0.4052217844128609,0.15565373054336978,False
+GRINDWELL,Grindwell Norton Limited,Abrasives & Bearings,Capital Goods,Large,Not Strong,0.6778313964605331,0.198785392125442,False
+GRMOVER,GRM Overseas Limited,Other Agricultural Products,Fast Moving Consumer Goods,Small,Not Strong,0.23311884537339211,0.10686561800536971,False
+GRPLTD,GRP Limited,Rubber,Capital Goods,Small,Not Strong,0.1120623828470707,0.045253012425508984,False
+GSS,GSS Infotech Limited,IT Enabled Services,Information Technology,Micro,Not Strong,0.014128760900348425,0.003476356754163604,False
+GTLINFRA,GTL Infrastructure Limited,Telecom - Infrastructure,Telecommunication,Small,Not Strong,0.1091716568917036,0.03342917171144631,False
+GTPL,GTPL Hathway Limited,TV Broadcasting & Software Production,Media Entertainment & Publication,Small,Not Strong,0.09625428982079029,0.033694347027840556,False
+GUFICBIO,Gufic Biosciences Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.5861415955424308,0.18545536026418719,False
+GIPCL,Gujarat Industries Power Company Limited,Power Generation,Power,Small,Not Strong,0.22811718329787253,0.09512620351042114,False
+GNFC,Gujarat Narmada Valley Fertilizers and Chemicals Limited,Commodity Chemicals,Chemicals,Mid,Strong,0.8145922780036926,0.16816947872431973,False
+GUJAPOLLO,Gujarat Apollo Industries Limited,Industrial Products,Capital Goods,Micro,Not Strong,0.01367351707071066,0.002663917057658384,False
+GUJALKALI,Gujarat Alkalies and Chemicals Limited,Commodity Chemicals,Chemicals,Mid,Not Strong,0.6141751429438591,0.18219506450444467,False
+GLFL,Gujarat Lease Financing Limited,Other Financial Services,Financial Services,Micro,Not Strong,0.018960572946816683,0.004056747795786163,False
+GMDCLTD,Gujarat Mineral Development Corporation Limited,Industrial Minerals,Metals & Mining,Mid,Not Strong,0.6958039286732673,0.19359431411841643,False
+GPPL,Gujarat Pipavav Port Limited,Port & Port services,Services,Mid,Not Strong,0.7443692982196808,0.1672407216204751,False
+GUJRAFFIA,Gujarat Raffia Industries Limited,Packaging,Capital Goods,Micro,Not Strong,0.010251444913446903,0.0016104651056638277,False
+GULPOLY,Gulshan Polyols Limited,Other Agricultural Products,Fast Moving Consumer Goods,Small,Not Strong,0.1891542212665081,0.07161972995138809,False
+GVKPIL,GVK Power & Infrastructure Limited,Civil Construction,Construction,Small,Not Strong,0.17851920992136003,0.06296705997620658,False
+GVPTECH,GVP Infotech Limited,Computers - Software & Consulting,Information Technology,Micro,Not Strong,0.03231908306479454,0.009923738388491898,False
+HAPPSTMNDS,Happiest Minds Technologies Limited,Computers - Software & Consulting,Information Technology,Mid,Not Strong,0.6569930142164231,0.19712121821358905,False
+HAPPYFORGE,Happy Forgings Limited,Castings & Forgings,Capital Goods,Mid,Not Strong,0.5025096267461777,0.200538802982093,False
+HARDWYN,Hardwyn India Limited,Furniture Home Furnishing,Consumer Durables,Small,Not Strong,0.024806300941854716,0.010113070468131083,False
+HARIOMPIPE,Hariom Pipe Industries Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.052582358121871946,0.01837394394038254,False
+HARRMALAYA,Harrisons  Malayalam Limited,Rubber,Capital Goods,Micro,Not Strong,0.0115225931070745,0.002690037824528857,False
+HARSHA,Harsha Engineers International Limited,Other Industrial Products,Capital Goods,Small,Not Strong,0.40695060789585114,0.15793196768738804,False
+HATSUN,Hatsun Agro Product Limited,Dairy Products,Fast Moving Consumer Goods,Large,Strong,0.797169851064682,0.20939306531101545,False
+HBSL,HB Stockholdings Limited,Non Banking Financial Company (NBFC),Financial Services,Micro,Not Strong,0.010105715515092015,0.0015568924165469057,False
+HCL-INSYS,HCL Infosystems Limited,Computers Hardware & Equipments,Information Technology,Small,Not Strong,0.018051088582724334,0.0031910270850006913,False
+HEADSUP,Heads UP Ventures Limited,Trading - Textile Products,Textiles,Micro,Not Strong,0.013676179703325034,0.0021590734749042987,False
+HECPROJECT,HEC Infra Projects Limited,Civil Construction,Construction,Micro,Not Strong,0.009358379309996962,0.0016022947934473625,False
+HEG,HEG Limited,Electrodes & Refractories,Capital Goods,Large,Strong,0.7705809557437897,0.16864349845549756,False
+HERANBA,Heranba Industries Limited,Pesticides & Agrochemicals,Chemicals,Small,Not Strong,0.05402459934353829,0.01809491080477491,False
+HERCULES,Hercules Hoists Limited,Industrial Products,Capital Goods,Small,Not Strong,0.1056687194108963,0.04463888112854475,False
+HPL,HPL Electric & Power Limited,Industrial Products,Capital Goods,Small,Not Strong,0.36466714829206465,0.1451645675655476,False
+HESTERBIO,Hester Biosciences Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.04149191342294216,0.017264109503684417,False
+HEUBACHIND,Heubach Colorants India Limited,Dyes And Pigments,Chemicals,Small,Not Strong,0.11335218630731106,0.05238534545504901,False
+HEXATRADEX,Hexa Tradex Limited,Investment Company,Financial Services,Small,Not Strong,0.047765248343348506,0.02012599638483273,False
+HITECH,Hi-Tech Pipes Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.39288955569267275,0.16020087243573053,False
+HILTON,Hilton Metal Forging Limited,Castings & Forgings,Capital Goods,Micro,Not Strong,0.022207783330231906,0.005009127688949076,False
+HIMATSEIDE,Himatsingka Seide Limited,Other Textile Products,Textiles,Small,Not Strong,0.20609400272369385,0.08403537767633007,False
+HIRECT,Hind Rectifiers Limited,Industrial Products,Capital Goods,Small,Not Strong,0.08088490195572376,0.03304820721638458,False
+HINDCON,Hindcon Chemicals Limited,Specialty Chemicals,Chemicals,Micro,Not Strong,0.010151133136823774,0.0017331680357819887,False
+HPIL,Hindprakash Industries Limited,Dyes And Pigments,Chemicals,Micro,Not Strong,0.008752843029797078,0.0011995220463373404,False
+HGS,Hinduja Global Solutions Limited,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Services,Small,Not Strong,0.16308957412838937,0.07849775622146318,False
+HINDCOMPOS,Hindustan Composites Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.013323986660689116,0.002376307452640505,False
+HNDFDS,Hindustan Foods Limited,Diversified FMCG,Fast Moving Consumer Goods,Mid,Not Strong,0.7046355658769607,0.18169355419905667,False
+HMVL,Hindustan Media Ventures Limited,Print Media,Media Entertainment & Publication,Small,Not Strong,0.017144081406295298,0.0032832438224236226,False
+HINDMOTORS,Hindustan Motors Limited,Passenger Cars & Utility Vehicles,Automobile and Auto Components,Small,Not Strong,0.021563094072043897,0.004634311896818645,False
+HINDOILEXP,Hindustan Oil Exploration Company Limited,Oil Exploration & Production,Oil Gas & Consumable Fuels,Small,Not Strong,0.12029330879449844,0.05860637509285876,False
+HINDWAREAP,Hindware Home Innovation Limited,Sanitary Ware,Consumer Durables,Small,Not Strong,0.28013076275587084,0.09643426878738784,False
+HISARMETAL,Hisar Metal Industries Limited,Iron & Steel Products,Capital Goods,Micro,Not Strong,0.007810156242921949,0.001106637015428319,False
+HITECHCORP,Hitech Corporation Limited,Packaging,Capital Goods,Micro,Not Strong,0.008011759920045734,0.0012162469545088969,False
+HLEGLAS,HLE Glascoat Limited,Industrial Products,Capital Goods,Small,Not Strong,0.16461090683937074,0.06051010461049814,False
+HLVLTD,HLV LIMITED,Hotels & Resorts,Consumer Services,Small,Not Strong,0.030371690578758718,0.0069019389269599045,False
+HMAAGRO,HMA Agro Industries Limited,Meat Products including Poultry,Fast Moving Consumer Goods,Small,Not Strong,0.25219596847891806,0.09101459757524076,False
+HOMEFIRST,Home First Finance Company India Limited,Housing Finance Company,Financial Services,Mid,Not Strong,0.5348912006616593,0.18221796575396945,False
+HONASA,Honasa Consumer Limited,Personal Care,Fast Moving Consumer Goods,Mid,Not Strong,0.736216014623642,0.17202139461017232,False
+HONDAPOWER,Honda India Power Products Limited,Industrial Products,Capital Goods,Small,Not Strong,0.17273642271757125,0.07208558256576336,False
+HOVS,HOV Services Limited,IT Enabled Services,Information Technology,Micro,Not Strong,0.009525192370638251,0.0015522418305019242,False
+HPAL,HP Adhesives Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.04796150475740433,0.016328933635884963,False
+HTMEDIA,HT Media Limited,Print Media,Media Entertainment & Publication,Small,Not Strong,0.11291843801736831,0.04855065238467298,False
+HUBTOWN,Hubtown Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.07268564216792583,0.03055854347898547,False
+HUHTAMAKI,Huhtamaki India Limited,Packaging,Capital Goods,Small,Not Strong,0.1680590583384037,0.06705449304256517,False
+HYBRIDFIN,Hybrid Financial Services Limited,Stockbroking & Allied,Financial Services,Micro,Not Strong,0.011637115245684981,0.001887370597968001,False
+IGPL,IG Petrochemicals Limited,Commodity Chemicals,Chemicals,Small,Not Strong,0.054402521587908266,0.018859172575640144,False
+ICDSLTD,ICDS Limited,Diversified Commercial Services,Services,Micro,Not Strong,0.0117714180983603,0.0019010124339542901,False
+ICEMAKE,Ice Make Refrigeration Limited,Industrial Products,Capital Goods,Small,Not Strong,0.025362833999097348,0.005615461429164466,False
+ISEC,ICICI Securities Limited,Stockbroking & Allied,Financial Services,Large,Strong,0.8425582432746888,0.18035067615110212,False
+ICRA,ICRA Limited,Ratings,Financial Services,Mid,Not Strong,0.58634373575449,0.18992494773956312,False
+IDEAFORGE,Ideaforge Technology Limited,Aerospace & Defense,Capital Goods,Small,Not Strong,0.06835714399814606,0.03139728366927819,False
+IFBAGRO,IFB Agro Industries Limited,Breweries & Distilleries,Fast Moving Consumer Goods,Micro,Not Strong,0.02309849739074707,0.0074715358108440365,False
+IFGLEXPOR,IFGL Refractories Limited,Electrodes & Refractories,Capital Goods,Small,Not Strong,0.024156516678631307,0.007085741128253619,False
+IGARASHI,Igarashi Motors India Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.10267477616667747,0.038545239326985205,False
+IKIO,IKIO Lighting Limited,Consumer Electronics,Consumer Durables,Small,Not Strong,0.07509251832962036,0.03361430205945123,False
+IVC,IL&FS Investment Managers Limited,Asset Management Company,Financial Services,Micro,Not Strong,0.023390036076307297,0.005312270600949431,False
+INCREDIBLE,INCREDIBLE INDUSTRIES LIMITED,Iron & Steel Products,Capital Goods,Micro,Not Strong,0.008978984700515866,0.00120655552612132,False
+IMPAL,India Motor Parts and Accessories Limited,Trading - Auto Components,Automobile and Auto Components,Small,Not Strong,0.032588348798453806,0.00849697334307508,False
+INDSWFTLAB,Ind-Swift Laboratories Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.01686213718727231,0.0038068918239980054,False
+INDTERRAIN,Indian Terrain Fashions Limited,Garments & Apparels,Textiles,Micro,Not Strong,0.027456244099885226,0.00722149168801317,False
+INDSWFTLTD,Ind-Swift Limited,Pharmaceuticals,Healthcare,Micro,Not Strong,0.010989455142989754,0.0017271591528985766,False
+INDBANK,Indbank Merchant Banking Services Limited,Stockbroking & Allied,Financial Services,Micro,Not Strong,0.01411184884607792,0.0029770491942564506,False
+INDGN,Indegene Limited,Healthcare Research Analytics & Technology,Healthcare,Mid,Not Strong,0.6968302291631698,0.19631314558021765,False
+INDNIPPON,India Nippon Electricals Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.028580006137490274,0.007785741579497835,False
+IPL,India Pesticides Limited,Pesticides & Agrochemicals,Chemicals,Small,Not Strong,0.3151415953040123,0.12281825145617503,False
+ITDC,India Tourism Development Corporation Limited,Hotels & Resorts,Consumer Services,Mid,Not Strong,0.6030149698257447,0.16222482553544862,False
+IEL,Indiabulls Enterprises Limited,Diversified Commercial Services,Services,Micro,Not Strong,0.024568250365555287,0.005254485929859794,False
+INDIANCARD,Indian Card Clothing Company Limited,Other Textile Products,Textiles,Micro,Not Strong,0.016428728327155112,0.002931136178591395,False
+INDIANHUME,Indian Hume Pipe Company Limited,Industrial Products,Capital Goods,Small,Not Strong,0.23899477243423461,0.1014807406544151,False
+IOB,Indian Overseas Bank,Public Sector Bank,Financial Services,Large,Not Strong,0.6989227324724198,0.19177681136750618,False
+INDOAMIN,Indo Amines Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.0374012266844511,0.012814918825895211,False
+INDOBORAX,Indo Borax & Chemicals Limited,Commodity Chemicals,Chemicals,Small,Not Strong,0.08538796752691269,0.03241103193466962,False
+INDOFARM,Indo Farm Equipment Limited,Tractors,Capital Goods,Small,Not Strong,0.013027448691427707,0.0032147108899728484,False
+INDORAMA,Indo Rama Synthetics (India) Limited,Other Textile Products,Textiles,Small,Not Strong,0.1067257607728243,0.039312750910692286,False
+INDOTECH,Indo Tech Transformers Limited,Heavy Electrical Equipment,Capital Goods,Small,Not Strong,0.08222570896148682,0.02782861834390274,False
+INDOTHAI,Indo Thai Securities Limited,Stockbroking & Allied,Financial Services,Micro,Not Strong,0.013762549255043268,0.0027975151715767636,False
+INDOUS,Indo Us Biotech Limited,Other Agricultural Products,Fast Moving Consumer Goods,Small,Not Strong,0.01109818859025836,0.002064411977054158,False
+NIPPOBATRY,Indo-National Limited,Household Products,Fast Moving Consumer Goods,Micro,Not Strong,0.013324354961514472,0.002846665491436251,False
+INDOCO,Indoco Remedies Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.20479707837104796,0.0751156301657354,False
+INDOSTAR,IndoStar Capital Finance Limited,Non Banking Financial Company (NBFC),Financial Services,Small,Not Strong,0.4743885603547096,0.143449513060129,False
+INDOWIND,Indowind Energy Limited,Power Generation,Power,Micro,Not Strong,0.01303629832342267,0.002429825644452277,False
+INDRAMEDCO,Indraprastha Medical Corporation Limited,Hospital,Healthcare,Small,Not Strong,0.32375515431165697,0.11741159817806697,False
+IITL,Industrial Investment Trust Limited,Investment Company,Financial Services,Micro,Not Strong,0.010544658927246929,0.0018442013340432548,False
+INFOBEAN,InfoBeans Technologies Limited,Computers - Software & Consulting,Information Technology,Small,Not Strong,0.014057711437344552,0.002850757117069789,False
+INFOMEDIA,Infomedia Press Limited,Printing & Publication,Media Entertainment & Publication,Micro,Not Strong,0.009958136137574911,0.0017687721979970387,False
+INNOVANA,Innovana Thinklabs Limited,Computers - Software & Consulting,Information Technology,Small,Not Strong,0.012555154534056782,0.002413620727997335,False
+INOXINDIA,INOX India Limited,Other Industrial Products,Capital Goods,Mid,Not Strong,0.6708310413360595,0.16524807371967726,False
+IWEL,Inox Wind Energy Limited,Heavy Electrical Equipment,Capital Goods,Mid,Not Strong,0.5488129580020904,0.20057066574704016,False
+INSECTICID,Insecticides (India) Limited,Pesticides & Agrochemicals,Chemicals,Small,Not Strong,0.127368630990386,0.055388315942685784,False
+INSPIRISYS,Inspirisys Solutions Limited,IT Enabled Services,Information Technology,Micro,Not Strong,0.007782243555411696,0.0007396080333097108,False
+ESSENTIA,Integra Essentia Limited,Trading & Distributors,Services,Micro,Not Strong,0.012669509239494801,0.0023492658563679927,False
+INTELLECT,Intellect Design Arena Limited,Computers - Software & Consulting,Information Technology,Mid,Not Strong,0.6939703446626663,0.18348138021363794,False
+INTENTECH,Intense Technologies Limited,IT Enabled Services,Information Technology,Micro,Not Strong,0.009620086317881941,0.0012300659023139649,False
+INTERARCH,Interarch Building Products Limited,Civil Construction,Construction,Small,Not Strong,0.13239491552114488,0.06248370683498118,False
+INTLCONV,International Conveyors Limited,Industrial Products,Capital Goods,Small,Not Strong,0.05690036002546549,0.017409892943042782,False
+ISFT,Intrasoft Technologies Limited,E-Retail/ E-Commerce,Consumer Services,Micro,Not Strong,0.010008983900770546,0.0019768564433072086,False
+INVENTURE,Inventure Growth & Securities Limited,Stockbroking & Allied,Financial Services,Micro,Not Strong,0.021998882628977298,0.004397158312740745,False
+IOLCP,IOL Chemicals and Pharmaceuticals Limited,Pharmaceuticals,Healthcare,Mid,Not Strong,0.5301157534122467,0.17280678762949803,False
+IRIS,Iris Business Services Limited,Software Products,Information Technology,Micro,Not Strong,0.011039338670670987,0.002045134927917551,False
+IRISDOREME,Iris Clothings Limited,Garments & Apparels,Textiles,Small,Not Strong,0.03296153577044606,0.009334649538774269,False
+IRMENERGY,IRM Energy Limited,LPG/CNG/PNG/LNG Supplier,Oil Gas & Consumable Fuels,Small,Not Strong,0.11338189445436,0.044379524974839726,False
+IVP,IVP Limited,Specialty Chemicals,Chemicals,Micro,Not Strong,0.007137804357334972,0.0009028005848557438,False
+IZMO,IZMO Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.02015599561855197,0.003809596130313124,False
+JBCHEPHARM,JB Chemicals & Pharmaceuticals Limited,Pharmaceuticals,Healthcare,Large,Strong,0.8243829345703125,0.15958339118981668,False
+JGCHEM,J.G.Chemicals Limited,Commodity Chemicals,Chemicals,Small,Not Strong,0.08203138053417205,0.03201389939882889,False
+JAGRAN,Jagran Prakashan Limited,Print Media,Media Entertainment & Publication,Small,Not Strong,0.35832427024841307,0.13749174813206763,False
+JAGSNPHARM,Jagsonpal Pharmaceuticals Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.14852330341935158,0.051675014406219404,False
+JISLDVREQS,Jain Irrigation Systems Limited,Plastic Products - Industrial,Capital Goods,Micro,Not Strong,0.14483966395258904,0.06180983542485717,False
+JPPOWER,Jaiprakash Power Ventures Limited,Power Generation,Power,Mid,Strong,0.7511098152399063,0.20069460087415067,False
+JASH,Jash Engineering Limited,Industrial Products,Capital Goods,Mid,Not Strong,0.6836961725354195,0.20730935698046007,False
+JAYBARMARU,Jay Bharat Maruti Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.09298918589949608,0.0353669329139321,False
+JAYAGROGN,Jayant Agro Organics Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.025530500207096338,0.006572123610279082,False
+JAYNECOIND,Jayaswal Neco Industries Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.19748445138335227,0.07327122045269116,False
+JAYSREETEA,Jayshree Tea & Industries Limited,Tea & Coffee,Fast Moving Consumer Goods,Micro,Not Strong,0.042398478649556634,0.016121016011206312,False
+JETFREIGHT,Jet Freight Logistics Limited,Logistics Solution Provider,Services,Micro,Not Strong,0.010857748128473758,0.0017910829181845452,False
+JHS,JHS Svendgaard Laboratories Limited,Personal Care,Fast Moving Consumer Goods,Micro,Not Strong,0.009627670114859939,0.0013854745591151676,False
+RETAIL,JHS Svendgaard Retail Ventures Limited,Diversified Retail,Consumer Services,Micro,Not Strong,0.009205476315692067,0.0017234989314686108,False
+JPOLYINVST,Jindal Poly Investment and Finance Company Limited,Investment Company,Financial Services,Small,Not Strong,0.045398570224642755,0.018311997628375966,False
+JINDRILL,Jindal Drilling And Industries Limited,Offshore Support Solution Drilling,Oil Gas & Consumable Fuels,Small,Not Strong,0.1669843655079603,0.08026469437252347,False
+JINDALPHOT,Jindal Photo Limited,Investment Company,Financial Services,Small,Not Strong,0.04169536110013723,0.016948392132552628,False
+JINDALPOLY,Jindal Poly Films Limited,Packaging,Capital Goods,Small,Not Strong,0.4603330275416374,0.17096676040061362,False
+JINDALSAW,Jindal Saw Limited,Iron & Steel Products,Capital Goods,Large,Strong,0.859865243434906,0.13249060010835495,True
+JITFINFRA,JITF Infralogistics Limited,Water Supply & Management,Utilities,Small,Not Strong,0.10258982248604298,0.038788356240918455,False
+JKTYRE,JK Tyre & Industries Limited,Tyres & Rubber Products,Automobile and Auto Components,Mid,Strong,0.8017971616983414,0.17134392602459234,False
+JMFINANCIL,JM Financial Limited,Holding Company,Financial Services,Mid,Strong,0.7868161672353744,0.19031149680417345,False
+JNKINDIA,JNK India Limited,Industrial Products,Capital Goods,Small,Not Strong,0.08889232151210308,0.03684286101408325,False
+JOCIL,Jocil Limited,Commodity Chemicals,Chemicals,Micro,Not Strong,0.018127031587064267,0.004921793376812735,False
+JSWHL,JSW Holdings Limited,Investment Company,Financial Services,Mid,Not Strong,0.5334669661521911,0.19137121620084183,False
+JTEKTINDIA,Jtekt India Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.5174552339315415,0.18758253288962506,False
+JUBLCPL,Jubilant Agri and Consumer Products Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.026911605950444936,0.010185081732818709,False
+JUBLINGREA,Jubilant Ingrevia Limited,Specialty Chemicals,Chemicals,Mid,Not Strong,0.711569275856018,0.13830629915846146,False
+JUBLPHARMA,Jubilant Pharmova Limited,Pharmaceuticals,Healthcare,Mid,Not Strong,0.6283372065424919,0.2227529602836695,False
+JMA,Jullundur Motor Agency (Delhi) Limited,Trading - Auto Components,Automobile and Auto Components,Micro,Not Strong,0.010074618151411413,0.0019567690223777382,False
+JUNIPER,Juniper Hotels Limited,Hotels & Resorts,Consumer Services,Mid,Not Strong,0.5657222041487694,0.171082567328897,False
+JLHL,Jupiter Life Line Hospitals Limited,Hospital,Healthcare,Mid,Not Strong,0.6588275057077407,0.173808470109243,False
+JUSTDIAL,Just Dial Limited,Internet & Catalogue Retail,Consumer Services,Mid,Not Strong,0.7007296559214592,0.17645177409505813,False
+JYOTHYLAB,Jyothy Labs Limited,Household Products,Fast Moving Consumer Goods,Mid,Not Strong,0.7213407254219055,0.14363741000600652,False
+JYOTICNC,Jyoti CNC Automation Limited,Industrial Products,Capital Goods,Large,Strong,0.8406574732065201,0.1503695913551436,False
+JYOTISTRUC,Jyoti Structures Limited,Heavy Electrical Equipment,Capital Goods,Small,Not Strong,0.07253439407795667,0.023397111884179797,False
+KMSUGAR,K.M.Sugar Mills Limited,Sugar,Fast Moving Consumer Goods,Micro,Not Strong,0.014547070264816284,0.0028059309686732257,False
+KPEL,K.P. Energy Limited,Power Generation,Power,Small,Not Strong,0.0805090270936489,0.03403499144644511,False
+KABRAEXTRU,Kabra Extrusion Technik Limited,Industrial Products,Capital Goods,Small,Not Strong,0.030753849558532238,0.009584724054703554,False
+KAJARIACER,Kajaria Ceramics Limited,Ceramics,Consumer Durables,Mid,Not Strong,0.6128267541527748,0.1702539219765479,False
+KAKATCEM,Kakatiya Cement Sugar & Industries Limited,Cement & Cement Products,Construction Materials,Micro,Not Strong,0.012035349961370229,0.002345061446548488,False
+KALYANIFRG,Kalyani Forge Limited,Castings & Forgings,Capital Goods,Micro,Not Strong,0.012932867929339408,0.002635210675043733,False
+KICL,Kalyani Investment Company Limited,Investment Company,Financial Services,Small,Not Strong,0.1037274419143796,0.047209557362238384,False
+KAMATHOTEL,Kamat Hotels (I) Limited,Hotels & Resorts,Consumer Services,Small,Not Strong,0.02483441447839141,0.006271422300762477,False
+KAMDHENU,Kamdhenu Limited,Iron & Steel Products,Capital Goods,Mid,Not Strong,0.5485499176383019,0.17659695883214954,False
+KAMOPAINTS,Kamdhenu Ventures Limited,Paints,Consumer Durables,Small,Not Strong,0.03820718720555306,0.011834248299706975,False
+KANANIIND,Kanani Industries Limited,Gems Jewellery And Watches,Consumer Durables,Micro,Not Strong,0.030402218885719777,0.009180427545782245,False
+KANORICHEM,Kanoria Chemicals & Industries Limited,Industrial Products,Capital Goods,Small,Not Strong,0.04029480531811714,0.012494273916664087,False
+KANPRPLA,Kanpur Plastipack Limited,Packaging,Capital Goods,Micro,Not Strong,0.008209624942392111,0.0011688439053986997,False
+KANSAINER,Kansai Nerolac Paints Limited,Paints,Consumer Durables,Large,Strong,0.8768572199344635,0.150307795068137,False
+KAPSTON,Kapston Services Limited,Diversified Commercial Services,Services,Small,Not Strong,0.013142728637903929,0.0025229438784780244,False
+KARMAENG,Karma Energy Limited,Power Generation,Power,Micro,Not Strong,0.009746928196400405,0.0014775705054844229,False
+KAUSHALYA,Kaushalya Infrastructure Development Corporation Limited,Hotels & Resorts,Consumer Services,Micro,Not Strong,0.013252681288868189,0.0019063938031027082,False
+KAVVERITEL,Kavveri Telecom Products Limited,Telecom - Equipment & Accessories,Telecommunication,Micro,Not Strong,0.00879461169242859,0.0012448673831351386,False
+KAYA,Kaya Limited,Wellness,Consumer Services,Micro,Not Strong,0.03110657725483179,0.008329960983372272,False
+KBCGLOBAL,KBC Global Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.02570356836542487,0.0052457900559812086,False
+KCP,KCP Limited,Cement & Cement Products,Construction Materials,Small,Not Strong,0.3920880249142647,0.12861603781928713,False
+KCPSUGIND,KCP Sugar and Industries Corporation Limited,Sugar,Fast Moving Consumer Goods,Micro,Not Strong,0.01908266229555011,0.005368996900665425,False
+KDDL,KDDL Limited,Gems Jewellery And Watches,Consumer Durables,Small,Not Strong,0.3361988852918148,0.13610083266518938,False
+KELLTONTEC,Kellton Tech Solutions Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.038719302713871,0.016912430138746062,False
+KERNEX,Kernex Microsystems (India) Limited,Transport Related Services,Services,Small,Not Strong,0.06708599992096424,0.025254640584783414,False
+KESORAMIND,Kesoram Industries Limited,Other Textile Products,Textiles,Mid,Not Strong,0.6552567729353904,0.1881212830015919,False
+KKCL,Kewal Kiran Clothing Limited,Garments & Apparels,Textiles,Small,Not Strong,0.1765865230560303,0.06462137037063213,False
+KEYFINSERV,Keynote Financial Services Limited,Stockbroking & Allied,Financial Services,Micro,Not Strong,0.010155270332470536,0.0015664399194982523,False
+RUSTOMJEE,Keystone Realtors Limited,Residential Commercial Projects,Realty,Mid,Not Strong,0.41307749807834626,0.14149400110579693,False
+KHADIM,Khadim India Limited,Footwear,Consumer Durables,Small,Not Strong,0.015339052956551313,0.003064893294088506,False
+KHAITANLTD,Khaitan (India) Limited,Consumer Electronics,Consumer Durables,Micro,Not Strong,0.007636775206774474,0.0008024904675676109,False
+KHAICHEM,Khaitan Chemicals & Fertilizers Limited,Fertilizers,Chemicals,Small,Not Strong,0.04259321615099907,0.01601444784369045,False
+KHANDSE,Khandwala Securities Limited,Stockbroking & Allied,Financial Services,Micro,Not Strong,0.00970280909910798,0.0013440946480800645,False
+KILITCH,Kilitch Drugs (India) Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.009497661991044879,0.001662626502510414,False
+KINGFA,Kingfa Science & Technology (India) Limited,Plastic Products - Industrial,Capital Goods,Small,Not Strong,0.18673325821757317,0.08285749673158195,False
+KIOCL,KIOCL Limited,Sponge Iron,Metals & Mining,Large,Not Strong,0.4758302238583565,0.16274912930831353,False
+KIRIINDUS,Kiri Industries Limited,Dyes And Pigments,Chemicals,Small,Not Strong,0.2595052252709866,0.10255795890880978,False
+KIRLOSBROS,Kirloskar Brothers Limited,Compressors Pumps & Diesel Engines,Capital Goods,Mid,Not Strong,0.7158719998598099,0.16608486089771207,False
+KECL,Kirloskar Electric Company Limited,Other Electrical Equipment,Capital Goods,Small,Not Strong,0.07073880955576897,0.029039229982154205,False
+KIRLOSIND,Kirloskar Industries Limited,Other Industrial Products,Capital Goods,Mid,Not Strong,0.6031382527947425,0.19652528195777288,False
+KIRLOSENG,Kirloskar Oil Engines Limited,Compressors Pumps & Diesel Engines,Capital Goods,Mid,Not Strong,0.7368132305145264,0.15908841920611677,False
+KITEX,Kitex Garments Limited,Garments & Apparels,Textiles,Mid,Not Strong,0.43153755605220795,0.16556384844686428,False
+KMEW,Knowledge Marine & Engineering Works Limited,Dredging,Services,Small,Not Strong,0.04328326623886824,0.016052992597768642,False
+KNRCON,KNR Constructions Limited,Civil Construction,Construction,Mid,Strong,0.7686987626552582,0.16874933599711778,False
+KOHINOOR,Kohinoor Foods Limited,Other Agricultural Products,Fast Moving Consumer Goods,Micro,Not Strong,0.020410407874733208,0.005211840930040103,False
+KOKUYOCMLN,Kokuyo Camlin Limited,Stationary,Fast Moving Consumer Goods,Small,Not Strong,0.15866473332047462,0.059799620133113136,False
+KOLTEPATIL,Kolte - Patil Developers Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.18510457150638104,0.0726029809157114,False
+KOPRAN,Kopran Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.013350658677518367,0.002842822664746677,False
+KOTHARIPET,Kothari Petrochemicals Limited,Petrochemicals,Chemicals,Small,Not Strong,0.030554793551564218,0.010286692793530072,False
+KOTHARIPRO,Kothari Products Limited,Trading & Distributors,Services,Small,Not Strong,0.028512367494404316,0.008726691287618568,False
+KOTARISUG,Kothari Sugars And Chemicals Limited,Sugar,Fast Moving Consumer Goods,Micro,Not Strong,0.018179655224084854,0.00427076081114152,False
+NIBE,NIBE Limited,Aerospace & Defense,Capital Goods,Small,Not Strong,0.02178995979949832,0.004952977379065498,False
+KREBSBIO,Krebs Biochemicals and Industries Limited,Pharmaceuticals,Healthcare,Micro,Not Strong,0.012656266838312148,0.0021395123873072055,False
+KRIDHANINF,Kridhan Infra Limited,Civil Construction,Construction,Micro,Not Strong,0.027690761405974627,0.008795500514935118,False
+KRISHANA,Krishana Phoschem Limited,Fertilizers,Chemicals,Small,Not Strong,0.022573477402329446,0.005105099666081956,False
+KIMS,Krishna Institute of Medical Sciences Limited,Hospital,Healthcare,Large,Strong,0.8504491209983825,0.15771053568633173,False
+KRITI,Kriti Industries (India) Limited,Plastic Products - Industrial,Capital Goods,Small,Not Strong,0.06822219092398882,0.025574867581717814,False
+KRITINUT,Kriti Nutrients Limited,Edible Oil,Fast Moving Consumer Goods,Small,Not Strong,0.020508757773786784,0.005324571772939708,False
+KRITIKA,Kritika Wires Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.02421968590468168,0.005984300472710781,False
+KRN,KRN Heat Exchanger and Refrigeration Limited,Other Industrial Products,Capital Goods,Small,Not Strong,0.07613310415297747,0.03221435841626785,False
+KRONOX,Kronox Lab Sciences Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.030886638946831226,0.006565312545560457,False
+KROSS,Kross Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.01163898615166545,0.0021794519416144676,False
+KRSNAA,Krsnaa Diagnostics Limited,Healthcare Service Provider,Healthcare,Small,Not Strong,0.3994477471709251,0.1594882309816719,False
+KRYSTAL,Krystal Integrated Services Limited,Diversified Commercial Services,Services,Small,Not Strong,0.04693752396851778,0.013375759101523972,False
+KSHITIJPOL,Kshitij Polyline Limited,Stationary,Fast Moving Consumer Goods,Micro,Not Strong,0.01913884999230504,0.0036676205922498723,False
+KSOLVES,Ksolves India Limited,Computers - Software & Consulting,Information Technology,Small,Not Strong,0.06726378127932549,0.024666066760992242,False
+KUANTUM,Kuantum Papers Limited,Paper & Paper Products,Forest Materials,Small,Not Strong,0.06851886846125126,0.026879880095839057,False
+LAOPALA,La Opala RG Limited,Glass - Consumer,Consumer Durables,Small,Not Strong,0.46711249858140946,0.17698415251583471,False
+LAGNAM,Lagnam Spintex Limited,Other Textile Products,Textiles,Micro,Not Strong,0.00786604542285204,0.0010953460097672652,False
+LFIC,Lakshmi Finance & Industrial Corporation Limited,Investment Company,Financial Services,Micro,Not Strong,0.007351887291297317,0.0009572350420134919,False
+LAMBODHARA,Lambodhara Textiles Limited,Other Textile Products,Textiles,Micro,Not Strong,0.008744774963706731,0.0016158137910359425,False
+LANCORHOL,Lancor Holdings Limited,Residential Commercial Projects,Realty,Micro,Not Strong,0.01720512695610523,0.0031951798125851427,False
+LANDMARK,Landmark Cars Limited,Auto Dealer,Automobile and Auto Components,Small,Not Strong,0.19656645953655244,0.07071679398081904,False
+LPDC,Landmark Property Development Company Limited,Real Estate related services,Realty,Micro,Not Strong,0.01475459137931466,0.002494124695509522,False
+LASA,Lasa Supergenerics Limited,Pharmaceuticals,Healthcare,Micro,Not Strong,0.00890271745622158,0.0013790196119250631,False
+LATENTVIEW,Latent View Analytics Limited,Computers - Software & Consulting,Information Technology,Mid,Not Strong,0.5837332990765571,0.20281100915553885,False
+LATTEYS,Latteys Industries Limited,Compressors Pumps & Diesel Engines,Capital Goods,Micro,Not Strong,0.023362368568778036,0.006911370671027429,False
+LAXMICOT,Laxmi Cotspin Limited,Other Textile Products,Textiles,Micro,Not Strong,0.015048552881926297,0.0030098634212628278,False
+LAXMIDENTL,Laxmi Dental Limited,Medical Equipment & Supplies,Healthcare,Small,Not Strong,0.05931253898888826,0.017933569415088807,False
+LGHL,Laxmi Goldorna House Limited,Gems Jewellery And Watches,Consumer Durables,Small,Not Strong,0.020840084385126828,0.00589478753906235,False
+LEMONTREE,Lemon Tree Hotels Limited,Hotels & Resorts,Consumer Services,Mid,Not Strong,0.7067733925580978,0.21252127370499252,False
+LEXUS,Lexus Granito (India) Limited,Ceramics,Consumer Durables,Micro,Not Strong,0.016310285311192274,0.0034951632533971695,False
+LGBBROSLTD,LG Balakrishnan & Bros Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.2635671889781952,0.10170229543840115,False
+LIBAS,Libas Consumer Products Limited,Garments & Apparels,Textiles,Micro,Not Strong,0.016450256798416375,0.0034545197047436923,False
+LIBERTSHOE,Liberty Shoes Limited,Footwear,Consumer Durables,Small,Not Strong,0.014774711783975363,0.002493098230602831,False
+LIKHITHA,Likhitha Infrastructure Limited,Civil Construction,Construction,Small,Not Strong,0.055489820167422294,0.022642408248100706,False
+LINC,Linc Limited,Stationary,Fast Moving Consumer Goods,Small,Not Strong,0.024911562018096446,0.006730426796194727,False
+LINCOLN,Lincoln Pharmaceuticals Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.082942571118474,0.030711915184808508,False
+LOKESHMACH,Lokesh Machines Limited,Industrial Products,Capital Goods,Small,Not Strong,0.015197558440268039,0.0036303068343040133,False
+LORDSCHLO,Lords Chloro Alkali Limited,Commodity Chemicals,Chemicals,Micro,Not Strong,0.009528841907158494,0.001473348835007904,False
+LAL,Lorenzini Apparels Limited,Garments & Apparels,Textiles,Micro,Not Strong,0.010789002254605294,0.0018439136700977754,False
+LOTUSEYE,Lotus Eye Hospital and Institute Limited,Hospital,Healthcare,Micro,Not Strong,0.0129530537314713,0.0019177414457604528,False
+LOVABLE,Lovable Lingerie Limited,Garments & Apparels,Textiles,Micro,Not Strong,0.013723532799631358,0.003585770284530511,False
+LOYALTEX,Loyal Textile Mills Limited,Other Textile Products,Textiles,Micro,Not Strong,0.009650399470701813,0.001715315124281824,False
+LTFOODS,LT Foods Limited,Other Agricultural Products,Fast Moving Consumer Goods,Mid,Not Strong,0.7052511841058731,0.2091698415069541,False
+LUMAXTECH,Lumax Auto Technologies Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.495675530731678,0.16702670444366244,False
+LUMAXIND,Lumax Industries Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.22861342936754225,0.10066606330219349,False
+LYKALABS,Lyka Labs Limited,Pharmaceuticals,Healthcare,Micro,Not Strong,0.02327275920659304,0.005415816276384578,False
+LYPSAGEMS,Lypsa Gems & Jewellery Limited,Gems Jewellery And Watches,Consumer Durables,Micro,Not Strong,0.015523632895201445,0.003569380406756324,False
+MKPL,M K Proteins Limited,Edible Oil,Fast Moving Consumer Goods,Micro,Not Strong,0.01287151631899178,0.002187409030623778,False
+MAANALU,Maan Aluminium Limited,Aluminium,Metals & Mining,Small,Not Strong,0.01925820453092456,0.004820937859768046,False
+MACPOWER,Macpower CNC Machines Limited,Industrial Products,Capital Goods,Small,Not Strong,0.02134246999397874,0.006237023606910117,False
+MCL,Madhav Copper Limited,Investment Company,Financial Services,Micro,Not Strong,0.011720941998064519,0.001838515190066939,False
+MADHAV,Madhav Marbles and Granites Limited,Granites & Marbles,Consumer Durables,Micro,Not Strong,0.010336890136823058,0.001992908827559741,False
+MADHUCON,Madhucon Projects Limited,Civil Construction,Construction,Micro,Not Strong,0.024429083056747913,0.007207544751474075,False
+MBAPL,Madhya Bharat Agro Products Limited,Fertilizers,Chemicals,Small,Not Strong,0.04126585766673088,0.02082188037072268,False
+MADRASFERT,Madras Fertilizers Limited,Fertilizers,Chemicals,Small,Not Strong,0.14713445618748666,0.06510032969510568,False
+MAGADSUGAR,Magadh Sugar & Energy Limited,Sugar,Fast Moving Consumer Goods,Small,Not Strong,0.018899962604045868,0.0052424510182353425,False
+MCLOUD,Magellanic Cloud Limited,Computers - Software & Consulting,Information Technology,Small,Not Strong,0.06483643975108862,0.03285411732505331,False
+MAGNUM,Magnum Ventures Limited,Paper & Paper Products,Forest Materials,Micro,Not Strong,0.01837453953921795,0.004119243712402894,False
+MAHAPEXLTD,Maha Rashtra Apex Corporation Limited,Other Financial Services,Financial Services,Micro,Not Strong,0.012880745735019445,0.0024206704894432682,False
+MFML,Mahalaxmi Fabric Mills Limited,Other Textile Products,Textiles,Micro,Not Strong,0.012776171490550041,0.003204198325577246,False
+MHLXMIRU,Mahalaxmi Rubtech Limited,Other Textile Products,Textiles,Micro,Not Strong,0.008688377542421221,0.001473731371697872,False
+MAHASTEEL,Mahamaya Steel Industries Limited,Iron & Steel Products,Capital Goods,Micro,Not Strong,0.017316979803144932,0.005728193767786314,False
+MTNL,Mahanagar Telephone Nigam Limited,Telecom - Cellular & Fixed line services,Telecommunication,Small,Not Strong,0.14828098207712173,0.0419257577373229,False
+MAHSEAMLES,Maharashtra Seamless Limited,Iron & Steel Products,Capital Goods,Mid,Not Strong,0.6677572757005692,0.18916617477459208,False
+MAHESHWARI,Maheshwari Logistics Limited,Diversified,Diversified,Micro,Not Strong,0.01116918183863163,0.0022330172577275,False
+MAHEPC,Mahindra EPC Irrigation Limited,Industrial Products,Capital Goods,Micro,Not Strong,0.012435914315283299,0.0018816225855992127,False
+MHRIL,Mahindra Holidays & Resorts India Limited,Hotels & Resorts,Consumer Services,Mid,Not Strong,0.6609176680445671,0.21614225427395303,False
+MAHLOG,Mahindra Logistics Limited,Logistics Solution Provider,Services,Small,Not Strong,0.19010331332683564,0.07131916679704656,False
+MAITHANALL,Maithan Alloys Limited,Ferro & Silica Manganese,Metals & Mining,Small,Not Strong,0.25458114460110665,0.09091023068819254,False
+MALLCOM,Mallcom (India) Limited,Other Industrial Products,Capital Goods,Small,Not Strong,0.01667694766074419,0.004202987075458187,False
+MALUPAPER,Malu Paper Mills Limited,Paper & Paper Products,Forest Materials,Micro,Not Strong,0.009318718351423741,0.001317092927237117,False
+MAMATA,Mamata Machinery Limited,Industrial Products,Capital Goods,Small,Not Strong,0.014488149899989367,0.0030336751314035165,False
+MANAKCOAT,Manaksia Coated Metals & Industries Limited,Iron & Steel Products,Capital Goods,Micro,Not Strong,0.02002967204898596,0.005093064282254266,False
+MANINDS,Man Industries (India) Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.09460829101502895,0.034176868985039244,False
+MANAKALUCO,Manaksia Aluminium Company Limited,Aluminium,Metals & Mining,Micro,Not Strong,0.012828214298933745,0.0023023318318948043,False
+MANAKSIA,Manaksia Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.029810174275189637,0.007151308936844019,False
+MANAKSTEEL,Manaksia Steels Limited,Iron & Steel,Metals & Mining,Micro,Not Strong,0.015461948178708553,0.004174359981949318,False
+MANALIPETC,Manali Petrochemicals Limited,Petrochemicals,Chemicals,Small,Not Strong,0.08620269790291786,0.036739924729262324,False
+MANBA,Manba Finance Limited,Non Banking Financial Company (NBFC),Financial Services,Small,Not Strong,0.016716697383672,0.003215827064102355,False
+MANGCHEFER,Mangalore Chemicals & Fertilizers Limited,Fertilizers,Chemicals,Small,Not Strong,0.23600443363189696,0.09921027918048826,False
+MANCREDIT,Mangal Credit and Fincorp Limited,Non Banking Financial Company (NBFC),Financial Services,Micro,Not Strong,0.012342466227710246,0.0020555293373832944,False
+MANGLMCEM,Mangalam Cement Limited,Cement & Cement Products,Construction Materials,Small,Not Strong,0.1993613462150097,0.08938432054534062,False
+MANGALAM,Mangalam Drugs And Organics Limited,Pharmaceuticals,Healthcare,Micro,Not Strong,0.007959578521549701,0.0011630605932957565,False
+MGEL,Mangalam Global Enterprise Limited,Other Agricultural Products,Fast Moving Consumer Goods,Small,Not Strong,0.043572177588939665,0.013898513815066906,False
+MANORG,Mangalam Organics Limited,Commodity Chemicals,Chemicals,Micro,Not Strong,0.00963593135587871,0.0014718087092087143,False
+MVGJL,Manoj Vaibhav Gems N Jewellers Limited,Gems Jewellery And Watches,Consumer Durables,Small,Not Strong,0.032155117616057396,0.009464934979970802,False
+MANOMAY,Manomay Tex India Limited,Other Textile Products,Textiles,Micro,Not Strong,0.009375513633713126,0.0014770912061288456,False
+MANORAMA,Manorama Industries Limited,Other Food Products,Fast Moving Consumer Goods,Mid,Not Strong,0.5418499407172203,0.1981993997082323,False
+MANUGRAPH,Manugraph India Limited,Industrial Products,Capital Goods,Micro,Not Strong,0.028456405252218247,0.007796151296165114,False
+MARALOVER,Maral Overseas Limited,Other Textile Products,Textiles,Micro,Not Strong,0.015311442967504262,0.00313718615650539,False
+MARATHON,Marathon Nextgen Realty Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.17955934919416905,0.09192619375731632,False
+MARINE,Marine Electricals (India) Limited,Industrial Products,Capital Goods,Small,Not Strong,0.059726334549486636,0.024804179665024035,False
+MARSHALL,Marshall Machines Limited,Industrial Products,Capital Goods,Micro,Not Strong,0.010739361559972167,0.0018866492128399755,False
+MASFIN,MAS Financial Services Limited,Non Banking Financial Company (NBFC),Financial Services,Mid,Not Strong,0.5764722418785095,0.17717294627374655,False
+MASKINVEST,Mask Investments Limited,Investment Company,Financial Services,Micro,Not Strong,0.013894070349633693,0.0027857990169241355,False
+MASTEK,Mastek Limited,Computers - Software & Consulting,Information Technology,Mid,Not Strong,0.5722774606943131,0.18209663313591642,False
+MASTERTR,Master Trust Limited,Stockbroking & Allied,Financial Services,Small,Not Strong,0.029333488550037146,0.009555536820409617,False
+MATRIMONY,Matrimony.Com Limited,Internet & Catalogue Retail,Consumer Services,Small,Not Strong,0.024435709677636624,0.006592052769972497,False
+MAWANASUG,Mawana Sugars Limited,Sugar,Fast Moving Consumer Goods,Micro,Not Strong,0.03669230200350285,0.011697010574605688,False
+MAXIND,Max India Limited,Holding Company,Financial Services,Small,Not Strong,0.02771586421877146,0.007012038653884531,False
+MAYURUNIQ,Mayur Uniquoters Ltd,Leather And Leather Products,Consumer Durables,Small,Not Strong,0.2332768976688385,0.08476375433848742,False
+MAZDA,Mazda Limited,Industrial Products,Capital Goods,Small,Not Strong,0.043470240235328673,0.013385994226406293,False
+MBLINFRA,MBL Infrastructure Limited,Civil Construction,Construction,Small,Not Strong,0.05485527187585831,0.020669006926368937,False
+MCLEODRUSS,Mcleod Russel India Limited,Tea & Coffee,Fast Moving Consumer Goods,Micro,Not Strong,0.026795859821140765,0.007555417142993949,False
+MBECL,Mcnally Bharat Engineering Company Limited,Civil Construction,Construction,Micro,Not Strong,0.041708215214312075,0.010874147719158681,False
+MEDIASSIST,Medi Assist Healthcare Services Limited,Insurance Distributors,Financial Services,Small,Not Strong,0.3775680412352085,0.16944170535318231,False
+MEDICAMEQ,Medicamen Biotech Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.01362133152782917,0.0028859560226159524,False
+MEDICO,Medico Remedies Limited,Pharmaceuticals,Healthcare,Micro,Not Strong,0.022836206872016193,0.006295270393682056,False
+MEGASOFT,Megasoft Limited,Other Telecom Services,Telecommunication,Small,Not Strong,0.02152374144643545,0.004278876987805783,False
+MEGASTAR,Megastar Foods Limited,Other Food Products,Fast Moving Consumer Goods,Micro,Not Strong,0.008733326205983757,0.0013090852214257185,False
+MOL,Meghmani Organics Limited,Pesticides & Agrochemicals,Chemicals,Small,Not Strong,0.2982360462844372,0.12491714858243373,False
+MENONBE,Menon Bearings Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.061478469073772433,0.0226245948787606,False
+METROBRAND,Metro Brands Limited,Footwear,Consumer Durables,Large,Strong,0.7998459225893021,0.15639555801826127,False
+METROPOLIS,Metropolis Healthcare Limited,Healthcare Service Provider,Healthcare,Mid,Not Strong,0.5991087958216668,0.2021840605524272,False
+MICEL,MIC Electronics Limited,Other Industrial Products,Capital Goods,Small,Not Strong,0.049602756761014465,0.01530441208170485,False
+MINDACORP,Minda Corporation Limited,Auto Components & Equipments,Automobile and Auto Components,Mid,Strong,0.7917854851484298,0.1624311345804201,False
+MIRCELECTR,MIRC Electronics Limited,Consumer Electronics,Consumer Durables,Micro,Not Strong,0.017882569786161186,0.00399472695640496,False
+MIRZAINT,Mirza International Limited,Leather And Leather Products,Consumer Durables,Small,Not Strong,0.035700397416949275,0.01138460442198831,False
+MITCON,MITCON Consultancy & Engineering Services Limited,Consulting Services,Services,Micro,Not Strong,0.008489341521635652,0.0009156363673290311,False
+MITTAL,Mittal Life Style Limited,Garments & Apparels,Textiles,Micro,Not Strong,0.025942252557724713,0.006798801114912786,False
+MMFL,MM Forgings Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.13468262143433093,0.06233534148760697,False
+MMP,MMP Industries Limited,Aluminium,Metals & Mining,Small,Not Strong,0.013387151677161455,0.0024000611889393514,False
+MMTC,MMTC Limited,Trading & Distributors,Services,Mid,Not Strong,0.6153435453772544,0.20243213265941978,False
+MODTHREAD,Modern Threads (India) Limited,Other Textile Products,Textiles,Micro,Not Strong,0.011539277285337449,0.002117636277003664,False
+MODIRUBBER,Modi Rubber Limited,Tyres & Rubber Products,Automobile and Auto Components,Micro,Not Strong,0.008898251336067914,0.0013842324975768252,False
+MODISONLTD,MODISON LIMITED,Other Electrical Equipment,Capital Goods,Small,Not Strong,0.022240480538457633,0.006781949351838208,False
+MOHITIND,Mohit Industries Limited,Other Textile Products,Textiles,Micro,Not Strong,0.013404810223728419,0.0022406374203207003,False
+MOKSH,Moksh Ornaments Limited,Gems Jewellery And Watches,Consumer Durables,Micro,Not Strong,0.009631364308297634,0.0014475675052686998,False
+MOLDTKPAC,Mold-Tek Packaging Limited,Packaging,Capital Goods,Small,Not Strong,0.0934554074332118,0.04684040045680571,False
+MOLDTECH,Mold-Tek Technologies Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.07042978323996067,0.020581836098552134,False
+MONARCH,Monarch Networth Capital Limited,Stockbroking & Allied,Financial Services,Small,Not Strong,0.11487469099462032,0.07336505600729404,False
+MONTECARLO,Monte Carlo Fashions Limited,Garments & Apparels,Textiles,Small,Not Strong,0.054905375503003596,0.0169817440238698,False
+MOREPENLAB,Morepen Laboratories Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.48833825170993805,0.18788540349856336,False
+MOSCHIP,Moschip Technologies Limited,Computers Hardware & Equipments,Information Technology,Small,Not Strong,0.02197402684018016,0.004967176323379497,False
+MOTISONS,Motisons Jewellers Limited,Gems Jewellery And Watches,Consumer Durables,Mid,Not Strong,0.49659203857183454,0.19424368724312652,False
+MOTOGENFIN,The Motor & General Finance Limited,Diversified Commercial Services,Services,Micro,Not Strong,0.016606417093425987,0.0029907323941746034,False
+MPSLTD,MPS Limited,E-Learning,Consumer Services,Small,Not Strong,0.29415409088134764,0.11939746601821148,False
+MRO-TEK,MRO-TEK Realty Limited,Telecom - Equipment & Accessories,Telecommunication,Micro,Not Strong,0.01087669475004077,0.0015646165802850871,False
+MSPL,MSP Steel & Power Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.11461196973919868,0.04348929489048415,False
+MUFIN,Mufin Green Finance Limited,Non Banking Financial Company (NBFC),Financial Services,Small,Not Strong,0.0569091735035181,0.02038305695277065,False
+MUKANDLTD,Mukand Limited,Iron & Steel,Metals & Mining,Small,Not Strong,0.11729146003723144,0.052871918594813404,False
+MUKKA,Mukka Proteins Limited,Animal Feed,Fast Moving Consumer Goods,Small,Not Strong,0.06676892787218094,0.01643064833387695,False
+MUKTAARTS,Mukta Arts Limited,Film Production Distribution & Exhibition,Media Entertainment & Publication,Micro,Not Strong,0.01145866976119578,0.0018203110278073615,False
+MUNJALAU,Munjal Auto Industries Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.11102178491652012,0.04333763023832831,False
+NELCAST,Nelcast Limited,Castings & Forgings,Capital Goods,Small,Not Strong,0.038138173148036005,0.013386387088726064,False
+MUNJALSHOW,Munjal Showa Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.05634460877627134,0.020931592600544877,False
+MURUDCERA,Murudeshwar Ceramics Limited,Ceramics,Consumer Durables,Micro,Not Strong,0.015002934262156487,0.002970005922843769,False
+RADIOCITY,Music Broadcast Limited,Media & Entertainment,Media Entertainment & Publication,Micro,Not Strong,0.04416951060295105,0.011874764595424593,False
+MUTHOOTCAP,Muthoot Capital Services Limited,Non Banking Financial Company (NBFC),Financial Services,Small,Not Strong,0.017767626363784074,0.0030974008544052477,False
+MUTHOOTMF,Muthoot Microfin Limited,Microfinance Institutions,Financial Services,Small,Not Strong,0.20246987387537957,0.07658847878619171,False
+NRAIL,N R Agarwal Industries Limited,Paper & Paper Products,Forest Materials,Small,Not Strong,0.01770538115873933,0.003986589067558215,False
+NBIFIN,N. B. I. Industrial Finance Company Limited,Non Banking Financial Company (NBFC),Financial Services,Small,Not Strong,0.09032597467303276,0.03709657003683457,False
+NACLIND,NACL Industries Limited,Pesticides & Agrochemicals,Chemicals,Small,Not Strong,0.18801958054304124,0.08433628178695189,False
+NDGL,Naga Dhunseri Group Limited,Investment Company,Financial Services,Micro,Not Strong,0.038511561527848244,0.013139346016036113,False
+NAGAFERT,Nagarjuna Fertilizers and Chemicals Limited,Fertilizers,Chemicals,Small,Not Strong,0.23248022571206092,0.08543822955420305,False
+NAGREEKCAP,Nagreeka Capital & Infrastructure Limited,Investment Company,Financial Services,Micro,Not Strong,0.0098337475489825,0.001718884218251747,False
+NAGREEKEXP,Nagreeka Exports Limited,Other Textile Products,Textiles,Micro,Not Strong,0.008602684596553445,0.0011601911295067466,False
+NAHARCAP,Nahar Capital and Financial Services Limited,Investment Company,Financial Services,Small,Not Strong,0.010727875288575888,0.0017472700344870404,False
+NAHARINDUS,Nahar Industrial Enterprises Limited,Other Textile Products,Textiles,Small,Not Strong,0.06750661384314299,0.02867143978704614,False
+NAHARPOLY,Nahar Poly Films Limited,Packaging,Capital Goods,Small,Not Strong,0.0126096729375422,0.002282749054273197,False
+NAHARSPING,Nahar Spinning Mills Limited,Other Textile Products,Textiles,Small,Not Strong,0.04968377061188221,0.016130923009546508,False
+NGIL,Nakoda Group of Industries Limited,Packaged Foods,Fast Moving Consumer Goods,Micro,Not Strong,0.014869759492576122,0.003606712358248853,False
+NSIL,Nalwa Sons Investments Limited,Investment Company,Financial Services,Small,Not Strong,0.16386494405567645,0.07096149598065936,False
+NDL,Nandan Denim Limited,Other Textile Products,Textiles,Small,Not Strong,0.07582762137055397,0.027055135262025732,False
+JAIPURKURT,Nandani Creation Limited,Garments & Apparels,Textiles,Micro,Not Strong,0.007911420091986657,0.0010166663920985195,False
+NARMADA,Narmada Agrobase Limited,Animal Feed,Fast Moving Consumer Goods,Micro,Not Strong,0.0126056694611907,0.0024291019643538597,False
+NATHBIOGEN,Nath Bio-Genes (India) Limited,Other Agricultural Products,Fast Moving Consumer Goods,Micro,Not Strong,0.009259139094501734,0.001401163961244629,False
+NAVA,NAVA LIMITED,Power Generation,Power,Large,Strong,0.7831937235593796,0.14371442192000644,True
+NAVKARCORP,Navkar Corporation Limited,Logistics Solution Provider,Services,Small,Not Strong,0.06473328087478876,0.027465242110093817,False
+NAVKARURB,Navkar Urbanstructure Limited,Civil Construction,Construction,Micro,Not Strong,0.01654216764494777,0.003726032562082792,False
+NAVNETEDUL,Navneet Education Limited,Printing & Publication,Media Entertainment & Publication,Small,Not Strong,0.3576512660086155,0.13771307039169148,False
+NCLIND,NCL Industries Limited,Cement & Cement Products,Construction Materials,Small,Not Strong,0.12795715607702732,0.05095737223385785,False
+NDLVENTURE,NDL Ventures Limited,Other Financial Services,Financial Services,Micro,Not Strong,0.01080706175416708,0.001840978820311996,False
+NDRAUTO,Ndr Auto Components Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.031664566025137904,0.007718287479334591,False
+NDTV,New Delhi Television Limited,TV Broadcasting & Software Production,Media Entertainment & Publication,Small,Not Strong,0.0457244086265564,0.013118164362615536,False
+NECLIFE,Nectar Lifesciences Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.029334568567574024,0.008086645698741972,False
+NELCO,NELCO Limited,Computers Hardware & Equipments,Information Technology,Small,Not Strong,0.1072663926333189,0.03686958602542405,False
+NETWEB,Netweb Technologies India Limited,IT Enabled Services,Information Technology,Mid,Not Strong,0.6709298437833786,0.17110093224678036,False
+NETWORK18,Network18 Media & Investments Limited,Media & Entertainment,Media Entertainment & Publication,Mid,Not Strong,0.6808593952655793,0.19566432814549548,False
+NEXTMEDIA,Next Mediaworks Limited,Media & Entertainment,Media Entertainment & Publication,Micro,Not Strong,0.01862176416441798,0.0035872906919236242,False
+NIITMTS,NIIT Learning Systems Limited,Education,Consumer Services,Mid,Not Strong,0.5324827626347541,0.19418726939953182,False
+NIITLTD,NIIT Limited,Education,Consumer Services,Small,Not Strong,0.09000425390899182,0.025907701581452818,False
+NILAINFRA,Nila Infrastructures Limited,Residential Commercial Projects,Realty,Micro,Not Strong,0.02307136546820402,0.0056624732469525325,False
+NILASPACES,Nila Spaces Limited,Residential Commercial Projects,Realty,Micro,Not Strong,0.01740325989201665,0.004276194141397703,False
+NILKAMAL,Nilkamal Limited,Plastic Products - Consumer,Consumer Durables,Small,Not Strong,0.10184906557202339,0.050581766735443,False
+NINSYS,NINtec Systems Limited,Computers - Software & Consulting,Information Technology,Small,Not Strong,0.014052862450480461,0.002645911461908473,False
+NIRAJ,Niraj Cement Structurals Limited,Civil Construction,Construction,Micro,Not Strong,0.009727448541671038,0.0017661005275371588,False
+NITCO,Nitco Limited,Ceramics,Consumer Durables,Small,Not Strong,0.04594461608678103,0.014163539148098387,False
+NITINSPIN,Nitin Spinners Limited,Other Textile Products,Textiles,Small,Not Strong,0.12207922540605068,0.04836900026979487,False
+NITIRAJ,Nitiraj Engineers Limited,Other Electrical Equipment,Capital Goods,Micro,Not Strong,0.009018853409215807,0.0014510377719621835,False
+NKIND,NK Industries Limited,Edible Oil,Fast Moving Consumer Goods,Micro,Not Strong,0.010427683126181364,0.0019138807464105843,False
+NSLNISP,NMDC Steel Limited,Iron & Steel,Metals & Mining,Mid,Strong,0.7597268187999725,0.179365047184786,False
+NOIDATOLL,Noida Toll Bridge Company Limited,Road Assets - Toll Annuity Hybrid-Annuity,Services,Micro,Not Strong,0.01703473849222064,0.003013644980280882,False
+NORBTEAEXP,Norben Tea & Exports Limited,Tea & Coffee,Fast Moving Consumer Goods,Micro,Not Strong,0.010857298318296672,0.0018630761274291447,False
+NECCLTD,North Eastern Carrying Corporation Limited,Logistics Solution Provider,Services,Micro,Not Strong,0.010724182967096567,0.0019130813323229795,False
+NORTHARC,Northern Arc Capital Limited,Non Banking Financial Company (NBFC),Financial Services,Small,Not Strong,0.14519942432641983,0.044998907762957854,False
+NOVAAGRI,Nova Agritech Limited,Fertilizers,Chemicals,Small,Not Strong,0.02021454321220517,0.005103525358116997,False
+NRBBEARING,NRB Bearing Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.34279299050569534,0.15026326976310062,False
+NIBL,NRB Industrial Bearings Limited,Abrasives & Bearings,Capital Goods,Micro,Not Strong,0.01593057045713067,0.002726026995353637,False
+NUCLEUS,Nucleus Software Exports Limited,Software Products,Information Technology,Small,Not Strong,0.1048781206458807,0.037574500690492965,False
+NRL,Nupur Recyclers Limited,Trading - Metals,Metals & Mining,Small,Not Strong,0.014604373816400767,0.003394541352699809,False
+NURECA,Nureca Limited,Medical Equipment & Supplies,Healthcare,Micro,Not Strong,0.0117554107028991,0.0028079442228483007,False
+OCCLLTD,OCCL Limited,Commodity Chemicals,Chemicals,Micro,Not Strong,0.009490325581282377,0.0017566797274513907,False
+ODIGMA,Odigma Consultancy Solutions Limited,IT Enabled Services,Information Technology,Micro,Not Strong,0.02083700494840741,0.0064692900001246416,False
+OILCOUNTUB,Oil Country Tubular Limited,Oil Equipment & Services,Oil Gas & Consumable Fuels,Micro,Not Strong,0.00977536292746663,0.0015112890074858584,False
+OLECTRA,Olectra Greentech Limited,Passenger Cars & Utility Vehicles,Automobile and Auto Components,Mid,Not Strong,0.6384997349977494,0.17983558585020817,False
+OMINFRAL,OM INFRA LIMITED,Civil Construction,Construction,Small,Not Strong,0.038485579937696454,0.01286848015016769,False
+OMAXAUTO,Omax Autos Limited,Auto Components & Equipments,Automobile and Auto Components,Micro,Not Strong,0.007616688227280974,0.0010410570777705447,False
+OMAXE,Omaxe Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.06220376972109079,0.022235915217765793,False
+MOBIKWIK,One Mobikwik Systems Limited,Financial Technology (Fintech),Financial Services,Small,Not Strong,0.1400028496980667,0.054147924215807025,False
+ONEPOINT,One Point One Solutions Limited,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Services,Small,Not Strong,0.09240853063762187,0.02492031727485042,False
+ONELIFECAP,Onelife Capital Advisors Limited,Stockbroking & Allied,Financial Services,Micro,Not Strong,0.012489314917474984,0.002194699434124205,False
+ONESOURCE,Onesource Specialty Pharma Limited,Pharmaceuticals,Healthcare,Mid,Not Strong,0.5152672535181045,0.20328994266548367,False
+ONMOBILE,OnMobile Global Limited,Web based media and service,Media Entertainment & Publication,Small,Not Strong,0.03482668563723564,0.010767575605393155,False
+ONWARDTEC,Onward Technologies Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.023077719490975142,0.005165228744278074,False
+ORBTEXP,Orbit Exports Limited,Other Textile Products,Textiles,Micro,Not Strong,0.010610914872959256,0.0017899414270671368,False
+ORCHASP,Orchasp Limited,Computers - Software & Consulting,Information Technology,Micro,Not Strong,0.011941685881465674,0.0020469267811922005,False
+ORICONENT,Oricon Enterprises Limited,Packaging,Capital Goods,Small,Not Strong,0.3187282095849514,0.11719980129452004,False
+ORIENTBELL,Orient Bell Limited,Ceramics,Consumer Durables,Micro,Not Strong,0.01362013714388013,0.0031951619989320197,False
+ORIENTCER,ORIENT CERATECH LIMITED,Electrodes & Refractories,Capital Goods,Small,Not Strong,0.021963365226984024,0.004797607383915115,False
+ORIENTELEC,Orient Electric Limited,Household Appliances,Consumer Durables,Mid,Not Strong,0.7380665117502212,0.16391560805227498,False
+GREENPOWER,Orient Green Power Company Limited,Power Generation,Power,Small,Not Strong,0.06739671226590872,0.019300014726769763,False
+ORIENTHOT,Oriental Hotels Limited,Hotels & Resorts,Consumer Services,Small,Not Strong,0.16119861140847205,0.06635426118851552,False
+ORIENTPPR,Orient Paper & Industries Limited,Paper & Paper Products,Forest Materials,Small,Not Strong,0.10379705868661404,0.03050129917592381,False
+ORIENTLTD,Orient Press Limited,Packaging,Capital Goods,Micro,Not Strong,0.009243914503604173,0.0012412208458370507,False
+ORIENTTECH,Orient Technologies Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.026938932836055755,0.006435864449291299,False
+OAL,Oriental Aromatics Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.02258127063512802,0.006341697204438681,False
+OCCL,Oriental Carbon & Chemicals Limited,Commodity Chemicals,Chemicals,Micro,Not Strong,0.019120352528989314,0.005160458737849499,False
+ORIENTALTL,Oriental Trimex Limited,Granites & Marbles,Consumer Durables,Micro,Not Strong,0.016448173932731153,0.0030644072712621316,False
+OBCL,Orissa Bengal Carrier Limited,Logistics Solution Provider,Services,Micro,Not Strong,0.010630215564742685,0.0018191615817548937,False
+ORTINGLOBE,ORTIN GLOBAL LIMITED,Pharmaceuticals,Healthcare,Micro,Not Strong,0.010793255995959044,0.001613832285182611,False
+OSIAHYPER,Osia Hyper Retail Limited,Diversified Retail,Consumer Services,Micro,Not Strong,0.016887704953551293,0.005230911663742503,False
+OSWALAGRO,Oswal Agro Mills Limited,Trading & Distributors,Services,Small,Not Strong,0.021851314660161734,0.004332868123911206,False
+OSWALGREEN,Oswal Greentech Limited,Investment Company,Financial Services,Small,Not Strong,0.04703682567924261,0.01357922928915085,False
+PGHH,Procter & Gamble Hygiene and Health Care Limited,Personal Care,Fast Moving Consumer Goods,Large,Strong,0.8658096659183502,0.12690259509114718,True
+PAKKA,PAKKA LIMITED,Paper & Paper Products,Forest Materials,Small,Not Strong,0.018459270894527435,0.004280698686481852,False
+PALASHSECU,Palash Securities Limited,Packaged Foods,Fast Moving Consumer Goods,Micro,Not Strong,0.012254187893122435,0.0024584341368512857,False
+PALREDTEC,Palred Technologies Limited,IT Enabled Services,Information Technology,Micro,Not Strong,0.01049850924871862,0.0019758812889177336,False
+PANACEABIO,Panacea Biotec Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.25733169391751287,0.1068117835634176,False
+PANACHE,Panache Digilife Limited,IT Enabled Services,Information Technology,Micro,Not Strong,0.010867532435804605,0.002087218998020269,False
+PANAMAPET,Panama Petrochem Limited,Lubricants,Oil Gas & Consumable Fuels,Small,Not Strong,0.2414957033842802,0.10139622111518751,False
+PANSARI,Pansari Developers Limited,Residential Commercial Projects,Realty,Micro,Not Strong,0.012997817769646645,0.0027244795531250437,False
+PAR,Par Drugs and Chemicals Limited,Pharmaceuticals,Healthcare,Micro,Not Strong,0.012476069517433644,0.0025435515730818023,False
+PARAGMILK,Parag Milk Foods Limited,Dairy Products,Fast Moving Consumer Goods,Small,Not Strong,0.13136646017432213,0.05029046222784372,False
+PARACABLES,Paramount Communications Limited,Cables - Electricals,Capital Goods,Small,Not Strong,0.1471630661189556,0.08247145365190672,False
+PARASPETRO,Paras Petrofils Limited,Investment Company,Financial Services,Micro,Not Strong,0.0573677334934473,0.021785876063828674,False
+PARSVNATH,Parsvnath Developers Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.03481511119753122,0.008482280063960835,False
+PASUPTAC,Pasupati Acrylon Limited,Petrochemicals,Chemicals,Micro,Not Strong,0.012644166219979524,0.002882378436118535,False
+PATINTLOG,Patel Integrated Logistics Limited,Logistics Solution Provider,Services,Micro,Not Strong,0.015572487395256757,0.0034320883480850883,False
+PAVNAIND,Pavna Industries Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.012748624160885812,0.0022175388434292173,False
+PDSL,PDS Limited,Trading - Textile Products,Textiles,Mid,Not Strong,0.7112179952859878,0.19295269569657883,False
+PEARLPOLY,Pearl Polymers Limited,Plastic Products - Consumer,Consumer Durables,Micro,Not Strong,0.013739810530096293,0.003362637377047147,False
+PENINLAND,Peninsula Land Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.04426428712904453,0.01587822860432944,False
+PENIND,Pennar Industries Limited,Industrial Products,Capital Goods,Small,Not Strong,0.21580425918102264,0.10564239512090455,False
+PFIZER,Pfizer Limited,Pharmaceuticals,Healthcare,Large,Strong,0.8074710428714752,0.1839972453852364,False
+PILITA,PIL ITALICA LIFESTYLE LIMITED,Plastic Products - Consumer,Consumer Durables,Micro,Not Strong,0.02266402604058385,0.005675977295615786,False
+PILANIINVS,Pilani Investment and Industries Corporation Limited,Holding Company,Financial Services,Mid,Not Strong,0.5150517433881759,0.199352411006215,False
+PIONEEREMB,Pioneer Embroideries Limited,Other Textile Products,Textiles,Micro,Not Strong,0.010854340372607112,0.002220090163587003,False
+PITTIENG,Pitti Engineering Limited,Industrial Products,Capital Goods,Small,Not Strong,0.6894009020924569,0.15542344544402087,False
+PIXTRANS,Pix Transmissions Limited,Rubber,Capital Goods,Small,Not Strong,0.23618382841348648,0.08707681579869841,False
+PLASTIBLEN,Plastiblends India Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.013665947820991278,0.0023937613493264795,False
+PLATIND,Platinum Industries Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.12659119106829167,0.054524464206772046,False
+PLAZACABLE,Plaza Wires Limited,Cables - Electricals,Capital Goods,Micro,Not Strong,0.0277450505271554,0.006939455963081284,False
+PNBGILTS,PNB Gilts Limited,Investment Company,Financial Services,Small,Not Strong,0.11471030242741108,0.05373909078005186,False
+PNCINFRA,PNC Infratech Limited,Civil Construction,Construction,Mid,Not Strong,0.672745578289032,0.21558172756701258,False
+PODDARMENT,Poddar Pigments Limited,Dyes And Pigments,Chemicals,Micro,Not Strong,0.009169454779475927,0.0014000940468998028,False
+POKARNA,Pokarna Limited,Granites & Marbles,Consumer Durables,Small,Not Strong,0.3872517368197441,0.173687314596842,False
+POLYMED,Poly Medicure Limited,Medical Equipment & Supplies,Healthcare,Large,Strong,0.833813464641571,0.13940133532397322,True
+POCL,Pondy Oxides & Chemicals Limited,Diversified Metals,Metals & Mining,Small,Not Strong,0.2659328302741051,0.11424813626306235,False
+PONNIERODE,Ponni Sugars (Erode) Limited,Sugar,Fast Moving Consumer Goods,Micro,Not Strong,0.012238091882318258,0.0026911697166045584,False
+PVSL,Popular Vehicles and Services Limited,Auto Dealer,Automobile and Auto Components,Small,Not Strong,0.3310151714086533,0.11425311236417006,False
+PPAP,PPAP Automotive Limited,Auto Components & Equipments,Automobile and Auto Components,Micro,Not Strong,0.008240851946175099,0.0012592168034214403,False
+PRAJIND,Praj Industries Limited,Industrial Products,Capital Goods,Mid,Strong,0.805448089838028,0.12994175168751257,True
+PRAENG,Prajay Engineers Syndicate Limited,Residential Commercial Projects,Realty,Micro,Not Strong,0.009390994096174837,0.001243564058077487,False
+PRAKASH,Prakash Industries Limited,Iron & Steel,Metals & Mining,Small,Not Strong,0.2955846232175827,0.11158229510922503,False
+PPL,Prakash Pipes Limited,Plastic Products - Industrial,Capital Goods,Small,Not Strong,0.06567166466265917,0.021234550371538496,False
+PRAKASHSTL,Prakash Steelage Limited,Iron & Steel Products,Capital Goods,Micro,Not Strong,0.011920598428696394,0.001798321956316588,False
+DIAMONDYD,Prataap Snacks Limited,Packaged Foods,Fast Moving Consumer Goods,Small,Not Strong,0.3059134954214096,0.12978274143156737,False
+PRAXIS,Praxis Home Retail Limited,Speciality Retail,Consumer Services,Micro,Not Strong,0.018337709251791238,0.004471232051741988,False
+PRECAM,Precision Camshafts Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.06584441248327494,0.02421023392901094,False
+PRECWIRE,Precision Wires India Limited,Aluminium Copper & Zinc Products,Capital Goods,Small,Not Strong,0.47423757016658785,0.16560951831948542,False
+PRECOT,Precot Limited,Other Textile Products,Textiles,Small,Not Strong,0.020054355282336473,0.00611618805877398,False
+PREMEXPLN,Premier Explosives Limited,Explosives,Chemicals,Mid,Not Strong,0.5497835621237754,0.20217603667823203,False
+PREMIERPOL,Premier Polyfilm Limited,Plastic Products - Industrial,Capital Goods,Small,Not Strong,0.03277325291186571,0.009575962309840574,False
+PFOCUS,Prime Focus Limited,Media & Entertainment,Media Entertainment & Publication,Small,Not Strong,0.26504307985305786,0.0877992269400827,False
+PRIMESECU,Prime Securities Limited,Other Financial Services,Financial Services,Small,Not Strong,0.060846385769546034,0.023143994361989103,False
+PRITI,Priti International Limited,Furniture Home Furnishing,Consumer Durables,Micro,Not Strong,0.008434642078354955,0.001185943218858626,False
+PRITIKAUTO,Pritika Auto Industries Limited,Auto Components & Equipments,Automobile and Auto Components,Micro,Not Strong,0.016301156114786865,0.0042264545687961475,False
+PNC,Pritish Nandy Communications Limited,Film Production Distribution & Exhibition,Media Entertainment & Publication,Micro,Not Strong,0.014558079987764358,0.004053999029802482,False
+PRIVISCL,Privi Speciality Chemicals Limited,Specialty Chemicals,Chemicals,Mid,Strong,0.7779554432630539,0.15639813759245816,False
+PGHL,Procter & Gamble Health Limited,Pharmaceuticals,Healthcare,Mid,Not Strong,0.6130953353643417,0.1647091269804333,False
+PROZONER,Prozone Realty Limited,Residential Commercial Projects,Realty,Micro,Not Strong,0.021421555913984775,0.005514452235697561,False
+PRUDMOULI,Prudential Sugar Corporation Limited,Sugar,Fast Moving Consumer Goods,Micro,Not Strong,0.010854247082024813,0.0020165609731445603,False
+PSPPROJECT,PSP Projects Limited,Civil Construction,Construction,Small,Not Strong,0.2654071539640427,0.10593808912975813,False
+PFS,PTC India Financial Services Limited,Non Banking Financial Company (NBFC),Financial Services,Small,Not Strong,0.12840300045907496,0.0746807027454501,False
+PTCIL,PTC Industries Limited,Other Industrial Products,Capital Goods,Mid,Not Strong,0.5733022975921631,0.20834683240066312,False
+PTL,PTL Enterprises Limited,Diversified Commercial Services,Services,Small,Not Strong,0.06940246686339378,0.027981266232025757,False
+PDMJEPAPER,Pudumjee Paper Products Limited,Paper & Paper Products,Forest Materials,Small,Not Strong,0.1688438530266285,0.06961764324535583,False
+PSB,Punjab & Sind Bank,Public Sector Bank,Financial Services,Large,Not Strong,0.6791339883208275,0.18964031777266158,False
+PUNJABCHEM,Punjab Chemicals & Crop Protection Limited,Pesticides & Agrochemicals,Chemicals,Small,Not Strong,0.03308243058621883,0.010978934685094066,False
+PURVA,Puravankara Limited,Residential Commercial Projects,Realty,Mid,Not Strong,0.4157676836848259,0.17605609928333177,False
+PVP,PVP Ventures Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.02542001936584711,0.00592759583134626,False
+PYRAMID,Pyramid Technoplast Limited,Packaging,Capital Goods,Small,Not Strong,0.02934699662029743,0.0069844887715364784,False
+QUADFUTURE,Quadrant Future Tek Limited,Cables - Electricals,Capital Goods,Small,Not Strong,0.030875472128391267,0.008710131197601141,False
+QUESS,Quess Corp Limited,Diversified Commercial Services,Services,Mid,Not Strong,0.7408135607838631,0.21133685717289977,False
+QUICKHEAL,Quick Heal Technologies Limited,Software Products,Information Technology,Small,Not Strong,0.0478686810284853,0.015414648336963625,False
+RKSWAMY,R K Swamy Limited,Advertising & Media Agencies,Media Entertainment & Publication,Small,Not Strong,0.09327633172273636,0.029749389960335017,False
+RRKABEL,R R Kabel Limited,Cables - Electricals,Capital Goods,Mid,Not Strong,0.7025545001029968,0.17344870075577784,False
+RSYSTEMS,R Systems International Limited,IT Enabled Services,Information Technology,Mid,Not Strong,0.4703508406877518,0.17978675125464882,False
+RPPINFRA,R.P.P. Infra Projects Limited,Civil Construction,Construction,Small,Not Strong,0.029674026593565942,0.010519368129146297,False
+RACE,Race Eco Chain Limited,Waste Management,Utilities,Small,Not Strong,0.016665601879358293,0.003907449273709804,False
+RACLGEAR,RACL Geartech Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.016038541551679372,0.0038333839605926784,False
+RADAAN,Radaan Mediaworks India Limited,Media & Entertainment,Media Entertainment & Publication,Micro,Not Strong,0.019572416804730892,0.006061581867220144,False
+RADHIKAJWE,Radhika Jeweltech Limited,Gems Jewellery And Watches,Consumer Durables,Small,Not Strong,0.06980681519955396,0.0316715404221898,False
+RADIANTCMS,Radiant Cash Management Services Limited,Diversified Commercial Services,Services,Small,Not Strong,0.07122593343257905,0.020627201986436673,False
+RPEL,Raghav Productivity Enhancers Limited,Electrodes & Refractories,Capital Goods,Small,Not Strong,0.05691123779863119,0.015794691746300868,False
+RAINBOW,Rainbow Childrens Medicare Limited,Hospital,Healthcare,Mid,Strong,0.7616620552539826,0.1495667753307916,True
+ROML,Raj Oil Mills Limited,Edible Oil,Fast Moving Consumer Goods,Micro,Not Strong,0.008834224212914705,0.0014237170647860063,False
+RAJTV,Raj Television Network Limited,TV Broadcasting & Software Production,Media Entertainment & Publication,Micro,Not Strong,0.011571112256497144,0.0023591797588380973,False
+ARENTERP,Rajdarshan Industries Limited,Trading - Minerals,Metals & Mining,Micro,Not Strong,0.012337821461260319,0.002622837382039181,False
+RAJMET,Rajnandini Metal Limited,Aluminium Copper & Zinc Products,Capital Goods,Micro,Not Strong,0.04152770593762398,0.01075965794901338,False
+RAJRATAN,Rajratan Global Wire Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.09733446128666401,0.05260367821626394,False
+RPPL,Rajshree Polypack Limited,Packaging,Capital Goods,Micro,Not Strong,0.019209008663892746,0.006588233135204798,False
+RAJSREESUG,Rajshree Sugars & Chemicals Limited,Sugar,Fast Moving Consumer Goods,Micro,Not Strong,0.01605397816747427,0.004259328971886896,False
+RAMRAT,Ram Ratna Wires Limited,Other Electrical Equipment,Capital Goods,Small,Not Strong,0.2938729368150234,0.10624525495218769,False
+RAMAPHO,Rama Phosphates Limited,Fertilizers,Chemicals,Small,Not Strong,0.011362126730382442,0.0022971218722012744,False
+RAMASTEEL,Rama Steel Tubes Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.10648273698985576,0.03530491514081397,False
+SADBHAV,Sadbhav Engineering Limited,Civil Construction,Construction,Small,Not Strong,0.03712787538766861,0.012226952135690463,False
+RAMCOIND,Ramco Industries Limited,Other Construction Materials,Construction Materials,Small,Not Strong,0.21789089769124984,0.08689474052696329,False
+RAMCOSYS,Ramco Systems Limited,Software Products,Information Technology,Small,Not Strong,0.025561515986919404,0.007728788924985963,False
+RAMKY,Ramky Infrastructure Limited,Civil Construction,Construction,Small,Not Strong,0.2768206261098385,0.09350253095621516,False
+RANASUG,Rana Sugars Limited,Sugar,Fast Moving Consumer Goods,Micro,Not Strong,0.07999559514224529,0.03138621937566412,False
+RML,Rane (Madras) Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.06732098788022994,0.026068221497511593,False
+RBL,Rane Brake Lining Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.01841641815379262,0.004647898427241666,False
+RANEENGINE,Rane Engine Valve Limited,Auto Components & Equipments,Automobile and Auto Components,Micro,Not Strong,0.011155776306986808,0.0023503948548488753,False
+RANEHOLDIN,Rane Holdings Limited,Holding Company,Financial Services,Small,Not Strong,0.15759443394839764,0.0656037087719332,False
+RPTECH,Rashi Peripherals Limited,Computers Hardware & Equipments,Information Technology,Small,Not Strong,0.3112928380072117,0.13495892415739302,False
+RCF,Rashtriya Chemicals and Fertilizers Limited,Fertilizers,Chemicals,Mid,Strong,0.8698490285873413,0.12125430034530871,True
+RATNAMANI,Ratnamani Metals & Tubes Limited,Iron & Steel Products,Capital Goods,Large,Strong,0.7736463409662246,0.20695182839463058,False
+RATNAVEER,Ratnaveer Precision Engineering Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.02412103958427906,0.007034732130316098,False
+RTNINDIA,RattanIndia Enterprises Limited,E-Retail/ E-Commerce,Consumer Services,Mid,Not Strong,0.6582109367847443,0.20215342171980702,False
+RKDL,Ravi Kumar Distilleries Limited,Breweries & Distilleries,Fast Moving Consumer Goods,Micro,Not Strong,0.011110923197120428,0.001733785481584513,False
+RVHL,Ravinder Heights Limited,Residential Commercial Projects,Realty,Micro,Not Strong,0.01928577307611704,0.004425334646106653,False
+RELTD,Ravindra Energy Limited,Other Electrical Equipment,Capital Goods,Small,Not Strong,0.022398584745824335,0.005081421060605036,False
+RAYMONDLSL,Raymond Lifestyle Limited,Garments & Apparels,Textiles,Mid,Not Strong,0.6000413700938225,0.18395707040741494,False
+RAYMOND,Raymond Limited,Residential Commercial Projects,Realty,Mid,Not Strong,0.6333675521612168,0.2285568769202546,False
+RBLBANK,RBL Bank Limited,Private Sector Bank,Financial Services,Mid,Strong,0.8031719022989273,0.16233774204397816,False
+RBZJEWEL,RBZ Jewellers Limited,Gems Jewellery And Watches,Consumer Durables,Small,Not Strong,0.009257768206298351,0.0015228646312345749,False
+REGENCERAM,Regency Ceramics Limited,Ceramics,Consumer Durables,Micro,Not Strong,0.01595322985202074,0.004141521693577091,False
+RELAXO,Relaxo Footwears Limited,Footwear,Consumer Durables,Mid,Not Strong,0.5802341562509536,0.18647106580069228,False
+RELIABLE,Reliable Data Services Limited,Other Financial Services,Financial Services,Micro,Not Strong,0.008044010475277901,0.001030268114925242,False
+RELCHEMQ,Reliance Chemotex Industries Limited,Other Textile Products,Textiles,Micro,Not Strong,0.008076011128723621,0.001106519740534316,False
+RHFL,Reliance Home Finance Limited,Housing Finance Company,Financial Services,Micro,Not Strong,0.016299003064632417,0.003310989525949951,False
+RIIL,Reliance Industrial Infrastructure Limited,Logistics Solution Provider,Services,Small,Not Strong,0.08857224829494953,0.03315376482669266,False
+REMSONSIND,Remsons Industries Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.07522151537239552,0.03233094492186144,False
+RGL,Renaissance Global Limited,Gems Jewellery And Watches,Consumer Durables,Small,Not Strong,0.14127231061458587,0.05018213014653275,False
+REPCOHOME,Repco Home Finance Limited,Housing Finance Company,Financial Services,Small,Not Strong,0.25656270757317545,0.10429548241065847,False
+REPRO,Repro India Limited,Printing & Publication,Media Entertainment & Publication,Small,Not Strong,0.017435005158185957,0.0036292513820539492,False
+RVTH,Revathi Equipment India Limited,Industrial Products,Capital Goods,Small,Not Strong,0.04725651394575834,0.01898653707446355,False
+RHIM,RHI MAGNESITA INDIA LIMITED,Electrodes & Refractories,Capital Goods,Mid,Not Strong,0.5340416222810745,0.20413794905058247,False
+RICOAUTO,Rico Auto Industries Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.1709402821958065,0.05764100475565385,False
+RISHABH,Rishabh Instruments Limited,Other Electrical Equipment,Capital Goods,Small,Not Strong,0.036212202422320844,0.014092596830329754,False
+RITCO,Ritco Logistics Limited,Logistics Solution Provider,Services,Small,Not Strong,0.026831951942294836,0.00655099577068775,False
+RKEC,RKEC Projects Limited,Civil Construction,Construction,Micro,Not Strong,0.010070175575092434,0.0017986220848014668,False
+RHL,Robust Hotels Limited,Hotels & Resorts,Consumer Services,Micro,Not Strong,0.011340475594624876,0.001882783386427314,False
+ROLEXRINGS,Rolex Rings Limited,Auto Components & Equipments,Automobile and Auto Components,Mid,Not Strong,0.6236275273561478,0.19558039112616787,False
+ROSSELLIND,Rossell India Limited,Tea & Coffee,Fast Moving Consumer Goods,Small,Not Strong,0.041020997129380704,0.012759103611938181,False
+ROSSTECH,Rossell Techsys Limited,Aerospace & Defense,Capital Goods,Small,Not Strong,0.0502368414029479,0.019988566559945697,False
+ROTO,Roto Pumps Limited,Compressors Pumps & Diesel Engines,Capital Goods,Small,Not Strong,0.23433474957942962,0.11013163778190715,False
+ROUTE,ROUTE MOBILE LIMITED,Other Telecom Services,Telecommunication,Mid,Not Strong,0.6241809222102165,0.2058353130984783,False
+ROHLTD,Royal Orchid Hotels Limited,Hotels & Resorts,Consumer Services,Small,Not Strong,0.03525517124682665,0.009430791219946137,False
+RPGLIFE,RPG Life Sciences Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.16764467403292657,0.06397961362021161,False
+RPSGVENT,RPSG VENTURES LIMITED,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Services,Small,Not Strong,0.4339698714017868,0.16054870884231554,False
+RSWM,RSWM Limited,Other Textile Products,Textiles,Small,Not Strong,0.12368365317583084,0.04279602591961989,False
+RUBFILA,Rubfila International Limited,Rubber,Capital Goods,Micro,Not Strong,0.00951661824248731,0.0019725505175683944,False
+RUCHINFRA,Ruchi Infrastructure Limited,Diversified Commercial Services,Services,Micro,Not Strong,0.01557406796142459,0.00370842824598912,False
+RUCHIRA,Ruchira Papers Limited,Paper & Paper Products,Forest Materials,Micro,Not Strong,0.04674803663045168,0.013567530011659236,False
+REPL,Rudrabhishek Enterprises Limited,Real Estate related services,Realty,Micro,Not Strong,0.009901317600160837,0.0017400161296582501,False
+RUPA,Rupa & Company Limited,Garments & Apparels,Textiles,Small,Not Strong,0.2947071324288845,0.12586731101401857,False
+RUSHIL,Rushil Decor Limited,Plywood Boards/ Laminates,Consumer Durables,Small,Not Strong,0.07587066501379013,0.027427943249309826,False
+SCHAND,S Chand And Company Limited,Printing & Publication,Media Entertainment & Publication,Small,Not Strong,0.09649281986057759,0.033597994888004155,False
+SHK,S H Kelkar and Company Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.09260253727436066,0.0360552232329777,False
+SPAL,S. P. Apparels Limited,Garments & Apparels,Textiles,Small,Not Strong,0.05407405771315098,0.027174153152227692,False
+SALSTEEL,S.A.L. Steel Limited,Sponge Iron,Metals & Mining,Micro,Not Strong,0.010856448411941529,0.0021200827881266574,False
+SADBHIN,Sadbhav Infrastructure Project Limited,Civil Construction,Construction,Micro,Not Strong,0.02286948334425688,0.004675676676369862,False
+SADHNANIQ,Sadhana Nitrochem Limited,Commodity Chemicals,Chemicals,Small,Not Strong,0.04860407441854477,0.015535708230903705,False
+SAGCEM,Sagar Cements Limited,Cement & Cement Products,Construction Materials,Small,Not Strong,0.19138666972517968,0.0668098225732691,False
+SAGARDEEP,Sagardeep Alloys Limited,Aluminium Copper & Zinc Products,Capital Goods,Micro,Not Strong,0.012562943175435066,0.0018616531234456133,False
+SAH,Sah Polymers Limited,Packaging,Capital Goods,Micro,Not Strong,0.012704755291342735,0.0024222527083627684,False
+SAHYADRI,Sahyadri Industries Limited,Other Construction Materials,Construction Materials,Micro,Not Strong,0.008515260936692358,0.001153879708293019,False
+SAILIFE,Sai Life Sciences Limited,Pharmaceuticals,Healthcare,Mid,Not Strong,0.49925241112709046,0.17775484029133223,False
+KALAMANDIR,Sai Silks (Kalamandir) Limited,Speciality Retail,Consumer Services,Small,Not Strong,0.1523168432712555,0.07391468586776415,False
+SAKAR,Sakar Healthcare Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.010812307856976986,0.00168285683848673,False
+SAKSOFT,Saksoft Limited,Computers - Software & Consulting,Information Technology,Small,Not Strong,0.31467692941427233,0.12011596024499127,False
+SAKHTISUG,Sakthi Sugars Limited,Sugar,Fast Moving Consumer Goods,Micro,Not Strong,0.02991638720035553,0.007513746050579838,False
+SAKUMA,Sakuma Exports Limited,Trading & Distributors,Services,Small,Not Strong,0.08005315314978362,0.02909478028436942,False
+SALASAR,Salasar Techno Engineering Limited,Industrial Products,Capital Goods,Small,Not Strong,0.06691708348691464,0.022114825208560236,False
+SALONA,Salona Cotspin Limited,Other Textile Products,Textiles,Micro,Not Strong,0.007661226149648428,0.0011909146155866313,False
+SALZERELEC,Salzer Electronics Limited,Other Electrical Equipment,Capital Goods,Small,Not Strong,0.2495714917778969,0.10620515403862776,False
+SAMBHAAV,Sambhaav Media Limited,Electronic Media,Media Entertainment & Publication,Micro,Not Strong,0.018091929126530886,0.0035361969026172836,False
+SAMMAANCAP,Sammaan Capital Limited,Housing Finance Company,Financial Services,Mid,Strong,0.8200473952293396,0.15766722643870484,False
+SAMPANN,Sampann Utpadan India Limited,Rubber,Capital Goods,Micro,Not Strong,0.010008980268612504,0.0016863527662369124,False
+SANATHAN,Sanathan Textiles Limited,Other Textile Products,Textiles,Small,Not Strong,0.12066277340054513,0.05104939165194304,False
+SANDESH,The Sandesh Limited,Print Media,Media Entertainment & Publication,Small,Not Strong,0.03976999893784523,0.011006823462759203,False
+SANDHAR,Sandhar Technologies Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.18540726706385613,0.08368437225641648,False
+SANDUMA,Sandur Manganese & Iron Ores Limited,Coal,Oil Gas & Consumable Fuels,Mid,Not Strong,0.6883399140834808,0.1660778650962857,False
+SANGAMIND,Sangam (India) Limited,Other Textile Products,Textiles,Small,Not Strong,0.045600232630968095,0.013633770841103189,False
+SANGHIIND,Sanghi Industries Limited,Cement & Cement Products,Construction Materials,Small,Not Strong,0.1074820863455534,0.04564050753965795,False
+SANGHVIMOV,Sanghvi Movers Limited,Diversified Commercial Services,Services,Mid,Not Strong,0.6483494764566422,0.19858670797823288,False
+SANGINITA,Sanginita Chemicals Limited,Specialty Chemicals,Chemicals,Micro,Not Strong,0.01495714409276843,0.0029627284192911504,False
+SANSTAR,Sanstar Limited,Other Agricultural Products,Fast Moving Consumer Goods,Small,Not Strong,0.06973758231848479,0.028922634080566927,False
+SAPPHIRE,Sapphire Foods India Limited,Restaurants,Consumer Services,Large,Strong,0.7623296052217483,0.1736129317517074,False
+SSDL,Saraswati Saree Depot Limited,Garments & Apparels,Textiles,Micro,Not Strong,0.01026584486477077,0.0018459035802851217,False
+SARDAEN,Sarda Energy & Minerals Limited,Iron & Steel,Metals & Mining,Mid,Not Strong,0.6425280287861824,0.19363916054696112,False
+SAREGAMA,Saregama India Limited,Media & Entertainment,Media Entertainment & Publication,Mid,Strong,0.7910268312692642,0.1782701348831412,False
+SARLAPOLY,Sarla Performance Fibers Limited,Other Textile Products,Textiles,Small,Not Strong,0.043520700857043265,0.01015920634430702,False
+SMLT,Sarthak Metals Limited,Iron & Steel Products,Capital Goods,Micro,Not Strong,0.0077099374774843455,0.001134465345370064,False
+SARVESHWAR,Sarveshwar Foods Limited,Other Agricultural Products,Fast Moving Consumer Goods,Small,Not Strong,0.03613740593194961,0.015798316145708008,False
+SASKEN,Sasken Technologies Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.057906130887568,0.021305556467978704,False
+SASTASUNDR,Sastasundar Ventures Limited,Healthcare Service Provider,Healthcare,Small,Not Strong,0.031248133294284344,0.009229158588601415,False
+SATINDLTD,Sat Industries Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.05329020541161299,0.017835336250121837,False
+SATIA,Satia Industries Limited,Paper & Paper Products,Forest Materials,Small,Not Strong,0.14539687037467958,0.054933563846942535,False
+SATIN,Satin Creditcare Network Limited,Microfinance Institutions,Financial Services,Small,Not Strong,0.18421635746955872,0.06193446109487685,False
+SAURASHCEM,Saurashtra Cement Limited,Cement & Cement Products,Construction Materials,Small,Not Strong,0.03357657568529248,0.010599870130408804,False
+SOTL,Savita Oil Technologies Limited,Lubricants,Oil Gas & Consumable Fuels,Small,Not Strong,0.41662107676267623,0.17672760043327307,False
+SBC,SBC Exports Limited,Garments & Apparels,Textiles,Small,Not Strong,0.0722184431180358,0.01994572901175548,False
+SBFC,SBFC Finance Limited,Non Banking Financial Company (NBFC),Financial Services,Mid,Not Strong,0.6873122799396515,0.20340863689877656,False
+SCHNEIDER,Schneider Electric Infrastructure Limited,Heavy Electrical Equipment,Capital Goods,Mid,Not Strong,0.6032577067613601,0.1848210252467697,False
+SEAMECLTD,Seamec Limited,Shipping,Services,Small,Not Strong,0.07725395627319813,0.030327667924614672,False
+SECMARK,SecMark Consultancy Limited,Computers - Software & Consulting,Information Technology,Micro,Not Strong,0.009580188672989607,0.0011097317442707126,False
+SECURCRED,SecUR Credentials Limited,Diversified Commercial Services,Services,Micro,Not Strong,0.012086433246731759,0.0020085700173770185,False
+SECURKLOUD,SECUREKLOUD TECHNOLOGIES LIMITED,IT Enabled Services,Information Technology,Micro,Not Strong,0.014164220578968524,0.0027655706919048457,False
+SEJALLTD,Sejal Glass Limited,Glass - Industrial,Capital Goods,Micro,Not Strong,0.010114838918671012,0.0016507632250522635,False
+SELMC,SEL Manufacturing Company Limited,Other Textile Products,Textiles,Micro,Not Strong,0.024733050353825094,0.006760808273932934,False
+SELAN,Selan Exploration Technology Limited,Oil Exploration & Production,Oil Gas & Consumable Fuels,Small,Not Strong,0.057788100093603134,0.025015436974586754,False
+SEMAC,SEMAC CONSULTANTS LIMITED,Civil Construction,Construction,Small,Not Strong,0.11011239752173424,0.04100521456307559,False
+SENORES,Senores Pharmaceuticals Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.03498427756130695,0.011712400347687236,False
+SEPC,SEPC Limited,Civil Construction,Construction,Small,Not Strong,0.05150056812912226,0.015140258279679629,False
+SERVOTECH,Servotech Renewable Power System Limited,Other Electrical Equipment,Capital Goods,Small,Not Strong,0.2216390198469162,0.0678126493096164,False
+SESHAPAPER,Seshasayee Paper and Boards Limited,Paper & Paper Products,Forest Materials,Small,Not Strong,0.08288616962730884,0.033228524858724566,False
+SETCO,Setco Automotive Limited,Auto Components & Equipments,Automobile and Auto Components,Micro,Not Strong,0.022520502135157584,0.0058569293765610665,False
+SHAHALLOYS,Shah Alloys Limited,Iron & Steel Products,Capital Goods,Micro,Not Strong,0.009217843944206834,0.0013610892627955746,False
+SHAH,Shah Metacorp Limited,Iron & Steel Products,Capital Goods,Micro,Not Strong,0.01500940004363656,0.0028743862598851685,False
+SHALBY,Shalby Limited,Hospital,Healthcare,Small,Not Strong,0.10192136608064174,0.03980792316556668,False
+SHALPAINTS,Shalimar Paints Limited,Paints,Consumer Durables,Small,Not Strong,0.04124020751565695,0.011390738081626892,False
+SRD,Shankar Lal Rampal Dye-Chem Limited,Trading - Chemicals,Chemicals,Micro,Not Strong,0.009523142697289586,0.001661471744863685,False
+SHANKARA,Shankara Building Products Limited,Speciality Retail,Consumer Services,Small,Not Strong,0.12269242033362389,0.041078469453511804,False
+SHANTIGEAR,Shanthi Gears Limited,Industrial Products,Capital Goods,Small,Not Strong,0.17009607434272767,0.06432988300064811,False
+SHANTI,Shanti Overseas (India) Limited,Edible Oil,Fast Moving Consumer Goods,Micro,Not Strong,0.0142213592864573,0.002333212950732178,False
+SHARDAMOTR,Sharda Motor Industries Limited,Auto Components & Equipments,Automobile and Auto Components,Mid,Not Strong,0.5320958918333054,0.14654248314128948,False
+SCPL,Sheetal Cool Products Limited,Dairy Products,Fast Moving Consumer Goods,Micro,Not Strong,0.010400813594460488,0.0017117310479506573,False
+SHEMAROO,Shemaroo Entertainment Limited,Media & Entertainment,Media Entertainment & Publication,Micro,Not Strong,0.02005515795201063,0.006021677792738042,False
+SCILAL,Shipping Corporation of India Land and Assets Limited,Investment Company,Financial Services,Small,Not Strong,0.0812617676705122,0.03010288957784042,False
+SCI,Shipping Corporation Of India Limited,Shipping,Services,Mid,Strong,0.7857147401571274,0.19557265970405868,False
+SHIVAMILLS,Shiva Mills Limited,Other Textile Products,Textiles,Micro,Not Strong,0.008180375630035996,0.0010852352212066857,False
+SHIVATEX,Shiva Texyarn Limited,Other Textile Products,Textiles,Micro,Not Strong,0.00858472996391356,0.0011177977448659996,False
+SHIVALIK,Shivalik Rasayan Limited,Pesticides & Agrochemicals,Chemicals,Small,Not Strong,0.01852707190439105,0.0036130691205859336,False
+SHIVAMAUTO,Shivam Autotech Limited,Auto Components & Equipments,Automobile and Auto Components,Micro,Not Strong,0.01271349424496293,0.0027167756170102873,False
+SHRADHA,Shradha Infraprojects Limited,Residential Commercial Projects,Realty,Micro,Not Strong,0.012162986546754836,0.002117476323559131,False
+SHREEPUSHK,Shree Pushkar Chemicals & Fertilisers Limited,Dyes And Pigments,Chemicals,Small,Not Strong,0.02055858340114355,0.005083642944025657,False
+SHREDIGCEM,Shree Digvijay Cement Co.Ltd,Cement & Cement Products,Construction Materials,Small,Not Strong,0.11596588805317878,0.04407667964870782,False
+SRPL,Shree Ram Proteins Limited,Edible Oil,Fast Moving Consumer Goods,Micro,Not Strong,0.019467001259326936,0.0036336154776448483,False
+SHREERAMA,Shree Rama Multi-Tech Limited,Packaging,Capital Goods,Small,Not Strong,0.012120149526745082,0.002075198255372801,False
+RAMANEWS,Shree Rama Newsprint Limited,Paper & Paper Products,Forest Materials,Micro,Not Strong,0.04766806665807963,0.01497303497923688,False
+RENUKA,Shree Renuka Sugars Limited,Sugar,Fast Moving Consumer Goods,Mid,Strong,0.8277720463275909,0.1403401251448833,True
+BALAJEE,Shree Tirupati Balajee Agro Trading Company Limited,Packaging,Capital Goods,Small,Not Strong,0.01078968670219183,0.0017487336081113934,False
+SVLL,Shree Vasu Logistics Limited,Logistics Solution Provider,Services,Micro,Not Strong,0.014586020670831203,0.0032150370835223293,False
+OSWALSEEDS,ShreeOswal Seeds And Chemicals Limited,Other Agricultural Products,Fast Moving Consumer Goods,Micro,Not Strong,0.010430330131202935,0.0018249150827611476,False
+SHRENIK,Shrenik Limited,Paper & Paper Products,Forest Materials,Micro,Not Strong,0.013068329673260451,0.002253207808872353,False
+SHREYANIND,Shreyans Industries Limited,Paper & Paper Products,Forest Materials,Micro,Not Strong,0.009676776947453619,0.0018012797056081824,False
+SHRIRAMPPS,Shriram Properties Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.05701092123985291,0.01732441794093038,False
+SHYAMCENT,Shyam Century Ferrous Limited,Ferro & Silica Manganese,Metals & Mining,Micro,Not Strong,0.013214505799114705,0.0022176532677943236,False
+SHYAMTEL,Shyam Telecom Limited,Trading & Distributors,Services,Micro,Not Strong,0.017210306860506536,0.0039002026113615935,False
+SIGACHI,Sigachi Industries Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.05475950974971056,0.021272851441681218,False
+SIGMA,Sigma Solve Limited,IT Enabled Services,Information Technology,Micro,Not Strong,0.00986502674408257,0.0015096770508915866,False
+SIGIND,Signet Industries Limited,Trading & Distributors,Services,Micro,Not Strong,0.01516040762886405,0.003204269448875808,False
+SIGNPOST,Signpost India Limited,Advertising & Media Agencies,Media Entertainment & Publication,Small,Not Strong,0.033225767128169534,0.011734942958101105,False
+SIKKO,Sikko Industries Limited,Pesticides & Agrochemicals,Chemicals,Micro,Not Strong,0.010996118299663066,0.0017556840506983845,False
+SILINV,SIL Investments Limited,Investment Company,Financial Services,Small,Not Strong,0.014345785398036241,0.0028822773331484614,False
+SILGO,Silgo Retail Limited,Gems Jewellery And Watches,Consumer Durables,Micro,Not Strong,0.01586145255714655,0.004005570026665655,False
+SILLYMONKS,Silly Monks Entertainment Limited,Media & Entertainment,Media Entertainment & Publication,Micro,Not Strong,0.01191987657919526,0.0018293608737893288,False
+SILVERTUC,Silver Touch Technologies Limited,Computers - Software & Consulting,Information Technology,Small,Not Strong,0.024977003280073403,0.008166331548168022,False
+SIMBHALS,Simbhaoli Sugars Limited,Sugar,Fast Moving Consumer Goods,Micro,Not Strong,0.0161024509742856,0.005895255420739267,False
+SIMPLEXINF,Simplex Infrastructures Limited,Civil Construction,Construction,Small,Not Strong,0.07558535572141409,0.027999723940097372,False
+SINCLAIR,Sinclairs Hotels Limited,Hotels & Resorts,Consumer Services,Small,Not Strong,0.03978279087692499,0.011696074321495345,False
+SINDHUTRAD,Sindhu Trade Links Limited,Logistics Solution Provider,Services,Small,Not Strong,0.513341059088707,0.16076192417011317,False
+SINTERCOM,Sintercom India Limited,Auto Components & Equipments,Automobile and Auto Components,Micro,Not Strong,0.013115785494446754,0.002216712616518641,False
+SIRCA,Sirca Paints India Limited,Paints,Consumer Durables,Small,Not Strong,0.04080805517733097,0.011627993611369658,False
+SIS,SIS LIMITED,Other Consumer Services,Consumer Services,Mid,Not Strong,0.6605376914143563,0.21171065966639319,False
+SIYSIL,Siyaram Silk Mills Limited,Other Textile Products,Textiles,Small,Not Strong,0.48488622546195986,0.16058523574600178,False
+SJS,S.J.S. Enterprises Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.45872504621744153,0.1636621832456327,False
+SKFINDIA,SKF India Limited,Abrasives & Bearings,Capital Goods,Large,Strong,0.8144933474063873,0.18144518499510592,False
+SKYGOLD,SKY GOLD AND DIAMONDS LIMITED,Gems Jewellery And Watches,Consumer Durables,Mid,Not Strong,0.3662043692171574,0.15866544708650177,False
+SMARTLINK,Smartlink Holdings Limited,Computers Hardware & Equipments,Information Technology,Micro,Not Strong,0.011964538637548684,0.0017490934760319278,False
+SMCGLOBAL,SMC Global Securities Limited,Stockbroking & Allied,Financial Services,Small,Not Strong,0.11431375294923782,0.040882653069473376,False
+SMLISUZU,SML Isuzu Limited,Commercial Vehicles,Capital Goods,Small,Not Strong,0.10674841947853565,0.04095789773280397,False
+SMSLIFE,SMS Lifesciences India Limited,Pharmaceuticals,Healthcare,Micro,Not Strong,0.013627403620630503,0.0031677695151363745,False
+SMSPHARMA,SMS Pharmaceuticals Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.25568740159273146,0.09691901183571813,False
+SNOWMAN,Snowman Logistics Limited,Logistics Solution Provider,Services,Small,Not Strong,0.052283009439706804,0.01502907674165703,False
+SOBHA,Sobha Limited,Residential Commercial Projects,Realty,Mid,Strong,0.7568032336235047,0.16562273196163144,False
+SOFTTECH,Softtech Engineers Limited,Computers - Software & Consulting,Information Technology,Micro,Not Strong,0.01440588992089033,0.003226321142339086,False
+SOLARA,Solara Active Pharma Sciences Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.16389295011758803,0.05762187672952319,False
+SDBL,Som Distilleries & Breweries Limited,Breweries & Distilleries,Fast Moving Consumer Goods,Small,Not Strong,0.26579393282532693,0.09961664055499968,False
+SOMATEX,Soma Textiles & Industries Limited,Other Textile Products,Textiles,Micro,Not Strong,0.01839321421459317,0.0037622772177303117,False
+SOMANYCERA,Somany Ceramics Limited,Ceramics,Consumer Durables,Small,Not Strong,0.11966960340738296,0.05006583557336899,False
+SOMICONVEY,Somi Conveyor Beltings Limited,Industrial Products,Capital Goods,Micro,Not Strong,0.00825753152370453,0.0011851091260406,False
+SONAMLTD,SONAM LIMITED,Consumer Electronics,Consumer Durables,Micro,Not Strong,0.010189074371010066,0.0017198062857250013,False
+SOUTHWEST,South West Pinnacle Exploration Limited,Diversified Commercial Services,Services,Micro,Not Strong,0.02232841491699219,0.0054124264088459455,False
+SPCENET,Spacenet Enterprises India Limited,Trading & Distributors,Services,Small,Not Strong,0.03347605705261231,0.008237674949459492,False
+SPECIALITY,Speciality Restaurants Limited,Restaurants,Consumer Services,Small,Not Strong,0.014077005963772536,0.002730816970067326,False
+SPENCERS,Spencer's Retail Limited,Diversified Retail,Consumer Services,Small,Not Strong,0.10544998124241829,0.03845740467699489,False
+SPIC,Southern Petrochemicals Industries Corporation  Limited,Fertilizers,Chemicals,Small,Not Strong,0.2379782012104988,0.10796809984027236,False
+SPLIL,SPL Industries Limited,Trading - Textile Products,Textiles,Micro,Not Strong,0.007373000169172883,0.0009770765596736476,False
+SPMLINFRA,SPML Infra Limited,Civil Construction,Construction,Small,Not Strong,0.025196485221385956,0.0063964264392642415,False
+SPORTKING,Sportking India Limited,Other Textile Products,Textiles,Mid,Not Strong,0.5274578642845154,0.17128703854888072,False
+SRHHYPOLTD,Sree Rayalaseema Hi-Strength Hypo Limited,Commodity Chemicals,Chemicals,Small,Not Strong,0.025316515080630778,0.005839821841303789,False
+SREEL,Sreeleathers Limited,Footwear,Consumer Durables,Small,Not Strong,0.011377443373203278,0.002000915858525689,False
+SRGHFL,SRG Housing Finance Limited,Housing Finance Company,Financial Services,Micro,Not Strong,0.012996280118823051,0.002617761274806642,False
+SABTNL,Sri Adhikari Brothers Television Network Limited,TV Broadcasting & Software Production,Media Entertainment & Publication,Small,Not Strong,0.048618193678557874,0.015318132621497827,False
+HAVISHA,Sri Havisha Hospitality and Infrastructure Limited,Hotels & Resorts,Consumer Services,Micro,Not Strong,0.04437927976250648,0.011647491037796841,False
+SRM,SRM Contractors Limited,Civil Construction,Construction,Small,Not Strong,0.017172380220144987,0.004000501332453837,False
+STALLION,Stallion India Fluorochemicals Limited,Industrial Gases,Chemicals,Small,Not Strong,0.011631904486566782,0.002553673915718362,False
+SGLTL,Standard Glass Lining Technology Limited,Industrial Products,Capital Goods,Small,Not Strong,0.024377904646098614,0.006331019959855094,False
+SIL,Standard Industries Limited,Real Estate related services,Realty,Micro,Not Strong,0.014963182173669338,0.002664596731059906,False
+STANLEY,Stanley Lifestyles Limited,Furniture Home Furnishing,Consumer Durables,Small,Not Strong,0.20776184737682343,0.07300842677833214,False
+STARPAPER,Star Paper Mills Limited,Paper & Paper Products,Forest Materials,Micro,Not Strong,0.013297895304858684,0.0028388897814175837,False
+STARTECK,Starteck Finance Limited,Non Banking Financial Company (NBFC),Financial Services,Micro,Not Strong,0.011237323498353362,0.002382020753260016,False
+STEELCITY,Steel City Securities Limited,Stockbroking & Allied,Financial Services,Micro,Not Strong,0.021139851957559585,0.005738435371994983,False
+STEELXIND,STEEL EXCHANGE INDIA LIMITED,Iron & Steel Products,Capital Goods,Small,Not Strong,0.05842606119811535,0.018687700850483716,False
+SSWL,Steel Strips Wheels Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.2429048028588295,0.10499794081957256,False
+STEELCAS,Steelcast Limited,Castings & Forgings,Capital Goods,Small,Not Strong,0.026921196710318326,0.006030139103013711,False
+STEL,Stel Holdings Limited,Investment Company,Financial Services,Small,Not Strong,0.016175027452409268,0.0031635897856685698,False
+STERTOOLS,Sterling Tools Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.10952147766947747,0.03506494925167813,False
+SGL,STL Global Limited,Other Textile Products,Textiles,Micro,Not Strong,0.011198810050264001,0.0029230150731315374,False
+STOVEKRAFT,Stove Kraft Limited,Household Appliances,Consumer Durables,Small,Not Strong,0.2188042023777962,0.07872780936465831,False
+SWSOLAR,Sterling and Wilson Renewable Energy Limited,Civil Construction,Construction,Mid,Not Strong,0.7163482809066772,0.19834869865672267,False
+STYRENIX,Styrenix Performance Materials Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.4064259120821953,0.13563472660962447,False
+SUBEXLTD,Subex Limited,Software Products,Information Technology,Small,Not Strong,0.048864131830632686,0.011315130518209702,False
+SUKHJITS,Sukhjit Starch & Chemicals Limited,Other Agricultural Products,Fast Moving Consumer Goods,Small,Not Strong,0.01918112438172102,0.0041798338465494096,False
+SUMIT,Sumit Woods Limited,Residential Commercial Projects,Realty,Micro,Not Strong,0.011204931009560824,0.0021122607098590855,False
+SUMICHEM,Sumitomo Chemical India Limited,Pesticides & Agrochemicals,Chemicals,Large,Strong,0.8919631725549698,0.12745152367017382,True
+SUMMITSEC,Summit Securities Limited,Investment Company,Financial Services,Small,Not Strong,0.04803654458373785,0.0147110051934547,False
+SUNCLAY,Sundaram Clayton Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.2772493714094162,0.10186166156144058,False
+SUNDARMHLD,Sundaram Finance Holdings Limited,Investment Company,Financial Services,Mid,Not Strong,0.5333178293704987,0.19914499868655403,False
+SUNDARAM,Sundaram Multi Pap Limited,Stationary,Fast Moving Consumer Goods,Micro,Not Strong,0.021976493820548056,0.005539431271052849,False
+SUNDRMBRAK,Sundaram Brake Linings Limited,Auto Components & Equipments,Automobile and Auto Components,Micro,Not Strong,0.01119432550854981,0.0018824777527393429,False
+SUNDRMFAST,Sundram Fasteners Limited,Auto Components & Equipments,Automobile and Auto Components,Large,Strong,0.7895363157987595,0.2076722393511244,False
+SUPERSPIN,Super Spinning Mills Limited,Other Textile Products,Textiles,Micro,Not Strong,0.01853443618863821,0.003693067378616243,False
+SUPERHOUSE,Superhouse Limited,Leather And Leather Products,Consumer Durables,Micro,Not Strong,0.008143942141905426,0.0012634935693152678,False
+SUPREMEENG,Supreme Engineering Limited,Iron & Steel Products,Capital Goods,Micro,Not Strong,0.016461886819452046,0.003404831764562573,False
+SUPREME,Supreme Holdings & Hospitality (India) Limited,Residential Commercial Projects,Realty,Micro,Not Strong,0.008733048606663942,0.001324160200300311,False
+SPLPETRO,Supreme Petrochem Limited,Petrochemicals,Chemicals,Mid,Not Strong,0.6684298297762871,0.20484948515404142,False
+SURAJEST,Suraj Estate Developers Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.08665848985314369,0.044167060959613084,False
+SURAJLTD,Suraj Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.011265443405136466,0.0018639841832295927,False
+SURAKSHA,Suraksha Diagnostic Limited,Healthcare Service Provider,Healthcare,Small,Not Strong,0.06017458688467741,0.0205551844415723,False
+SURANASOL,Surana Solar Limited,Heavy Electrical Equipment,Capital Goods,Micro,Not Strong,0.01211218375712633,0.0021159035638838785,False
+SBGLP,Suratwwala Business Group Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.20580225639045238,0.07132570152972668,False
+SURYALAXMI,Suryalakshmi Cotton Mills Limited,Other Textile Products,Textiles,Micro,Not Strong,0.012562051322311163,0.00265560614934955,False
+SURYODAY,Suryoday Small Finance Bank Limited,Other Bank,Financial Services,Small,Not Strong,0.1245972442626953,0.05338717501289852,False
+SUTLEJTEX,Sutlej Textiles and Industries Limited,Other Textile Products,Textiles,Small,Not Strong,0.14906269535422326,0.05099132217836314,False
+SUULD,Suumaya Industries Limited,Other Agricultural Products,Fast Moving Consumer Goods,Micro,Not Strong,0.05084533128887415,0.01517090844300341,False
+SUVEN,Suven Life Sciences Limited,Healthcare Research Analytics & Technology,Healthcare,Small,Not Strong,0.1398923245072365,0.050287918127480596,False
+SUVENPHAR,Suven Pharmaceuticals Limited,Pharmaceuticals,Healthcare,Large,Strong,0.8463537228107453,0.1286885136028321,True
+SUVIDHAA,Suvidhaa Infoserve Limited,Financial Technology (Fintech),Financial Services,Micro,Not Strong,0.02577634520828724,0.005887232098172385,False
+SUYOG,Suyog Telematics Limited,Telecom - Infrastructure,Telecommunication,Small,Not Strong,0.03842067819088697,0.012232752377495507,False
+SVPGLOB,SVP GLOBAL TEXTILES LIMITED,Other Textile Products,Textiles,Micro,Not Strong,0.03170321017503738,0.008171474481911828,False
+SWARAJENG,Swaraj Engines Limited,Compressors Pumps & Diesel Engines,Capital Goods,Small,Not Strong,0.25918267205357554,0.11735308673371908,False
+SWELECTES,Swelect Energy Systems Limited,Heavy Electrical Equipment,Capital Goods,Small,Not Strong,0.0329279075562954,0.010582643250652595,False
+SYNCOMF,Syncom Formulations (India) Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.08562725260853768,0.027130806200763823,False
+SGIL,Synergy Green Industries Limited,Castings & Forgings,Capital Goods,Small,Not Strong,0.012904723826795816,0.0024192524873972287,False
+SYRMA,Syrma SGS Technology Limited,Industrial Products,Capital Goods,Mid,Strong,0.8589925158023834,0.1323554869198728,True
+TTL,T T Limited,Other Textile Products,Textiles,Small,Not Strong,0.01940688433125615,0.004499290637736335,False
+TAINWALCHM,Tainwala Chemical and Plastic (I) Limited,Plastic Products - Industrial,Capital Goods,Micro,Not Strong,0.012171113751828671,0.002184570162557807,False
+TAJGVK,Taj GVK Hotels & Resorts Limited,Hotels & Resorts,Consumer Services,Small,Not Strong,0.1439720733463764,0.05301599638629558,False
+TAKE,Take Solutions Limited,Healthcare Research Analytics & Technology,Healthcare,Micro,Not Strong,0.07539171241223812,0.028302353338328107,False
+TALBROAUTO,Talbros Automotive Components Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.07275989104062319,0.032040521289129355,False
+TMB,Tamilnad Mercantile Bank Limited,Private Sector Bank,Financial Services,Mid,Not Strong,0.7467759478092194,0.14155237466043508,False
+TNPL,Tamil Nadu Newsprint & Papers Limited,Paper & Paper Products,Forest Materials,Small,Not Strong,0.14308134600520134,0.04411431959810133,False
+TNPETRO,Tamilnadu PetroProducts Limited,Petrochemicals,Chemicals,Small,Not Strong,0.059182177446782586,0.024948276839958348,False
+TNTELE,Tamilnadu Telecommunication Limited,Telecom - Equipment & Accessories,Telecommunication,Micro,Not Strong,0.01180515529587865,0.0022240032486705312,False
+TANLA,Tanla Platforms Limited,Software Products,Information Technology,Mid,Not Strong,0.4509174609184265,0.17674028862637706,False
+TARACHAND,Tara Chand InfraLogistic Solutions Limited,Diversified Commercial Services,Services,Small,Not Strong,0.011827913634479046,0.0020706296910203326,False
+TARMAT,Tarmat Limited,Civil Construction,Construction,Micro,Not Strong,0.009334565494209529,0.0014542015887382188,False
+TARSONS,Tarsons Products Limited,Medical Equipment & Supplies,Healthcare,Small,Not Strong,0.16381468757987022,0.059300405856822405,False
+TASTYBITE,Tasty Bite Eatables Limited,Packaged Foods,Fast Moving Consumer Goods,Small,Not Strong,0.1539306180179119,0.05280496962919505,False
+TBOTEK,TBO Tek Limited,Tour Travel Related Services,Consumer Services,Mid,Not Strong,0.5712111321091652,0.21461397021472114,False
+TCIEXP,TCI Express Limited,Logistics Solution Provider,Services,Small,Not Strong,0.2849738085269928,0.12286449850476751,False
+TCPLPACK,TCPL Packaging Limited,Packaging,Capital Goods,Small,Not Strong,0.18205612495541573,0.08719532025230335,False
+TPHQ,Teamo Productions HQ Limited,Civil Construction,Construction,Micro,Not Strong,0.018095188438892365,0.0038792211887686023,False
+TECHNOE,Techno Electric & Engineering Company Limited,Civil Construction,Construction,Mid,Not Strong,0.6375904759764671,0.18801877076728413,False
+TECILCHEM,TECIL Chemicals and Hydro Power Limited,Commodity Chemicals,Chemicals,Micro,Not Strong,0.012593253515660763,0.0025935095454717887,False
+TEMBO,Tembo Global Industries Limited,Iron & Steel Products,Capital Goods,Micro,Not Strong,0.010129331992939115,0.001618416420701599,False
+TERASOFT,Tera Software Limited,IT Enabled Services,Information Technology,Micro,Not Strong,0.010573628451675176,0.002088450358315784,False
+TEXINFRA,Texmaco Infrastructure & Holdings Limited,Diversified Commercial Services,Services,Small,Not Strong,0.15959149077534676,0.05167947594169229,False
+TEXMOPIPES,Texmo Pipes and Products Limited,Plastic Products - Industrial,Capital Goods,Micro,Not Strong,0.011355288680642844,0.002026244397745913,False
+TGBHOTELS,TGB Banquets And Hotels Limited,Hotels & Resorts,Consumer Services,Micro,Not Strong,0.01606946552172303,0.0037989154116345467,False
+BYKE,The Byke Hospitality Ltd,Hotels & Resorts,Consumer Services,Micro,Not Strong,0.015816795472055674,0.0027992010997797854,False
+GROBTEA,The Grob Tea Company Limited,Tea & Coffee,Fast Moving Consumer Goods,Micro,Not Strong,0.013726924769580364,0.002378261036027663,False
+HITECHGEAR,The Hi-Tech Gears Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.03710286034271121,0.015541906909618495,False
+INDIACEM,The India Cements Limited,Cement & Cement Products,Construction Materials,Mid,Strong,0.7867108836770058,0.2000265186036654,False
+THEINVEST,The Investment Trust Of India Limited,Other Financial Services,Financial Services,Small,Not Strong,0.012329117935150862,0.002458403580170971,False
+PKTEA,The Peria Karamalai Tea & Produce Company Limited,Tea & Coffee,Fast Moving Consumer Goods,Micro,Not Strong,0.011602186430245638,0.001939572181015279,False
+RUBYMILLS,The Ruby Mills Limited,Other Textile Products,Textiles,Small,Not Strong,0.023561215419322254,0.005666752754216219,False
+STCINDIA,The State Trading Corporation of India Limited,Trading & Distributors,Services,Small,Not Strong,0.02872292824089527,0.00900090365034314,False
+UGARSUGAR,The Ugar Sugar Works Limited,Sugar,Fast Moving Consumer Goods,Small,Not Strong,0.0727864557504654,0.020479775433312718,False
+WIPL,The Western India Plywoods Limited,Plywood Boards/ Laminates,Consumer Durables,Micro,Not Strong,0.007903048601001501,0.0010403444450345393,False
+THEJO,Thejo Engineering Limited,Industrial Products,Capital Goods,Small,Not Strong,0.07335621364414692,0.030712551264531547,False
+THEMISMED,Themis Medicare Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.16057482689619065,0.06967280792828233,False
+THOMASCOTT,Thomas Scott (India) Limited,Garments & Apparels,Textiles,Micro,Not Strong,0.010358014516532421,0.0018173427559197177,False
+THYROCARE,Thyrocare Technologies Limited,Healthcare Service Provider,Healthcare,Small,Not Strong,0.3611567057669163,0.14897821961798827,False
+TIL,TIL Limited,Construction Vehicles,Capital Goods,Small,Not Strong,0.014283014368265868,0.0037693645294554763,False
+TIMESGTY,Times Guaranty Limited,Non Banking Financial Company (NBFC),Financial Services,Micro,Not Strong,0.011084907250478863,0.0018976020200496318,False
+TIMKEN,Timken India Limited,Abrasives & Bearings,Capital Goods,Large,Strong,0.7862349486351013,0.15595168996524308,False
+TIPSFILMS,Tips Films Limited,Film Production Distribution & Exhibition,Media Entertainment & Publication,Micro,Not Strong,0.07937144227325917,0.029179373344933528,False
+TIRUPATIFL,Tirupati Forge Limited,Castings & Forgings,Capital Goods,Micro,Not Strong,0.013885066341608764,0.003341293293422512,False
+TOKYOPLAST,Tokyo Plast International Limited,Plastic Products - Consumer,Consumer Durables,Micro,Not Strong,0.010454873479902744,0.001596009133231155,False
+TOLINS,Tolins Tyres Limited,Tyres & Rubber Products,Automobile and Auto Components,Small,Not Strong,0.011195135656744242,0.0019261521825719625,False
+TOTAL,Total Transport Systems Limited,Logistics Solution Provider,Services,Micro,Not Strong,0.007782380804419517,0.0012204866210342074,False
+TOUCHWOOD,Touchwood Entertainment Limited,Other Consumer Services,Consumer Services,Micro,Not Strong,0.007215198902413249,0.0007524096527664077,False
+TFCILTD,Tourism Finance Corporation of India Limited,Financial Institution,Financial Services,Small,Not Strong,0.05950253129005432,0.01833000752556368,False
+TPLPLASTEH,TPL Plastech Limited,Packaging,Capital Goods,Small,Not Strong,0.015803323946893214,0.0045096446253723495,False
+TRACXN,Tracxn Technologies Limited,Data Processing Services,Services,Small,Not Strong,0.0784785035252571,0.025325788416493494,False
+TARIL,Transformers And Rectifiers (India) Limited,Heavy Electrical Equipment,Capital Goods,Mid,Not Strong,0.5606676425039768,0.21082557770239946,False
+TREL,Transindia Real Estate Limited,Logistics Solution Provider,Services,Small,Not Strong,0.04503394652158022,0.012598881988803507,False
+TCI,Transport Corporation of India Limited,Logistics Solution Provider,Services,Mid,Not Strong,0.4419501107931137,0.143512595594471,False
+TFL,Transwarranty Finance Limited,Non Banking Financial Company (NBFC),Financial Services,Micro,Not Strong,0.016423951331526042,0.0031924847618501604,False
+TRANSWORLD,TRANSWORLD SHIPPING LINES LIMITED,Shipping,Services,Small,Not Strong,0.02201915267854929,0.0042250830912631005,False
+TREEHOUSE,Tree House Education & Accessories Limited,Education,Consumer Services,Micro,Not Strong,0.01042169631458819,0.0017669942373039695,False
+TREJHARA,TREJHARA SOLUTIONS LIMITED,Computers - Software & Consulting,Information Technology,Micro,Not Strong,0.013232235871255398,0.0026533456187899204,False
+TRF,TRF Limited,Industrial Products,Capital Goods,Micro,Not Strong,0.011473436988890171,0.002135157952196516,False
+TBZ,Tribhovandas Bhimji Zaveri Limited,Gems Jewellery And Watches,Consumer Durables,Small,Not Strong,0.10240615591406822,0.04451557754779878,False
+TRIGYN,Trigyn Technologies Limited,Computers - Software & Consulting,Information Technology,Micro,Not Strong,0.0240117084980011,0.007366477902471114,False
+TRIVENI,Triveni Engineering & Industries Limited,Sugar,Fast Moving Consumer Goods,Mid,Strong,0.867287889122963,0.13288548928749996,True
+TRU,TruCap Finance Limited,Non Banking Financial Company (NBFC),Financial Services,Small,Not Strong,0.02546434845775366,0.005863210240459964,False
+TTKHLTCARE,TTK Healthcare Limited,Diversified,Diversified,Small,Not Strong,0.037253406345844266,0.012318671315394193,False
+TTKPRESTIG,TTK Prestige Limited,Household Appliances,Consumer Durables,Mid,Not Strong,0.5820856407284737,0.18474278972198543,False
+TVTODAY,TV Today Network Limited,TV Broadcasting & Software Production,Media Entertainment & Publication,Small,Not Strong,0.10197178311645985,0.044358808980495025,False
+TVSELECT,TVS Electronics Limited,Computers Hardware & Equipments,Information Technology,Small,Not Strong,0.01742758272215724,0.005135516904623989,False
+TVSHLTD,TVS Holdings Limited,Investment Company,Financial Services,Large,Strong,0.7980024638772011,0.18230217052096456,False
+TVSSRICHAK,TVS Srichakra Limited,Tyres & Rubber Products,Automobile and Auto Components,Small,Not Strong,0.17643025889992714,0.06438234414881286,False
+TICL,Twamev Construction and Infrastructure Limited,Civil Construction,Construction,Small,Not Strong,0.02511938411742449,0.005578790753216683,False
+UYFINCORP,U. Y. Fincorp Limited,Non Banking Financial Company (NBFC),Financial Services,Micro,Not Strong,0.009208491211757064,0.0011734597225919988,False
+UCAL,UCAL LIMITED,Auto Components & Equipments,Automobile and Auto Components,Micro,Not Strong,0.1046445319801569,0.047699435974706855,False
+UCOBANK,UCO Bank,Public Sector Bank,Financial Services,Large,Not Strong,0.7009415581822396,0.19641172671272183,False
+UDAICEMENT,Udaipur Cement Works Limited,Cement & Cement Products,Construction Materials,Small,Not Strong,0.10031455621123314,0.04672595113727517,False
+USK,Udayshivakumar Infra Limited,Civil Construction,Construction,Micro,Not Strong,0.008751677526161074,0.0011143568158927637,False
+UFLEX,UFLEX Limited,Packaging,Capital Goods,Small,Not Strong,0.3943187752366066,0.17948821094904402,False
+UFO,UFO Moviez India Limited,Film Production Distribution & Exhibition,Media Entertainment & Publication,Micro,Not Strong,0.01598052430897951,0.0034583786103839827,False
+UGROCAP,Ugro Capital Limited,Non Banking Financial Company (NBFC),Financial Services,Small,Not Strong,0.09890000090003014,0.04527626882712363,False
+UMAEXPORTS,Uma Exports Limited,Trading & Distributors,Services,Micro,Not Strong,0.017936010248959064,0.004764593890584154,False
+UMANGDAIRY,Umang Dairies Limited,Dairy Products,Fast Moving Consumer Goods,Micro,Not Strong,0.01067830689251423,0.0019742240391230695,False
+UNICHEMLAB,Unichem Laboratories Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.3077343237400055,0.12702306345546868,False
+UNIECOM,Unicommerce Esolutions Limited,Software Products,Information Technology,Small,Not Strong,0.07374665640294552,0.022282910464130348,False
+UNIINFO,Uniinfo Telecom Services Limited,Other Telecom Services,Telecommunication,Micro,Not Strong,0.008999546617269516,0.0013102107818018965,False
+UNIPARTS,Uniparts India Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.11902951426804066,0.04275013693514528,False
+UNIENTER,Uniphos Enterprises Limited,Trading - Chemicals,Chemicals,Small,Not Strong,0.025283799134194852,0.005840576734922866,False
+UNIDT,United Drilling Tools Limited,Industrial Products,Capital Goods,Micro,Not Strong,0.009729846334084868,0.0015098504136251967,False
+UNITEDTEA,The United Nilgiri Tea Estates Company Limited,Tea & Coffee,Fast Moving Consumer Goods,Micro,Not Strong,0.010261498782783747,0.0015632339074333405,False
+UNITEDPOLY,United Polyfab Gujarat Limited,Other Textile Products,Textiles,Micro,Not Strong,0.008792356988415122,0.001338088170848947,False
+UNIVASTU,Univastu India Limited,Civil Construction,Construction,Micro,Not Strong,0.009678388368338347,0.0014723208432808328,False
+UNIVCABLES,Universal Cables Limited,Cables - Electricals,Capital Goods,Small,Not Strong,0.14962944269180298,0.05213390717289921,False
+UNIVPHOTO,Universus Photo Imagings Limited,Consumer Electronics,Consumer Durables,Micro,Not Strong,0.020741229578852653,0.005425287551103678,False
+UDS,Updater Services Limited,Diversified Commercial Services,Services,Small,Not Strong,0.11824747413396836,0.0465431443892866,False
+URAVIDEF,Uravi Defence and Technology Limited,Auto Components & Equipments,Automobile and Auto Components,Micro,Not Strong,0.011989117935299873,0.0023713836792605735,False
+URJA,Urja Global Limited,Other Electrical Equipment,Capital Goods,Small,Not Strong,0.029333079755306243,0.006701318743651156,False
+UMESLTD,Usha Martin Education & Solutions Limited,E-Learning,Consumer Services,Micro,Not Strong,0.01901371544227004,0.0026946665108347452,False
+USHAMART,Usha Martin Limited,Iron & Steel Products,Capital Goods,Mid,Not Strong,0.6557012298703193,0.20112969955307428,False
+UTIAMC,UTI Asset Management Company Limited,Asset Management Company,Financial Services,Mid,Not Strong,0.6980078357458115,0.20035453433037487,False
+UTKARSHBNK,Utkarsh Small Finance Bank Limited,Other Bank,Financial Services,Small,Not Strong,0.3387286910414696,0.09525133934616646,False
+UTTAMSUGAR,Uttam Sugar Mills Limited,Sugar,Fast Moving Consumer Goods,Small,Not Strong,0.04696325942873955,0.01398925034284079,False
+VGUARD,V-Guard Industries Limited,Household Appliances,Consumer Durables,Mid,Strong,0.7554067122936249,0.17049765595634586,False
+VADILALIND,Vadilal Industries Limited,Dairy Products,Fast Moving Consumer Goods,Small,Not Strong,0.22118712857365608,0.09535088819264262,False
+VAISHALI,Vaishali Pharma Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.024023284018039704,0.007046010302955765,False
+VAKRANGEE,Vakrangee Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.04573052506893873,0.014221398479345124,False
+VALIANTLAB,Valiant Laboratories Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.029066967554390432,0.009132487123962902,False
+VALIANTORG,Valiant Organics Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.020393327325582505,0.006213664707565612,False
+DBREALTY,Valor Estate Limited,Hotels & Resorts,Consumer Services,Mid,Not Strong,0.6769951832294464,0.1619624603200626,False
+VARDHACRLC,Vardhman Acrylics Limited,Other Textile Products,Textiles,Micro,Not Strong,0.02712461082264781,0.00701754774741567,False
+VHL,Vardhman Holdings Limited,Investment Company,Financial Services,Small,Not Strong,0.10682836443185806,0.03993173695100746,False
+VARDMNPOLY,Vardhman Polytex Limited,Other Textile Products,Textiles,Small,Not Strong,0.01629558527842164,0.0034530836509041396,False
+VSSL,Vardhman Special Steels Limited,Iron & Steel Products,Capital Goods,Small,Not Strong,0.1074247033149004,0.03903734175539969,False
+VTL,Vardhman Textiles Limited,Other Textile Products,Textiles,Mid,Not Strong,0.6984991478919983,0.17847161019073834,False
+VASCONEQ,Vascon Engineers Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.06647910252213478,0.026120332147215968,False
+VASWANI,Vaswani Industries Limited,Sponge Iron,Metals & Mining,Micro,Not Strong,0.008087056931108236,0.0011575258306324686,False
+VCL,Vaxtex Cotfab Limited,Other Textile Products,Textiles,Micro,Not Strong,0.01743032954633236,0.0037814525685277564,False
+MANYAVAR,Vedant Fashions Limited,Speciality Retail,Consumer Services,Large,Not Strong,0.7087651869654655,0.21868360217492608,False
+VEEDOL,Veedol Corporation Limited,Lubricants,Oil Gas & Consumable Fuels,Small,Not Strong,0.21655994579195975,0.0981699941470209,False
+VENKEYS,Venky's (India) Limited,Meat Products including Poultry,Fast Moving Consumer Goods,Small,Not Strong,0.1715347322821617,0.07151584016264836,False
+VENUSREM,Venus Remedies Limited,Pharmaceuticals,Healthcare,Micro,Not Strong,0.010134350610896944,0.0019046854274099511,False
+VERANDA,Veranda Learning Solutions Limited,E-Learning,Consumer Services,Small,Not Strong,0.06987730555236339,0.022593623109226777,False
+VERTOZ,Vertoz Limited,Advertising & Media Agencies,Media Entertainment & Publication,Mid,Not Strong,0.39450647071003914,0.17159345841335974,False
+VETO,Veto Switchgears And Cables Limited,Consumer Electronics,Consumer Durables,Micro,Not Strong,0.008561402186751365,0.0012772092388613602,False
+VSTL,Vibhor Steel Tubes Limited,Iron & Steel Products,Capital Goods,Micro,Not Strong,0.01379559388384223,0.0028000719248945493,False
+VIDHIING,Vidhi Specialty Food Ingredients Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.07463496088981629,0.026527890107457274,False
+VIJAYA,Vijaya Diagnostic Centre Limited,Healthcare Service Provider,Healthcare,Mid,Not Strong,0.6756786030530929,0.1953747885230468,False
+VIJIFIN,Viji Finance Limited,Non Banking Financial Company (NBFC),Financial Services,Micro,Not Strong,0.016153655033558607,0.003168675287998523,False
+VIKASECO,Vikas EcoTech Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.03017528347671032,0.008289925141337388,False
+VIKASLIFE,Vikas Lifecare Limited,Trading & Distributors,Services,Small,Not Strong,0.04147533640265465,0.013088755186483548,False
+VIMTALABS,Vimta Labs Limited,Healthcare Research Analytics & Technology,Healthcare,Small,Not Strong,0.2514311347901821,0.10233829630627236,False
+VINATIORGA,Vinati Organics Limited,Specialty Chemicals,Chemicals,Mid,Not Strong,0.5784174141287803,0.18991960156436488,False
+VINDHYATEL,Vindhya Telelinks Limited,Telecom - Infrastructure,Telecommunication,Small,Not Strong,0.12047180034220219,0.05968850760692883,False
+VINEETLAB,Vineet Laboratories Limited,Pharmaceuticals,Healthcare,Micro,Not Strong,0.008744020266458392,0.0013038902485422155,False
+VINNY,Vinny Overseas Limited,Garments & Apparels,Textiles,Micro,Not Strong,0.01579643115401268,0.0035449944776482873,False
+VINCOFE,Vintage Coffee And Beverages Limited,Trading & Distributors,Services,Small,Not Strong,0.024050961639732124,0.006451859788137036,False
+VINYLINDIA,Vinyl Chemicals (India) Limited,Trading - Chemicals,Chemicals,Small,Not Strong,0.04772101804614067,0.015207813665803932,False
+VIPCLOTHNG,VIP Clothing Limited,Garments & Apparels,Textiles,Micro,Not Strong,0.01434909574687481,0.003023260758194641,False
+VIPULLTD,Vipul Limited,Residential Commercial Projects,Realty,Small,Not Strong,0.026996157970279454,0.00709693096463777,False
+VIRINCHI,Virinchi Limited,Software Products,Information Technology,Micro,Not Strong,0.021102491989731787,0.004704007085363779,False
+VIVIDHA,Visagar Polytex Limited,Garments & Apparels,Textiles,Micro,Not Strong,0.012484886767342687,0.002359586876772982,False
+VISAKAIND,Visaka Industries Limited,Cement & Cement Products,Construction Materials,Small,Not Strong,0.042918948717415334,0.014041892200159044,False
+VISHNU,Vishnu Chemicals Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.2676234917342663,0.11338047039331105,False
+VPRPL,Vishnu Prakash R Punglia Limited,Civil Construction,Construction,Small,Not Strong,0.2980439519882202,0.12650052649527094,False
+VISHWARAJ,Vishwaraj Sugar Industries Limited,Sugar,Fast Moving Consumer Goods,Micro,Not Strong,0.04216749906539917,0.011586769136013924,False
+VLEGOV,VL E-Governance & IT Solutions Limited,IT Enabled Services,Information Technology,Small,Not Strong,0.04003064092248678,0.011140559828651142,False
+VLSFINANCE,VLS Finance Limited,Investment Company,Financial Services,Small,Not Strong,0.06737120777368545,0.02059843491476239,False
+VRAJ,Vraj Iron and Steel Limited,Sponge Iron,Metals & Mining,Small,Not Strong,0.012452446585521103,0.002681992791251601,False
+VRLLOG,VRL Logistics Limited,Logistics Solution Provider,Services,Small,Not Strong,0.3630958178639412,0.13653111130120277,False
+VSTTILLERS,V.S.T Tillers Tractors Limited,Tractors,Capital Goods,Small,Not Strong,0.3439139638841152,0.14243243954089077,False
+WSI,W S Industries (I) Limited,Civil Construction,Construction,Small,Not Strong,0.023387500457465647,0.006912068263262873,False
+WALCHANNAG,Walchandnagar Industries Limited,Industrial Products,Capital Goods,Small,Not Strong,0.15774888977408408,0.0498777231151433,False
+WANBURY,Wanbury Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.023338266611099244,0.005967489639656687,False
+WEWIN,WE WIN LIMITED,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),Services,Micro,Not Strong,0.00800266657024622,0.0008419631499126936,False
+WEALTH,Wealth First Portfolio Managers Limited,Other Financial Services,Financial Services,Small,Not Strong,0.019524879418313504,0.004330568175778077,False
+WEIZMANIND,Weizmann Limited,Other Textile Products,Textiles,Micro,Not Strong,0.00818546268157661,0.0010342368992057802,False
+WELINV,Welspun Investments and Commercials Limited,Investment Company,Financial Services,Micro,Not Strong,0.012981514558196067,0.0020835804918572605,False
+WENDT,Wendt (India) Limited,Abrasives & Bearings,Capital Goods,Small,Not Strong,0.134971564039588,0.05744179694994,False
+WSTCSTPAPR,West Coast Paper Mills Limited,Paper & Paper Products,Forest Materials,Small,Not Strong,0.47448272109031675,0.1717478976018103,False
+WCIL,Western Carriers (India) Limited,Logistics Solution Provider,Services,Small,Not Strong,0.029913692083209754,0.008930100993175991,False
+WESTLIFE,WESTLIFE FOODWORLD LIMITED,Restaurants,Consumer Services,Mid,Not Strong,0.6191461545228958,0.19360981343103406,False
+WHEELS,Wheels India Limited,Auto Components & Equipments,Automobile and Auto Components,Small,Not Strong,0.07286280930042267,0.03645010902243393,False
+WHIRLPOOL,Whirlpool of India Limited,Household Appliances,Consumer Durables,Large,Strong,0.7989362421631813,0.20485297754217,False
+WILLAMAGOR,Williamson Magor & Company Limited,Investment Company,Financial Services,Micro,Not Strong,0.024936416801065207,0.007896314299835623,False
+WINDLAS,Windlas Biotech Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.2883887083828449,0.11144893065988878,False
+WINDMACHIN,Windsor Machines Limited,Industrial Products,Capital Goods,Small,Not Strong,0.13693991117179394,0.0448142963427624,False
+WOCKPHARMA,Wockhardt Limited,Pharmaceuticals,Healthcare,Mid,Not Strong,0.7199726331233979,0.17244551819865087,False
+WEL,Wonder Electricals Limited,Household Appliances,Consumer Durables,Mid,Not Strong,0.6231205922365188,0.1830684306921615,False
+WORTH,Worth Peripherals Limited,Packaging,Capital Goods,Micro,Not Strong,0.01171564812771976,0.0021914616509417,False
+XCHANGING,Xchanging Solutions Limited,Computers - Software & Consulting,Information Technology,Small,Not Strong,0.050121997855603694,0.011885627158177786,False
+XELPMOC,Xelpmoc Design And Tech Limited,Software Products,Information Technology,Micro,Not Strong,0.011030420446768403,0.0018421091975709624,False
+XPROINDIA,Xpro India Limited,Packaging,Capital Goods,Small,Not Strong,0.03575892146676779,0.009913496533145393,False
+XTGLOBAL,Xtglobal Infotech Limited,Computers - Software & Consulting,Information Technology,Small,Not Strong,0.010261870352551342,0.0015452207934602907,False
+YAARI,Yaari Digital Integrated Services Limited,Diversified Commercial Services,Services,Micro,Not Strong,0.015740815810859204,0.0031360791354803582,False
+YASHO,Yasho Industries Limited,Specialty Chemicals,Chemicals,Small,Not Strong,0.07905873864889144,0.03284993763820201,False
+YATRA,Yatra Online Limited,Tour Travel Related Services,Consumer Services,Small,Not Strong,0.08875812008976937,0.03298769223912864,False
+YUKEN,Yuken India Limited,Compressors Pumps & Diesel Engines,Capital Goods,Small,Not Strong,0.016306329499930144,0.0033492287430301835,False
+ZEEL,Zee Entertainment Enterprises Limited,TV Broadcasting & Software Production,Media Entertainment & Publication,Mid,Strong,0.7906941542029381,0.18098386035205988,False
+ZEELEARN,Zee Learn Limited,Education,Consumer Services,Micro,Not Strong,0.017066967952996493,0.003300992417731934,False
+ZEEMEDIA,Zee Media Corporation Limited,TV Broadcasting & Software Production,Media Entertainment & Publication,Small,Not Strong,0.09003666192293167,0.02975474425336032,False
+ZENITHEXPO,Zenith Exports Limited,Leather And Leather Products,Consumer Durables,Micro,Not Strong,0.010707821808755397,0.002478853641806315,False
+ZENITHSTL,Zenith Steel Pipes & Industries Limited,Iron & Steel Products,Capital Goods,Micro,Not Strong,0.012746828421950341,0.0019097228568268278,False
+ZFCVINDIA,ZF Commercial Vehicle Control Systems India Limited,Auto Components & Equipments,Automobile and Auto Components,Large,Strong,0.8209913015365601,0.14991683277086093,True
+ZIMLAB,Zim Laboratories Limited,Pharmaceuticals,Healthcare,Small,Not Strong,0.028679765183478593,0.006943225856811523,False
+ZODIACLOTH,Zodiac Clothing Company Limited,Garments & Apparels,Textiles,Micro,Not Strong,0.013488683961331844,0.0022582234079104734,False
+ZODIAC,Zodiac Energy Limited,Civil Construction,Construction,Small,Not Strong,0.010837289746850729,0.0014760908449082033,False
+ZOTA,Zota Health Care LImited,Pharmaceuticals,Healthcare,Small,Not Strong,0.0345749494433403,0.013727267631466564,False
+ZUARI,Zuari Agro Chemicals Limited,Fertilizers,Chemicals,Small,Not Strong,0.2125150091946125,0.08098741888535675,False
+ZUARIIND,ZUARI INDUSTRIES LIMITED,Sugar,Fast Moving Consumer Goods,Small,Not Strong,0.04908241432160139,0.016433065849550673,False

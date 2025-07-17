@@ -1,0 +1,6 @@
+symbol,company_name,company_industry,sector,market_cap_category,confidence_score,uncertainty,high_confidence,sharpe_ratio,return_on_equity,profit_margin,year_change_percent
+MAWANASUG,Mawana Sugars Limited,Sugar,Fast Moving Consumer Goods,Micro,0.7379453334212304,0.15702214703828943,True,0.0545,0.40686775732788,0.04326631207922945,-5.41
+JAYSREETEA,Jayshree Tea & Industries Limited,Tea & Coffee,Fast Moving Consumer Goods,Micro,0.7317996138334274,0.1737562042620416,True,0.0431,2.1941366574330563,0.13601110411539122,-9.09
+IFBAGRO,IFB Agro Industries Limited,Breweries & Distilleries,Fast Moving Consumer Goods,Micro,0.6650583399832248,0.18460384159231058,True,0.5194,0.7723230167200286,0.018337387661328468,10.97
+RUCHIRA,Ruchira Papers Limited,Paper & Paper Products,Forest Materials,Micro,0.6597753475606442,0.15877940516321962,True,0.2146,0.5464935500083766,0.09834334782580732,1.63
+BHAGYANGR,Bhagyanagar India Limited,Copper,Metals & Mining,Micro,0.6139796398580074,0.1841524829623328,True,-1.0037,0.49173308329426474,0.008056455098307904,-39.51
